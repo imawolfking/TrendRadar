@@ -1,6 +1,7 @@
 DeepSeek
 化工
 大宗商品
+政策
 谷歌
 google
 gemini
