@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T12:30:02.243279+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2025-10-19T13:24:27.010945+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -85,8 +85,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -100,11 +111,12 @@
             15,
             22,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -112,22 +124,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
-        },
-        {
-          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
-          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
@@ -151,11 +153,39 @@
             10,
             17,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时19分 ~ 12时30分]"
+          "appearance_count": 9,
+          "time_info": "[03时19分 ~ 13时24分]"
+        },
+        {
+          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
+          "url": "https://wallstreetcn.com/livenews/2990101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时21分 ~ 13时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
@@ -169,16 +199,26 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
+          "title": "特朗普三戏泽连斯基",
+          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
           "source": "凤凰网",
           "ranks": [
-            1,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时24分]"
+        },
+        {
+          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
+          "url": "https://v.ifeng.com/c/8nZizwGdefr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时24分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -195,53 +235,18 @@
           "time_info": "[04时25分 ~ 11时22分]"
         },
         {
-          "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
-          "url": "https://wallstreetcn.com/livenews/2990101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时21分 ~ 12时30分]"
-        },
-        {
           "title": "特朗普称美军摧毁一大型潜艇",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%91%A7%E6%AF%81%E4%B8%80%E5%A4%A7%E5%9E%8B%E6%BD%9C%E8%89%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D18%26pos%3D19%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E7%25BE%258E%25E5%2586%259B%25E6%2591%25A7%25E6%25AF%2581%25E4%25B8%2580%25E5%25A4%25A7%25E5%259E%258B%25E6%25BD%259C%25E8%2589%2587%2523%26cate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D18%26dgr%3D0%26lcate%3D5001%26display_time%3D1760839024%26pre_seqid%3D176083902474802728933104",
           "source": "微博",
           "ranks": [
             18,
             2,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 12时30分]"
-        },
-        {
-          "title": "特朗普三戏泽连斯基",
-          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
-        },
-        {
-          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
-          "url": "https://v.ifeng.com/c/8nZizwGdefr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 13时24分]"
         },
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -252,8 +257,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时24分]"
+        },
+        {
+          "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
+          "url": "https://flash.jin10.com/detail/20251019122453389800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "特朗普政府“调整”关税策略",
@@ -268,15 +284,18 @@
           "time_info": "[11时22分 ~ 12时30分]"
         },
         {
-          "title": "特朗普发AI视频挑衅抗议者",
-          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "title": "韩企掌门与特朗普打高球 是否谈投资和关税引关注",
+          "url": "https://flash.jin10.com/detail/20251019092957862800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14,
+            19,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时24分]"
         },
         {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
@@ -284,24 +303,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时30分]"
-        },
-        {
-          "title": "韩企掌门与特朗普打高球 是否谈投资和关税引关注",
-          "url": "https://flash.jin10.com/detail/20251019092957862800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            19
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时30分]"
+          "time_info": "[11时22分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时24分]"
         },
         {
           "title": "特朗普和泽连斯基的会谈气氛很紧张",
@@ -321,11 +340,24 @@
           "source": "金十数据",
           "ranks": [
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普极限施压为何总在中国面前熄火",
+          "url": "https://www.toutiao.com/trending/7562720619259760178/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时24分]"
         },
         {
           "title": "特朗普建议俄乌以现在战线为准停火",
@@ -361,15 +393,15 @@
           "time_info": "[12时29分 ~ 12时30分]"
         },
         {
-          "title": "特朗普极限施压为何总在中国面前熄火",
-          "url": "https://www.toutiao.com/trending/7562720619259760178/",
-          "source": "今日头条",
+          "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
+          "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
+          "source": "凤凰网",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "韩4大集团CEO同赴特朗普“鸿门宴”",
@@ -408,8 +440,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
@@ -434,11 +466,12 @@
             2,
             11,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
@@ -449,20 +482,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
-        },
-        {
-          "title": "英伟达退出中国,老黄炮轰美政策",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345930&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%2C%E8%80%81%E9%BB%84%E7%82%AE%E8%BD%B0%E7%BE%8E%E6%94%BF%E7%AD%96",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "【早报】何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话；闻泰科技回应“系统被全面切断”",
@@ -473,8 +494,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 13时24分]"
+        },
+        {
+          "title": "英伟达退出中国,老黄炮轰美政策",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345930&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%2C%E8%80%81%E9%BB%84%E7%82%AE%E8%BD%B0%E7%BE%8E%E6%94%BF%E7%AD%96",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
@@ -495,11 +529,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时24分]"
         }
       ]
     },
@@ -517,8 +552,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -551,11 +586,12 @@
           "ranks": [
             7,
             16,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时24分]"
         }
       ]
     },
@@ -575,8 +611,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -599,17 +635,18 @@
           "source": "今日头条",
           "ranks": [
             4,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 13时24分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗谴责以色列违反加沙停火协议，并批评其拒绝履行重新开放拉法口岸的承诺",
@@ -621,11 +658,12 @@
             5,
             12,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时19分 ~ 12时30分]"
+          "appearance_count": 9,
+          "time_info": "[03时19分 ~ 13时24分]"
         },
         {
           "title": "伊朗副外长：协议规定的期限和施加的限制到期后，伊朗将摆脱安理会实施的制裁。",
@@ -637,6 +675,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗谴责以色列违反加沙停火协议",
+          "url": "https://www.toutiao.com/trending/7561596444025618486/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
