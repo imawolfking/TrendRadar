@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T12:31:38.767740+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-10-20T13:26:12.507997+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,36 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
+          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时26分]"
+        },
+        {
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时26分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -72,22 +100,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时31分]"
-        },
-        {
           "title": "特朗普对华服软,关税讹诈玩不转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
           "source": "贴吧",
@@ -97,8 +109,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时26分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -154,17 +166,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
-          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
         },
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -435,7 +436,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -449,6 +450,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时26分]"
         },
         {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
@@ -477,6 +503,18 @@
           "time_info": "[09时58分 ~ 11时21分]"
         },
         {
+          "title": "特朗普被曝与泽连斯基再度激烈争吵",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 13时26分]"
+        },
+        {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
           "url": "https://flash.jin10.com/detail/20251019204809018800",
           "source": "金十数据",
@@ -486,31 +524,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时31分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -547,18 +560,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普被曝与泽连斯基再度激烈争吵",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
         },
         {
           "title": "8 个月内泽连斯基三访白宫，他与特朗普谈了什么？美国会提供「战斧」吗？俄乌局势转折点将至？",
@@ -610,7 +611,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "周末要闻汇总：何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话；又见中小银行密集下调存款利率",
@@ -656,96 +657,126 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：从经济正处于迎来“真正曙光”的边缘这一角度来看，日本央行在实施货币政策时必须分几个阶段逐步“换挡”。",
           "url": "https://flash.jin10.com/detail/20251020120556700800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：美联储重启降息可能限制日本央行的政策灵活性，但此次并非如此，因为美联储此次降息是出于风险管理的考虑，而非担忧经济衰退。",
           "url": "https://flash.jin10.com/detail/20251020120251778800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：我们需要在假设日本央行价格目标已实现的前提下，讨论货币政策。",
           "url": "https://flash.jin10.com/detail/20251020120050869800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "国开新型政策性金融工具投放近1900亿元",
           "url": "https://wallstreetcn.com/livenews/2990419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：我们需要在假设日本央行物价目标已经实现的前提下讨论货币政策。 美联储恢复降息本可能会限制日本央行的政策灵活性，但这次情况并非如此，因为美联储降息是出于风险管理的角度，而非担心经济衰退。 日本正出现通胀的“第二轮效应”可能扩大的条件。 从经济即将迎来“真正的黎明”的角度来看，日本央行必须在实施货币政策时，分几个阶段逐步“转换档位”。",
           "url": "https://wallstreetcn.com/livenews/2990417",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：整体而言，海外经济正温和增长。 目前来看，关税对美国经济的影响可能有限，包括对家庭和企业信心的影响；美国经济不太可能遭受急剧下滑。 10 月份的短观调查以及日本央行地区分行行长会议的报告均显示，日本经济没有因关税而出现重大放缓。 我之前尤其担心美国政策带来的市场大幅波动风险，但美国经济避免了衰退，日元走弱而非走强。 此前可能抑制日本增长的海外贸易政策因素并未对日本经济造成太大压力。",
           "url": "https://wallstreetcn.com/livenews/2990413",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：现在是提高政策利率的好时机。 最初对关税影响的担忧已经减弱。 必须警惕日本通胀可能超过预期的风险。 我认为日本央行必须在通胀目标已大致实现的假设下与市场进行沟通。 我认为日本央行必须对总体通胀已超过2%达三年半之久这一事实做出反应。 即使实现通胀目标在望，当前的货币政策仍保持宽松。 日本央行的缩减购债（Taper）过程必须谨慎，需要时间。 日本就业和收入状况改善支撑了消费，这一观点未变。 日本已大致实现日本央行的物价目标。",
           "url": "https://wallstreetcn.com/livenews/2990410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "日本央行审议委员高田创：尽管通胀目标的实现已指日可待，但货币政策仍保持宽松态势。",
           "url": "https://flash.jin10.com/detail/20251020115202474800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普政策会走向何方",
+          "url": "https://www.toutiao.com/trending/7563147692252073508/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
+        },
+        {
+          "title": "港股三桶油午后持续走强，中国石油股份涨超5%，中国海洋石油涨近2%，中国石油化工股份涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2990437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "13时26分"
         }
       ]
     },
@@ -781,6 +812,19 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB+%E5%A4%9A%E5%90%8D%E9%83%A8%E6%97%8F%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 13时26分]"
+        },
+        {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
           "url": "https://flash.jin10.com/detail/20251019211835771800",
           "source": "金十数据",
@@ -790,6 +834,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时19分]"
+        },
+        {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -815,29 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 11时21分]"
-        },
-        {
-          "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB+%E5%A4%9A%E5%90%8D%E9%83%A8%E6%97%8F%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
-        },
-        {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     },
@@ -883,8 +916,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时26分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -911,9 +944,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时26分]"
         }
       ]
     }
