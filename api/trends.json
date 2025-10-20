@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T19:21:34.990017+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2025-10-20T20:51:42.111740+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 20时51分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -123,8 +123,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 20时51分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -140,8 +140,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 20时51分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -212,6 +212,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
+          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 20时51分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 20时51分]"
         },
         {
           "title": "特朗普证实美国不会向加沙地带派遣地面部队",
@@ -289,17 +312,6 @@
           "time_info": "[09时58分 ~ 11时21分]"
         },
         {
-          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
-          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 19时21分]"
-        },
-        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://news.ifeng.com/c/8naqHMsvJOK",
           "source": "凤凰网",
@@ -323,16 +335,15 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
+          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
+          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 19时21分]"
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时51分]"
         },
         {
           "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
@@ -554,17 +565,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
-          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
           "url": "https://www.douyin.com/hot/2276127",
           "source": "抖音",
@@ -573,8 +573,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 20时51分]"
         },
         {
           "title": "韩国和美国同意在特朗普访问期间签署贸易方面的谅解备忘录。（韩国每日经济新闻）",
@@ -687,6 +687,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普对印度下“关税通牒”",
+          "url": "https://www.toutiao.com/trending/7562277294450999342/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时51分]"
+        },
+        {
           "title": "8 个月内泽连斯基三访白宫，他与特朗普谈了什么？美国会提供「战斧」吗？俄乌局势转折点将至？",
           "url": "https://www.zhihu.com/question/1962826833562173906",
           "source": "知乎",
@@ -708,6 +720,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时51分]"
         },
         {
           "title": "特朗普称努力让美国变得伟大",
@@ -740,20 +764,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
         {
-          "title": "特朗普对印度下“关税通牒”",
-          "url": "https://www.toutiao.com/trending/7562277294450999342/",
-          "source": "今日头条",
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时51分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊在社交媒体平台上回应美国总统特朗普称美国摧毁了伊朗核工业的说法，表示“继续做梦吧”。",
@@ -762,7 +786,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -833,15 +857,15 @@
           "time_info": "17时28分"
         },
         {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
+          "title": "特朗普：美国可进口阿根廷牛肉以拉低国内肉价",
+          "url": "https://wallstreetcn.com/livenews/2990679",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时51分"
         },
         {
           "title": "特朗普：美方向以施压 加沙停火协议仍然有效",
@@ -864,12 +888,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "特朗普：将“派兵”旧金山让它“再次伟大” 加州州长：没人让你来",
+          "url": "https://wallstreetcn.com/livenews/2990659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "周末要闻汇总：何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话；又见中小银行密集下调存款利率",
@@ -919,8 +954,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 20时51分]"
         },
         {
           "title": "香港证监会：支持市场推动数字资产基金及代币化基金的监管合规",
@@ -929,7 +964,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1067,6 +1102,18 @@
           "time_info": "[12时31分 ~ 13时26分]"
         },
         {
+          "title": "OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！",
+          "url": "https://www.cls.cn/detail/2174516",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时51分]"
+        },
+        {
           "title": "日本央行审议委员高田创：整体而言，海外经济正温和增长。 目前来看，关税对美国经济的影响可能有限，包括对家庭和企业信心的影响；美国经济不太可能遭受急剧下滑。 10 月份的短观调查以及日本央行地区分行行长会议的报告均显示，日本经济没有因关税而出现重大放缓。 我之前尤其担心美国政策带来的市场大幅波动风险，但美国经济避免了衰退，日元走弱而非走强。 此前可能抑制日本增长的海外贸易政策因素并未对日本经济造成太大压力。",
           "url": "https://wallstreetcn.com/livenews/2990413",
           "source": "华尔街见闻-快讯",
@@ -1162,15 +1209,15 @@
           "time_info": "[13时25分 ~ 13时26分]"
         },
         {
-          "title": "OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！",
-          "url": "https://www.cls.cn/detail/2174516",
+          "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
+          "url": "https://www.cls.cn/detail/2174661",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时51分"
         },
         {
           "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
@@ -1179,9 +1226,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "9月北上杭等城市新房价格上涨，业内预测四季度楼市政策将继续托底核心城市成交量",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31811702",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
@@ -1193,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "摩根大通：将土耳其年底通胀预测上调至32.0%，此前为31.5%，并认为今年和明年的通胀和政策利率预测都存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251020201650675800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
@@ -1234,7 +1303,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1330,7 +1399,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
@@ -1342,11 +1411,12 @@
             17,
             15,
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时31分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 20时51分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -1468,15 +1538,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "伊朗称与美方间接接触仍在进行，正式谈判尚未开始",
+          "url": "https://wallstreetcn.com/livenews/2990676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1514,6 +1595,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前上涨4.2%，此前巴克莱上调其目标价。",
+          "url": "https://flash.jin10.com/detail/20251020203634138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "美股三大股指期货普涨，标普500指数期货上涨0.43%，纳斯达克100指数期货上涨0.54%，道指期货上涨0.35%。",
@@ -1574,7 +1666,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价涨了，印度人节日买金习惯变了",
@@ -1586,6 +1678,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "现货黄金价格一路上扬，突破4320美元/盎司，日内涨1.74%；纽约期金日内大涨3.00%，现报4339.70美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251020204318548800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -1622,11 +1725,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 20时51分]"
         }
       ]
     },
