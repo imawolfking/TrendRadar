@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T16:33:01.054594+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-10-20T17:28:42.942166+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 16时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 17时28分]"
         },
         {
           "title": "特朗普：对华征收100%关税对美经济“不能持久”",
@@ -101,20 +101,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 16时33分]"
-        },
-        {
           "title": "特朗普专机附近疑发现狙击狩猎台",
           "url": "https://www.toutiao.com/trending/7563020612747165715/",
           "source": "今日头条",
@@ -125,8 +111,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 16时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 17时28分]"
+        },
+        {
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            16,
+            17,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 17时28分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -184,6 +185,17 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
+          "title": "特朗普：不想伤害中国，愿意降低关税水平",
+          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时28分]"
+        },
+        {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
           "url": "https://wallstreetcn.com/livenews/2990221",
           "source": "华尔街见闻-快讯",
@@ -214,17 +226,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：不想伤害中国，愿意降低关税水平",
-          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -342,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "据韩国《每日经济新闻》：韩国和美国同意在特朗普访问期间签署贸易谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251020171504774800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
@@ -516,6 +528,28 @@
           "time_info": "07时22分"
         },
         {
+          "title": "韩国和美国同意在特朗普访问期间签署贸易方面的谅解备忘录。（韩国每日经济新闻）",
+          "url": "https://wallstreetcn.com/livenews/2990578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
+          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时28分]"
+        },
+        {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -528,6 +562,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时22分 ~ 12时31分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时28分]"
         },
         {
           "title": "美17州检察长起诉特朗普政府说明啥",
@@ -563,28 +609,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
-          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时33分]"
-        },
-        {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时33分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -725,6 +749,28 @@
           "time_info": "15时26分"
         },
         {
+          "title": "据日本时事通讯社：日本和美国政府计划在特朗普访问日本时安排关税协议的签字仪式。",
+          "url": "https://flash.jin10.com/detail/20251020164943352800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "特朗普与泽连斯基再度激烈争吵",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D19%26lcate%3D5001%26pos%3D20%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E5%2586%258D%25E5%25BA%25A6%25E6%25BF%2580%25E7%2583%2588%25E4%25BA%2589%25E5%2590%25B5%2523%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26realpos%3D19%26c_type%3D31%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1760952485%26pre_seqid%3D17609524851690355477766",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "特朗普：美方向以施压 加沙停火协议仍然有效",
           "url": "https://wallstreetcn.com/livenews/2990290",
           "source": "华尔街见闻-快讯",
@@ -736,13 +782,24 @@
           "time_info": "09时58分"
         },
         {
+          "title": "曝特朗普与泽连斯基再度激烈争吵",
+          "url": "https://www.douyin.com/hot/2276127",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "荷兰外交部长：（谈及可能在布达佩斯举行的特朗普与普京会谈时）关键是他们能够展开对话，最重要的是我们要有一个谈判的“平台”。",
           "url": "https://flash.jin10.com/detail/20251020153739649800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -750,7 +807,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "周末要闻汇总：何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话；又见中小银行密集下调存款利率",
@@ -794,22 +851,12 @@
             15,
             18,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 16时33分]"
-        },
-        {
-          "title": "华恒生物：发行境外上市股份（H股）备案申请材料获中国证监会接收。",
-          "url": "https://wallstreetcn.com/livenews/2990549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 17时28分]"
         },
         {
           "title": "日本央行审议委员高田创：从经济正处于迎来“真正曙光”的边缘这一角度来看，日本央行在实施货币政策时必须分几个阶段逐步“换挡”。",
@@ -822,6 +869,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时26分]"
+        },
+        {
+          "title": "华恒生物：发行境外上市股份（H股）备案申请材料获中国证监会接收。",
+          "url": "https://wallstreetcn.com/livenews/2990549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时28分]"
         },
         {
           "title": "日本央行审议委员高田创：美联储重启降息可能限制日本央行的政策灵活性，但此次并非如此，因为美联储此次降息是出于风险管理的考虑，而非担忧经济衰退。",
@@ -853,11 +912,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时28分]"
         },
         {
           "title": "港股三桶油午后持续走强，中国石油股份涨超5%，中国海洋石油涨近2%，中国石油化工股份涨超1%。",
@@ -882,6 +942,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时26分]"
+        },
+        {
+          "title": "和辉光电：发行境外上市外资股（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/2990535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时28分]"
         },
         {
           "title": "日本央行审议委员高田创：我们需要在假设日本央行物价目标已经实现的前提下讨论货币政策。 美联储恢复降息本可能会限制日本央行的政策灵活性，但这次情况并非如此，因为美联储降息是出于风险管理的角度，而非担心经济衰退。 日本正出现通胀的“第二轮效应”可能扩大的条件。 从经济即将迎来“真正的黎明”的角度来看，日本央行必须在实施货币政策时，分几个阶段逐步“转换档位”。",
@@ -943,15 +1015,59 @@
           "time_info": "[13时25分 ~ 13时26分]"
         },
         {
-          "title": "和辉光电：发行境外上市外资股（H股）获得中国证监会备案。",
-          "url": "https://wallstreetcn.com/livenews/2990535",
+          "title": "工信部：骨干企业要严格落实水泥产能置换、规范水泥产能等政策",
+          "url": "https://wallstreetcn.com/livenews/2990558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "17时28分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "据路透，消息人士称，日本央行可能会在10月的政策会议上小幅上调2025财年的经济增长预期。另外，尽管面临美国加征关税的阻力，日本央行预计仍将维持“经济正处于温和复苏轨道”的判断。",
+          "url": "https://wallstreetcn.com/livenews/2990555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
+          "url": "https://flash.jin10.com/detail/20251020164600924800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://flash.jin10.com/detail/20251020164457909800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：正就俄罗斯资产问题为比利时制定团结支援措施。",
@@ -965,6 +1081,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "消息人士：日本央行可能在10月的政策会议上小幅上调2025财年经济增长预期。",
+          "url": "https://flash.jin10.com/detail/20251020164309123800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：（谈及普京可能访问匈牙利布达佩斯时）这可不太好。",
           "url": "https://flash.jin10.com/detail/20251020133707320800",
           "source": "金十数据",
@@ -974,6 +1101,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "市场消息：日本首相候选人高市早苗计划对安全政策进行审查。",
+          "url": "https://flash.jin10.com/detail/20251020164101137800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "当地回应江苏一化工厂发生火灾",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26lcate%3D5001%26pos%3D25%26q%3D%2523%25E5%25BD%2593%25E5%259C%25B0%25E5%259B%259E%25E5%25BA%2594%25E6%25B1%259F%25E8%258B%258F%25E4%25B8%2580%25E5%258C%2596%25E5%25B7%25A5%25E5%258E%2582%25E5%258F%2591%25E7%2594%259F%25E7%2581%25AB%25E7%2581%25BE%2523%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26realpos%3D24%26c_type%3D31%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1760952485%26pre_seqid%3D17609524851690355477766",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：我们预计本周将通过第19轮对俄制裁措施，但今天不会。",
@@ -996,13 +1145,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "香港证监会：瑞银(UBS.N)因错误分类专业投资者遭证监会谴责及罚款800万港元。",
+          "url": "https://flash.jin10.com/detail/20251020163732853800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 17时28分]"
+        },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB+%E5%A4%9A%E5%90%8D%E9%83%A8%E6%97%8F%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3",
@@ -1020,20 +1195,6 @@
           "time_info": "[11时21分 ~ 16时33分]"
         },
         {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 16时33分]"
-        },
-        {
           "title": "伊朗克尔曼省发生4.3级地震",
           "url": "https://wallstreetcn.com/livenews/2990216",
           "source": "华尔街见闻-快讯",
@@ -1049,17 +1210,6 @@
           "time_info": "[03时19分 ~ 07时22分]"
         },
         {
-          "title": "伊朗革命卫队称将深化与胡塞武装合作",
-          "url": "https://wallstreetcn.com/livenews/2990546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "当地时间10月19日18时45分，伊朗东南部克尔曼省安巴拉巴德县发生里氏4.3级地震，震源深度10公里。",
           "url": "https://flash.jin10.com/detail/20251020030742560800",
           "source": "金十数据",
@@ -1070,6 +1220,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时22分]"
+        },
+        {
+          "title": "伊朗革命卫队称将深化与胡塞武装合作",
+          "url": "https://wallstreetcn.com/livenews/2990546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时28分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -1106,12 +1268,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 11时21分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：俄罗斯总统普京的特使今天下午将会见伊朗最高安全官员拉里贾尼。",
+          "url": "https://flash.jin10.com/detail/20251020170321896800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1145,9 +1318,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "亚马逊美股盘前转跌，现跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/2990560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
@@ -1156,9 +1340,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)美股盘前跌约0.4%，亚马逊云计算服务（AWS）表示，正在调查美国东部1区多个AWS服务中出现的错误率和延迟增加问题。",
+          "url": "https://flash.jin10.com/detail/20251020165037004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -1195,7 +1390,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -1210,11 +1405,12 @@
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时28分]"
         }
       ]
     },
