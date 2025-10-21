@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T15:26:27.586422+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-10-21T16:36:59.433763+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -46,21 +46,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "特朗普开飞机泼粪,美国再次味大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            3,
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
-        },
-        {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
           "url": "https://www.zhihu.com/question/1963528380650614990",
           "source": "知乎",
@@ -77,6 +62,22 @@
           "time_info": "[00时32分 ~ 09时50分]"
         },
         {
+          "title": "特朗普开飞机泼粪,美国再次味大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            3,
+            6,
+            8,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时36分]"
+        },
+        {
           "title": "泽连斯基与特朗普对骂",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D7%26cate%3D5001%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26realpos%3D7%26stream_entry_id%3D31%26pos%3D7%26dgr%3D0%26display_time%3D1760977308%26pre_seqid%3D17609773087240230111573",
           "source": "微博",
@@ -89,6 +90,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时36分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
@@ -151,17 +165,16 @@
           "time_info": "[00时32分 ~ 11时10分]"
         },
         {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
           "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            8
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 16时36分]"
         },
         {
           "title": "特朗普被印度气坏了：莫迪向我保证过",
@@ -176,15 +189,18 @@
           "time_info": "[09时50分 ~ 13时25分]"
         },
         {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
-          "source": "凤凰网",
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            17,
+            18,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 16时36分]"
         },
         {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
@@ -212,18 +228,15 @@
           "time_info": "[11时10分 ~ 14时36分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
+          "title": "特朗普称一年后美国稀土将多如牛毛",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26band_rank%3D5%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D5%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%25BE%258E%25E5%259B%25BD%25E7%25A8%2580%25E5%259C%259F%25E5%25B0%2586%25E5%25A4%259A%25E5%25A6%2582%25E7%2589%259B%25E6%25AF%259B%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1761031487%26pre_seqid%3D17610314875240230664101",
+          "source": "微博",
           "ranks": [
-            17,
-            18,
-            16,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时36分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -266,17 +279,6 @@
           "time_info": "[14时35分 ~ 14时36分]"
         },
         {
-          "title": "特朗普称一年后美国稀土将多如牛毛",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26band_rank%3D5%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D5%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%25BE%258E%25E5%259B%25BD%25E7%25A8%2580%25E5%259C%259F%25E5%25B0%2586%25E5%25A4%259A%25E5%25A6%2582%25E7%2589%259B%25E6%25AF%259B%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1761031487%26pre_seqid%3D17610314875240230664101",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
-        },
-        {
           "title": "特朗普计划明年初访华",
           "url": "https://www.toutiao.com/trending/7562415983688908836/",
           "source": "今日头条",
@@ -286,6 +288,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "特朗普又改口：从未说过乌克兰会赢",
+          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国银行业在向阿根廷提供200亿美元资金支持方面寻求抵押品。 美国银行业等待特朗普的财政部就签字抵押物出具指导意见。（华尔街日报）",
@@ -299,6 +323,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
           "url": "https://news.ifeng.com/c/8nd0y77vH3q",
           "source": "凤凰网",
@@ -310,6 +345,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时25分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普夸记者发型不错",
+          "url": "https://www.toutiao.com/trending/7562417676297142335/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年初访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "中方回应特朗普称明年将访华",
+          "url": "https://www.douyin.com/hot/2277574",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：波音公司表现不错。",
@@ -438,6 +506,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时10分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普对泽连斯基的态度发生怎样转变",
+          "url": "https://www.toutiao.com/trending/7563539201593970217/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时36分]"
         },
         {
           "title": "特朗普政府：澳洲养老基金对美投资未来十年将增约1万亿美元",
@@ -584,15 +664,15 @@
           "time_info": "[00时32分 ~ 01时23分]"
         },
         {
-          "title": "特朗普对泽连斯基的态度发生怎样转变",
-          "url": "https://www.toutiao.com/trending/7563539201593970217/",
-          "source": "今日头条",
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
           "ranks": [
-            23
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：有多个国家打电话给我，要求我进入加沙解决哈马斯问题。我们不会在加沙部署美国军队，已经有59个国家签署了这项协议。",
@@ -615,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普计划访华有何目的",
+          "url": "https://www.toutiao.com/trending/7563565242265898535/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：还没有要求以色列重新进入加沙。",
@@ -716,6 +807,28 @@
           "time_info": "11时10分"
         },
         {
+          "title": "特朗普政府“签协议换拨款”提议遇冷 首批9所大学有7所明确拒绝",
+          "url": "https://wallstreetcn.com/livenews/2991111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "外交部回应特朗普称明年初访华",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26band_rank%3D20%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2598%258E%25E5%25B9%25B4%25E5%2588%259D%25E8%25AE%25BF%25E5%258D%258E%2523%26pos%3D21%26lcate%3D5001%26display_time%3D1761035747%26pre_seqid%3D17610357477560230523404",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美国国务卿鲁比奥正在领导美国总统特朗普对委内瑞拉的施压行动。",
           "url": "https://flash.jin10.com/detail/20251021100055232800",
           "source": "金十数据",
@@ -747,6 +860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "特朗普为何放低身段寻求与普京对话",
+          "url": "https://www.toutiao.com/trending/7563569454789955082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：波音(BA.N)公司做得非常好。",
@@ -807,7 +931,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -838,8 +962,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时36分]"
         },
         {
           "title": "英伟达退出中国,老黄炮轰美政策",
@@ -864,8 +988,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 16时36分]"
+        },
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 16时36分]"
         },
         {
           "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
@@ -880,19 +1017,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时50分 ~ 15时26分]"
-        },
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 15时26分]"
         },
         {
           "title": "谷歌云任命Narain为首席产品兼商业官。",
@@ -1012,9 +1136,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "日立与OpenAI建立战略合作伙伴关系",
@@ -1034,7 +1169,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1067,7 +1202,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1119,7 +1254,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -1232,6 +1367,17 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "现货黄金向下触及4280美元/盎司，日内跌约1.8%。 现货白银日内跌幅扩大至4%，现报50.20美元/盎司。 美股黄金概念股盘前下跌，哈莫尼黄金、泛美白银跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/2991121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251021003251038800",
           "source": "金十数据",
@@ -1252,6 +1398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美股黄金概念股盘前下跌，科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、泛美白银(PAAS.O)下跌4%，纽曼矿业跌2.9%。",
+          "url": "https://flash.jin10.com/detail/20251021160618165800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -1282,11 +1439,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时36分]"
         },
         {
           "title": "金价大涨影响年轻人结婚",
@@ -1297,8 +1455,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 16时36分]"
         },
         {
           "title": "金价银价大反攻",
@@ -1456,7 +1614,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1510,8 +1668,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 15时26分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时36分]"
         },
         {
           "title": "美元指数20日上涨",
