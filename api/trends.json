@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-25T22:20:47.239220+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-10-25T23:23:09.621524+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 23时23分]"
+        },
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
           "url": "https://news.ifeng.com/c/8niGt31YVZS",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时30分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时27分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[16时27分 ~ 23时23分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -78,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时23分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[07时23分 ~ 23时23分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -92,11 +92,12 @@
             8,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[12时28分 ~ 23时23分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -209,6 +210,36 @@
           "time_info": "[07时23分 ~ 18时23分]"
         },
         {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时23分]"
+        },
+        {
+          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时23分]"
+        },
+        {
           "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
           "url": "https://wallstreetcn.com/livenews/2993602",
           "source": "华尔街见闻-快讯",
@@ -225,18 +256,29 @@
           "time_info": "[05时23分 ~ 12时29分]"
         },
         {
-          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2993685",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国民众举行反特朗普示威",
+          "url": "https://news.ifeng.com/c/8nkKIhcxWDm",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            5,
-            6,
-            12
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时20分]"
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
+          "url": "https://flash.jin10.com/detail/20251025185202927800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时23分]"
         },
         {
           "title": "特朗普与日本首相通电话。（共同社）",
@@ -245,9 +287,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
+          "url": "https://flash.jin10.com/detail/20251025183737163800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时23分]"
         },
         {
           "title": "特朗普拿美加贸易谈判要挟得逞：加拿大将暂停播放反关税广告",
@@ -259,21 +315,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时23分 ~ 18时23分]"
-        },
-        {
-          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
-          "url": "https://flash.jin10.com/detail/20251025171620948800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普推动新建海军军舰级别，希望建造新型海军舰艇，以应对潜在威胁。",
@@ -302,18 +343,15 @@
           "time_info": "[15时22分 ~ 19时19分]"
         },
         {
-          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
-          "url": "https://flash.jin10.com/detail/20251025185202927800",
-          "source": "金十数据",
+          "title": "特朗普与日本首相高市早苗通电话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2993699",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            11,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "加拿大安大略省将撤销造成美国总统特朗普叫停两国之间对话的“反对关税”广告。（加拿大媒体Globe）",
@@ -355,20 +393,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时28分 ~ 19时19分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
-          "url": "https://flash.jin10.com/detail/20251025183737163800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时20分]"
         },
         {
           "title": "报道：特朗普提名加密货币专家迈克尔·塞利格担任CFTC主席",
@@ -717,7 +741,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "国务院：谋划一批带动性强的重大政策、重大改革、重大项目",
@@ -740,8 +764,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时47分 ~ 22时20分]"
+          "appearance_count": 20,
+          "time_info": "[09时47分 ~ 23时23分]"
         },
         {
           "title": "央行、金融监管总局、证监会等，最新部署来了",
@@ -778,8 +802,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时23分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[07时23分 ~ 23时23分]"
         },
         {
           "title": "证监会：着力增强资本市场的韧性和抗风险能力",
@@ -827,6 +851,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时29分 ~ 18时23分]"
+        },
+        {
+          "title": "DeepSeek新突破能否打破大模型瓶颈",
+          "url": "https://www.toutiao.com/trending/7565151497953611306/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "穆迪：确认法国Aa3评级，前景展望下调为负面。 将展望调整为负面的决定反映出，法国政治格局的分裂继续削弱法国立法机构运作的风险上升。 这种政治不稳定可能会阻碍政府应对关键政策挑战的能力，例如居高不下的财政赤字、不断上升的债务负担以及融资成本的持续走高，从而导致法国主要财政指标的恶化速度快于我们当前的预期。",
@@ -932,8 +967,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时47分 ~ 22时20分]"
+          "appearance_count": 20,
+          "time_info": "[09时47分 ~ 23时23分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -958,8 +993,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时23分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[07时23分 ~ 23时23分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -977,6 +1012,19 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时30分 ~ 17时23分]"
+        },
+        {
+          "title": "美股为何一直在上涨",
+          "url": "https://www.toutiao.com/trending/7564074588235317290/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时42分 ~ 23时23分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -1010,18 +1058,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 07时23分]"
-        },
-        {
-          "title": "美股为何一直在上涨",
-          "url": "https://www.toutiao.com/trending/7564074588235317290/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "美股收盘：特斯拉市值蒸发超3600亿元",
