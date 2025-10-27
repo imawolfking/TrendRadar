@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T17:31:21.907299+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-10-27T18:31:16.152547+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -108,6 +108,17 @@
           "time_info": "[13时25分 ~ 16时33分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时31分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -374,6 +374,17 @@
           "time_info": "[14时40分 ~ 15时25分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
           "url": "https://wallstreetcn.com/livenews/2994024",
           "source": "华尔街见闻-快讯",
@@ -509,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "加拿大总理卡尼：如果美国总统特朗普不愿谈判，我们已有应急计划。",
+          "url": "https://flash.jin10.com/detail/20251027174622030800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
@@ -723,7 +745,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 13,
+      "match_count": 27,
       "titles": [
         {
           "title": "何立峰谈中美经贸磋商：成果来之不易",
@@ -799,8 +821,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时31分]"
         },
         {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-10-27）",
@@ -812,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "证监会主席吴清：科创板改革效应正加快显现",
+          "url": "https://wallstreetcn.com/livenews/2994238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "付鹏：解码市场博弈的大宗商品信号——中国冶炼格局如何影响全球资源定价【付鹏说10】",
@@ -837,15 +870,59 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "证监会主席吴清：进一步深化投融资综合改革",
+          "url": "https://wallstreetcn.com/livenews/2994235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "证监会主席吴清：发挥中长期资金作用 完善“长钱长投”市场生态",
+          "url": "https://wallstreetcn.com/livenews/2994231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "证监会主席吴清：推动更多先行先试政策“首家”“首例”在京落地",
+          "url": "https://wallstreetcn.com/livenews/2994219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "澳元兑美元上涨0.6%，至0.6549，为10月10日以来的最高水平。澳洲联储主席称，对货币政策保持谨慎，基准利率可能不会像其他人预期的那样下降。",
           "url": "https://wallstreetcn.com/livenews/2994139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
+          "url": "https://flash.jin10.com/detail/20251027174708809800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "中证报：聚焦“支持性”方向，精准把握货币政策实施力度和节奏",
@@ -859,15 +936,48 @@
           "time_info": "07时23分"
         },
         {
+          "title": "证监会主席吴清10月27日在2025金融街论坛年会上表示，强化跨市场、跨行业、跨境风险监测，健全长效化稳市机制，防范市场大幅波动。",
+          "url": "https://wallstreetcn.com/livenews/2994216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "澳洲联储主席Bullock：澳洲联储的利率可能不会像其他央行那样大幅下调。 我觉得我们的利率还是偏限制性。 董事会对货币政策持谨慎态度。 只需要等待更多数据。 将不得不决定是否需要降息以帮助就业市场。 还是有点担心通货膨胀率。 认为我们在就业、CPI方面处于“相当不错”的位置。 研判认为就业市场仍有些许紧张。",
           "url": "https://wallstreetcn.com/livenews/2994133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，增强对风险“四早处置”，防范市场大幅波动，对财务造假等违法行为依法严打。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/2994211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，发布加强资本市场中小投资者保护的若干意见，推出23项务实举措，不断扎牢织密投资者保护“安全网”。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/2994209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "科创板IPO提速，“1+6”政策落地后新增受理26家企业",
@@ -879,12 +989,167 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，将通过优化互联互通机制，提升企业境外上市备案效率。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/2994208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，将坚持打造服务创新型中小企业主阵地，持续推动北交所高质量发展，畅通三、四板对接机制。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/2994206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "证监会主席吴清：择机推出再融资储架发行制度",
+          "url": "https://wallstreetcn.com/livenews/2994204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "《合格境外投资者制度优化工作方案》27日正式推出",
+          "url": "https://wallstreetcn.com/livenews/2994200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "中国证监会主席吴清27日在2025金融街论坛年会上表示，在风险再定价、资产再平衡过程中，稳健性和均衡性日益成为资产配置的优先选项，“把鸡蛋放在不同篮子里”也越来越成为国际投资者的共识。在此过程中，A股、港股等中国资产价值被持续重估，配置价值更加显现。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/2994198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "【证监会将启动实施深化创业板改革】中国证监会主席吴清10月27日在2025金融街论坛年会上表示，将启动实施深化创业板改革，设置更加契合新兴领域和未来产业创新创业企业特征的上市标准，为新产业、新业态、新技术企业提供更加精准、包容的金融服务。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2994195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "第一批金价下跌受害者出现了",
+          "url": "https://www.toutiao.com/trending/7565011357729521670/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时01分]"
+        },
+        {
+          "title": "金价暴跌有大学生把生活费亏没了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26band_rank%3D21%26pos%3D21%26realpos%3D21%26c_type%3D31%26flag%3D2%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761494348%26pre_seqid%3D17614943480840326367128",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 10时01分]"
+        },
+        {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时31分]"
+        },
+        {
+          "title": "黄金价格下跌是进场“捡便宜”时机吗",
+          "url": "https://www.toutiao.com/trending/7565700779416227391/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 11时28分]"
+        },
+        {
+          "title": "金价下跌为何金饰品牌接连涨价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B8%BA%E4%BD%95%E9%87%91%E9%A5%B0%E5%93%81%E7%89%8C%E6%8E%A5%E8%BF%9E%E6%B6%A8%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D21%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E4%25B8%25BA%25E4%25BD%2595%25E9%2587%2591%25E9%25A5%25B0%25E5%2593%2581%25E7%2589%258C%25E6%258E%25A5%25E8%25BF%259E%25E6%25B6%25A8%25E4%25BB%25B7%2523%26band_rank%3D20%26filter_type%3Drealtimehot%26realpos%3D20%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
+          "title": "金价持续跳水是买还是卖",
+          "url": "https://www.toutiao.com/trending/7565805923277475382/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
+          "title": "菲律宾央行官员：现在是时候在黄金上获利了结。菲律宾央行应出售部分“过多”的黄金储备，因为随着避险需求减弱，金价预计将从创纪录高位进一步回落。",
+          "url": "https://flash.jin10.com/detail/20251027174948964800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -936,6 +1201,17 @@
           "time_info": "[16时33分 ~ 17时31分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251027111943892800",
           "source": "金十数据",
@@ -949,62 +1225,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "第一批金价下跌受害者出现了",
-          "url": "https://www.toutiao.com/trending/7565011357729521670/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时01分]"
-        },
-        {
-          "title": "金价暴跌有大学生把生活费亏没了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26band_rank%3D21%26pos%3D21%26realpos%3D21%26c_type%3D31%26flag%3D2%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26dgr%3D0%26display_time%3D1761494348%26pre_seqid%3D17614943480840326367128",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时01分]"
-        },
-        {
-          "title": "业内：金价急跌套牢Z世代",
-          "url": "https://www.toutiao.com/trending/7565736865819528746/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 17时31分]"
-        },
-        {
-          "title": "黄金价格下跌是进场“捡便宜”时机吗",
-          "url": "https://www.toutiao.com/trending/7565700779416227391/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 11时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1013,11 +1233,12 @@
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
