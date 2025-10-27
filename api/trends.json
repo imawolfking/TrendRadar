@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:33:49.145458+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-10-27T17:31:21.907299+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -180,6 +180,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -253,6 +264,19 @@
           "time_info": "[14时40分 ~ 15时25分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
@@ -276,18 +300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 10时01分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时33分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -483,7 +495,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -494,7 +506,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -648,7 +660,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -711,7 +723,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "何立峰谈中美经贸磋商：成果来之不易",
@@ -748,8 +760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时31分]"
         },
         {
           "title": "何立峰：望美方与中方相向而行",
@@ -778,6 +790,19 @@
           "time_info": "[00时27分 ~ 06时24分]"
         },
         {
+          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
+          "url": "https://www.cls.cn/detail/2181633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时31分]"
+        },
+        {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-10-27）",
           "url": "https://flash.jin10.com/detail/20251027145119268800",
           "source": "金十数据",
@@ -787,18 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
-          "url": "https://www.cls.cn/detail/2181633",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时33分]"
         },
         {
           "title": "付鹏：解码市场博弈的大宗商品信号——中国冶炼格局如何影响全球资源定价【付鹏说10】",
@@ -824,6 +837,17 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "澳元兑美元上涨0.6%，至0.6549，为10月10日以来的最高水平。澳洲联储主席称，对货币政策保持谨慎，基准利率可能不会像其他人预期的那样下降。",
+          "url": "https://wallstreetcn.com/livenews/2994139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "中证报：聚焦“支持性”方向，精准把握货币政策实施力度和节奏",
           "url": "https://wallstreetcn.com/livenews/2993816",
           "source": "华尔街见闻-快讯",
@@ -835,13 +859,24 @@
           "time_info": "07时23分"
         },
         {
+          "title": "澳洲联储主席Bullock：澳洲联储的利率可能不会像其他央行那样大幅下调。 我觉得我们的利率还是偏限制性。 董事会对货币政策持谨慎态度。 只需要等待更多数据。 将不得不决定是否需要降息以帮助就业市场。 还是有点担心通货膨胀率。 认为我们在就业、CPI方面处于“相当不错”的位置。 研判认为就业市场仍有些许紧张。",
+          "url": "https://wallstreetcn.com/livenews/2994133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "科创板IPO提速，“1+6”政策落地后新增受理26家企业",
           "url": "https://wallstreetcn.com/livenews/2994085",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -889,6 +924,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251027111943892800",
           "source": "金十数据",
@@ -898,17 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         }
       ]
     },
@@ -941,6 +977,20 @@
           "time_info": "[00时27分 ~ 10时01分]"
         },
         {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时31分]"
+        },
+        {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
           "url": "https://www.toutiao.com/trending/7565700779416227391/",
           "source": "今日头条",
@@ -951,26 +1001,24 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 11时28分]"
-        },
-        {
-          "title": "业内：金价急跌套牢Z世代",
-          "url": "https://www.toutiao.com/trending/7565736865819528746/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时33分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
           "url": "https://flash.jin10.com/detail/20251027160831083800",
@@ -978,7 +1026,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
