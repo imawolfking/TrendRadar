@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T20:54:12.333135+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2025-10-27T21:36:09.164280+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 21时36分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -97,6 +97,31 @@
           "time_info": "[01时20分 ~ 07时23分]"
         },
         {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 21时36分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 21时36分]"
+        },
+        {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
           "source": "澎湃新闻",
@@ -118,6 +143,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时25分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -157,16 +193,15 @@
           "time_info": "[10时01分 ~ 13时26分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 20时54分]"
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -202,18 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "特朗普访问日本",
-          "url": "https://www.douyin.com/hot/2285103",
-          "source": "抖音",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时54分]"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -300,6 +323,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时40分 ~ 17时31分]"
+        },
+        {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 21时36分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 21时36分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -433,17 +490,6 @@
           "time_info": "[14时40分 ~ 15时25分]"
         },
         {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
           "url": "https://flash.jin10.com/detail/20251027141650104800",
           "source": "金十数据",
@@ -492,26 +538,15 @@
           "time_info": "[14时40分 ~ 15时25分]"
         },
         {
-          "title": "评论员：特朗普在马来西亚双喜临门",
-          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.toutiao.com/trending/7565221360721592361/",
           "source": "今日头条",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
@@ -858,7 +893,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 45,
+      "match_count": 54,
       "titles": [
         {
           "title": "何立峰谈中美经贸磋商：成果来之不易",
@@ -897,6 +932,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时27分 ~ 17时31分]"
+        },
+        {
+          "title": "信息量很大！潘功胜、李云泽、吴清、朱鹤新重磅发声",
+          "url": "https://www.cls.cn/detail/2182184",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 21时36分]"
+        },
+        {
+          "title": "付鹏：解码市场博弈的大宗商品信号——中国冶炼格局如何影响全球资源定价【付鹏说10】",
+          "url": "https://wallstreetcn.com/premium/articles/3757925?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 21时36分]"
         },
         {
           "title": "何立峰：望美方与中方相向而行",
@@ -939,28 +999,27 @@
           "time_info": "[00时27分 ~ 06时24分]"
         },
         {
-          "title": "信息量很大！潘功胜、李云泽、吴清、朱鹤新重磅发声",
-          "url": "https://www.cls.cn/detail/2182184",
+          "title": "潘功胜、吴清等发言重点来了！事关央行国债买卖、创业板改革......",
+          "url": "https://www.cls.cn/detail/2182260",
           "source": "财联社热门",
           "ranks": [
-            5,
+            4,
             3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时22分 ~ 20时54分]"
+          "time_info": "[20时53分 ~ 21时36分]"
         },
         {
-          "title": "付鹏：解码市场博弈的大宗商品信号——中国冶炼格局如何影响全球资源定价【付鹏说10】",
-          "url": "https://wallstreetcn.com/premium/articles/3757925?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "一揽子增量政策实施效果如何",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%8F%BD%E5%AD%90%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96%E5%AE%9E%E6%96%BD%E6%95%88%E6%9E%9C%E5%A6%82%E4%BD%95",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时34分 ~ 20时54分]"
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "经济学家分析特朗普关税政策",
@@ -974,26 +1033,39 @@
           "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "潘功胜、吴清等发言重点来了！事关央行国债买卖、创业板改革......",
-          "url": "https://www.cls.cn/detail/2182260",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
-          "title": "何立峰：金融系统要全力以赴支持完成“十五五”主要目标任务",
-          "url": "https://wallstreetcn.com/livenews/2994356",
+          "title": "中国证监会、中国人民银行、国家外汇局推动实施合格境外投资者资格审批与开户“高效办成一件事”",
+          "url": "https://wallstreetcn.com/livenews/2994380",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时36分"
+        },
+        {
+          "title": "吴清：证监会将启动实施深化创业板改革",
+          "url": "https://www.cls.cn/detail/2182124",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：允许境内专业持牌机构为外资提供投资顾问服务",
+          "url": "https://wallstreetcn.com/livenews/2994379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-10-27）",
@@ -1018,16 +1090,27 @@
           "time_info": "18时31分"
         },
         {
-          "title": "吴清：证监会将启动实施深化创业板改革",
-          "url": "https://www.cls.cn/detail/2182124",
-          "source": "财联社热门",
+          "title": "证监会：对主权基金等配置型外资准入实行“绿色通道”",
+          "url": "https://wallstreetcn.com/livenews/2994372",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "何立峰：金融系统要全力以赴支持完成“十五五”主要目标任务",
+          "url": "https://wallstreetcn.com/livenews/2994356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 20时54分]"
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
         },
         {
           "title": "证监会出台保护中小投资者政策",
@@ -1037,8 +1120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 21时36分]"
         },
         {
           "title": "证监会：加强资本市场中小投资者保护",
@@ -1052,6 +1135,113 @@
           "time_info": "[20时53分 ~ 20时54分]"
         },
         {
+          "title": "证监会：引导存在重大违法强制退市风险的上市公司控股股东、实际控制人等 主动采取先行赔付或者其他保护投资者合法权益的措施",
+          "url": "https://wallstreetcn.com/livenews/2994342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：优进一步提升招股说明书信息披露质量 提升招股说明书的可读性",
+          "url": "https://wallstreetcn.com/livenews/2994335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：推动上市公司增强投资者回报",
+          "url": "https://wallstreetcn.com/livenews/2994334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：依法从严打击内幕交易、操纵市场等扰乱证券期货市场秩序的违法行为",
+          "url": "https://wallstreetcn.com/livenews/2994331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：加大对欺诈发行、财务信息披露造假等严重损害投资者权益的违法行为的打击力度",
+          "url": "https://wallstreetcn.com/livenews/2994328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：全面优化融资融券监管制度 进一步加强程序化交易监管",
+          "url": "https://wallstreetcn.com/livenews/2994327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "个人信用救济政策",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AA%E4%BA%BA%E4%BF%A1%E7%94%A8%E6%95%91%E6%B5%8E%E6%94%BF%E7%AD%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25B8%25AA%25E4%25BA%25BA%25E4%25BF%25A1%25E7%2594%25A8%25E6%2595%2591%25E6%25B5%258E%25E6%2594%25BF%25E7%25AD%2596%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D19%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D19%26lcate%3D5001%26pos%3D20%26display_time%3D1761571551%26pre_seqid%3D17615715513930276801093",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会：优化新股发行定价机制",
+          "url": "https://wallstreetcn.com/livenews/2994326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
+          "title": "证监会发布合格境外投资者资格审批与开户“一件事”服务指南。",
+          "url": "https://wallstreetcn.com/livenews/2994323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时36分]"
+        },
+        {
           "title": "何立峰：希望美方与中方相向而行",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%EF%BC%9A%E5%B8%8C%E6%9C%9B%E7%BE%8E%E6%96%B9%E4%B8%8E%E4%B8%AD%E6%96%B9%E7%9B%B8%E5%90%91%E8%80%8C%E8%A1%8C",
           "source": "百度热搜",
@@ -1061,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "央行研究实施一次性个人信用救济政策",
+          "url": "https://www.toutiao.com/trending/7565850091845795883/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "证监会主席吴清：进一步深化投融资综合改革",
@@ -1074,6 +1275,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "证监会：允许使用ETF期权开展风险管理",
+          "url": "https://wallstreetcn.com/livenews/2994371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "证监会主席吴清：发挥中长期资金作用 完善“长钱长投”市场生态",
           "url": "https://wallstreetcn.com/livenews/2994231",
           "source": "华尔街见闻-快讯",
@@ -1085,15 +1297,26 @@
           "time_info": "18时31分"
         },
         {
-          "title": "证监会：引导存在重大违法强制退市风险的上市公司控股股东、实际控制人等 主动采取先行赔付或者其他保护投资者合法权益的措施",
-          "url": "https://wallstreetcn.com/livenews/2994342",
+          "title": "证监会：明确外资公募基金短线交易适用规则",
+          "url": "https://wallstreetcn.com/livenews/2994368",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时36分"
+        },
+        {
+          "title": "中国证监会印发《合格境外投资者制度优化工作方案》",
+          "url": "https://wallstreetcn.com/livenews/2994367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "证监会主席吴清：推动更多先行先试政策“首家”“首例”在京落地",
@@ -1151,28 +1374,6 @@
           "time_info": "18时31分"
         },
         {
-          "title": "证监会：优进一步提升招股说明书信息披露质量 提升招股说明书的可读性",
-          "url": "https://wallstreetcn.com/livenews/2994335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "证监会：推动上市公司增强投资者回报",
-          "url": "https://wallstreetcn.com/livenews/2994334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "澳洲联储主席Bullock：澳洲联储的利率可能不会像其他央行那样大幅下调。 我觉得我们的利率还是偏限制性。 董事会对货币政策持谨慎态度。 只需要等待更多数据。 将不得不决定是否需要降息以帮助就业市场。 还是有点担心通货膨胀率。 认为我们在就业、CPI方面处于“相当不错”的位置。 研判认为就业市场仍有些许紧张。",
           "url": "https://wallstreetcn.com/livenews/2994133",
           "source": "华尔街见闻-快讯",
@@ -1217,17 +1418,6 @@
           "time_info": "19时23分"
         },
         {
-          "title": "证监会：依法从严打击内幕交易、操纵市场等扰乱证券期货市场秩序的违法行为",
-          "url": "https://wallstreetcn.com/livenews/2994331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "科创板IPO提速，“1+6”政策落地后新增受理26家企业",
           "url": "https://wallstreetcn.com/livenews/2994085",
           "source": "华尔街见闻-快讯",
@@ -1248,17 +1438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        },
-        {
-          "title": "证监会：加大对欺诈发行、财务信息披露造假等严重损害投资者权益的违法行为的打击力度",
-          "url": "https://wallstreetcn.com/livenews/2994328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "穆迪：尽管美国贸易政策的转变导致全球贸易环境恶化，但日本国内需求的韧性将抵消其负面影响。",
@@ -1283,28 +1462,6 @@
           "time_info": "18时31分"
         },
         {
-          "title": "证监会：全面优化融资融券监管制度 进一步加强程序化交易监管",
-          "url": "https://wallstreetcn.com/livenews/2994327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "证监会：优化新股发行定价机制",
-          "url": "https://wallstreetcn.com/livenews/2994326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "证监会主席吴清：择机推出再融资储架发行制度",
           "url": "https://wallstreetcn.com/livenews/2994204",
           "source": "华尔街见闻-快讯",
@@ -1314,17 +1471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        },
-        {
-          "title": "证监会发布合格境外投资者资格审批与开户“一件事”服务指南。",
-          "url": "https://wallstreetcn.com/livenews/2994323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "《合格境外投资者制度优化工作方案》27日正式推出",
@@ -1366,7 +1512,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -1374,7 +1520,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1396,11 +1542,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 21时36分]"
         },
         {
           "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
@@ -1470,12 +1617,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -1561,6 +1730,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "凯投宏观：下调黄金价格预期，预计到2026年底黄金价格将跌至每盎司3,500美元。",
+          "url": "https://flash.jin10.com/detail/20251027205309686800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "金十数据整理：金价一路飙升 菲律宾央行却热衷于减持",
+          "url": "https://flash.jin10.com/detail/20251027204235077800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -1577,8 +1768,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 21时36分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
