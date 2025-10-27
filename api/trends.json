@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:25:28.570254+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-10-27T16:33:49.145458+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -96,6 +96,18 @@
           "time_info": "[00时27分 ~ 05时22分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 16时33分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -131,18 +143,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 15时25分]"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -278,6 +278,18 @@
           "time_info": "[07时22分 ~ 10时01分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普在马来西亚听了个地狱笑话",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%90%AC%E4%BA%86%E4%B8%AA%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D",
           "source": "百度热搜",
@@ -362,18 +374,6 @@
           "time_info": "[14时40分 ~ 15时25分]"
         },
         {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时25分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
           "url": "https://flash.jin10.com/detail/20251027141650104800",
           "source": "金十数据",
@@ -428,7 +428,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -450,7 +450,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -477,13 +477,35 @@
           "time_info": "11时28分"
         },
         {
+          "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
+          "url": "https://flash.jin10.com/detail/20251027155706399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "美国总统特朗普：正落地日本，期待与天皇见面。",
+          "url": "https://flash.jin10.com/detail/20251027155518803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
           "url": "https://wallstreetcn.com/livenews/2994047",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -620,6 +642,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国总统特朗普：我不想与加拿大总理会面。",
           "url": "https://flash.jin10.com/detail/20251027140230204800",
           "source": "金十数据",
@@ -678,7 +711,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "何立峰谈中美经贸磋商：成果来之不易",
@@ -704,6 +737,21 @@
           "time_info": "[00时27分 ~ 11时28分]"
         },
         {
+          "title": "2025金融街论坛年会今日启幕，潘功胜、李云泽、吴清将出席并作主题演讲",
+          "url": "https://www.cls.cn/detail/2181117",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 16时33分]"
+        },
+        {
           "title": "何立峰：望美方与中方相向而行",
           "url": "https://www.toutiao.com/trending/7565457927230721546/",
           "source": "今日头条",
@@ -716,20 +764,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "2025金融街论坛年会今日启幕，潘功胜、李云泽、吴清将出席并作主题演讲",
-          "url": "https://www.cls.cn/detail/2181117",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 15时25分]"
         },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
@@ -750,9 +784,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
+          "url": "https://www.cls.cn/detail/2181633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时33分]"
         },
         {
           "title": "付鹏：解码市场博弈的大宗商品信号——中国冶炼格局如何影响全球资源定价【付鹏说10】",
@@ -778,17 +824,6 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
-          "url": "https://www.cls.cn/detail/2181633",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "中证报：聚焦“支持性”方向，精准把握货币政策实施力度和节奏",
           "url": "https://wallstreetcn.com/livenews/2993816",
           "source": "华尔街见闻-快讯",
@@ -798,6 +833,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "科创板IPO提速，“1+6”政策落地后新增受理26家企业",
+          "url": "https://wallstreetcn.com/livenews/2994085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 16时33分]"
+        },
+        {
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
+          "url": "https://wallstreetcn.com/livenews/2993801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251027111943892800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -847,65 +958,29 @@
           "source": "今日头条",
           "ranks": [
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时33分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "美债",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 15时25分]"
-        },
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
           "source": "金十数据",
           "ranks": [
-            2,
-            15
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20251027111943892800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "16时33分"
         }
       ]
     }
