@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T16:36:29.902311+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2025-10-28T17:29:17.390571+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -142,15 +142,15 @@
           "time_info": "[11时12分 ~ 15时24分]"
         },
         {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "title": "特朗普再谈对台立场释放何信号",
+          "url": "https://www.toutiao.com/trending/7566177220696215094/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "17时29分"
         },
         {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
@@ -199,6 +199,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时29分]"
         },
         {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
@@ -377,6 +389,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美国总统特朗普：这将是一段比以往任何时候都更加牢固的关系。",
           "url": "https://flash.jin10.com/detail/20251028090338913800",
           "source": "金十数据",
@@ -493,7 +516,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -507,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D16%26band_rank%3D16%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26flag%3D0%26display_time%3D1761643594%26pre_seqid%3D17616435949260281044382",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
@@ -526,7 +560,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -647,7 +681,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -658,7 +692,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -666,7 +700,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "何立峰：金融系统要全力以赴支持完成“十五五”主要目标任务",
@@ -753,17 +787,6 @@
           "time_info": "[09时49分 ~ 16时36分]"
         },
         {
-          "title": "证监会：加强资本市场中小投资者保护",
-          "url": "https://www.cls.cn/detail/2182373",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 07时23分]"
-        },
-        {
           "title": "吴清：证监会将深化创业板改革、着力发挥中长期资金“压舱石”和“稳定器”作用",
           "url": "https://wallstreetcn.com/articles/3757977",
           "source": "华尔街见闻",
@@ -775,8 +798,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 17时29分]"
+        },
+        {
+          "title": "证监会：加强资本市场中小投资者保护",
+          "url": "https://www.cls.cn/detail/2182373",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时23分]"
         },
         {
           "title": "吴清在2025金融街论坛年会上的主题演讲（全文）",
@@ -791,6 +825,19 @@
           "time_info": "[02时35分 ~ 07时23分]"
         },
         {
+          "title": "吴清讲话释放哪些关键信号？卖方看好“结构性长牛”",
+          "url": "https://www.cls.cn/detail/2183090",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 17时29分]"
+        },
+        {
           "title": "高盛预计随着政策逐步正常化 日元未来十年将升至100",
           "url": "https://wallstreetcn.com/livenews/2994843",
           "source": "华尔街见闻-快讯",
@@ -800,6 +847,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "央行释放重磅信号：明年初实施个人信用救济政策 有望助力楼市企稳",
+          "url": "https://www.cls.cn/detail/2183404",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
+          "url": "https://flash.jin10.com/detail/20251028172154979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
@@ -860,18 +929,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "吴清讲话释放哪些关键信号？卖方看好“结构性长牛”",
-          "url": "https://www.cls.cn/detail/2183090",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时36分]"
         },
         {
           "title": "随着货币政策逐渐正常化 高盛预测未来十年日元将回升至100",
@@ -1185,6 +1242,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "十五五规划建议：加大直达消费者的普惠政策力度，增加政府资金用于民生保障支出",
+          "url": "https://wallstreetcn.com/livenews/2994944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "证监会李超：全面推进实施新一轮资本市场改革",
           "url": "https://wallstreetcn.com/livenews/2994671",
           "source": "华尔街见闻-快讯",
@@ -1221,8 +1289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -1330,7 +1398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1360,7 +1428,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1368,11 +1436,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 17时29分]"
         },
         {
           "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
@@ -1381,7 +1450,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1391,11 +1460,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 17时29分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1439,9 +1509,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "市场分析：贸易乐观情绪打压需求，金价下跌",
+          "url": "https://flash.jin10.com/detail/20251028171145842800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
