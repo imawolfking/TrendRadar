@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:39:59.461859+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2025-10-28T15:24:25.105333+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -120,11 +120,25 @@
           "ranks": [
             28,
             6,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 15时24分]"
         },
         {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
@@ -139,16 +153,15 @@
           "time_info": "[09时49分 ~ 13时25分]"
         },
         {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
+          "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
+          "url": "https://flash.jin10.com/detail/20251028145714701800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            22
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 14时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
@@ -160,6 +173,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
@@ -191,19 +218,6 @@
           "ranks": [
             14,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时39分]"
-        },
-        {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            28,
-            26
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -445,7 +459,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -560,6 +574,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "日本首相高市早苗计划推荐美国总统特朗普提名诺贝尔和平奖，将在周二的峰会上向特朗普传达这一意向。（NTV）",
           "url": "https://wallstreetcn.com/livenews/2994627",
           "source": "华尔街见闻-快讯",
@@ -585,7 +610,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "何立峰：金融系统要全力以赴支持完成“十五五”主要目标任务",
@@ -654,8 +679,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 15时24分]"
         },
         {
           "title": "央行将研究实施支持个人修复信用的政策措施，此举对我国社会信用体系建设有何意义？",
@@ -667,8 +692,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 15时24分]"
         },
         {
           "title": "证监会：加强资本市场中小投资者保护",
@@ -692,8 +717,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时24分]"
         },
         {
           "title": "吴清在2025金融街论坛年会上的主题演讲（全文）",
@@ -708,6 +733,17 @@
           "time_info": "[02时35分 ~ 07时23分]"
         },
         {
+          "title": "高盛预计随着政策逐步正常化 日元未来十年将升至100",
+          "url": "https://wallstreetcn.com/livenews/2994843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
           "url": "https://flash.jin10.com/detail/20251028124839536800",
           "source": "金十数据",
@@ -719,15 +755,15 @@
           "time_info": "13时25分"
         },
         {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "title": "机构：日本宽松的货币政策或将持续下去",
+          "url": "https://flash.jin10.com/detail/20251028145624538800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "15时24分"
         },
         {
           "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
@@ -789,6 +825,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 02时35分]"
+        },
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时24分]"
         },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
@@ -957,6 +1005,28 @@
           "time_info": "09时49分"
         },
         {
+          "title": "吴清讲话释放哪些关键信号？卖方看好“结构性长牛”",
+          "url": "https://www.cls.cn/detail/2183090",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "俄外交部发言人：美关税政策可致全球经济衰退",
+          "url": "https://wallstreetcn.com/livenews/2994829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
           "url": "https://wallstreetcn.com/livenews/2994570",
           "source": "华尔街见闻-快讯",
@@ -1010,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-10-28）",
+          "url": "https://flash.jin10.com/detail/20251028144048208800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "证监会副主席李超：抓紧研究谋划“十五五”时期资本市场战略任务和重大举措",
@@ -1080,8 +1161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -1208,7 +1289,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1218,8 +1299,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1255,6 +1347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
+          "url": "https://flash.jin10.com/detail/20251028144551726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "金价是由什么决定的",
