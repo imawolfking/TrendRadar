@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T16:33:55.653086+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2025-10-29T17:26:55.019231+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 102,
+      "match_count": 105,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 17时26分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 17时26分]"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时45分 ~ 04时28分]"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时33分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -75,6 +75,17 @@
           "time_info": "[00时45分 ~ 07时24分]"
         },
         {
+          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
+          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时26分]"
+        },
+        {
           "title": "特朗普径自走过日本国旗未鞠躬",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
           "source": "百度热搜",
@@ -89,17 +100,6 @@
           "time_info": "[00时45分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
-          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时33分]"
-        },
-        {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -107,8 +107,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 17时26分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -118,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 17时26分]"
         },
         {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
@@ -131,8 +131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时26分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -142,11 +142,12 @@
             15,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 17时26分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -155,9 +156,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -166,9 +167,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -177,9 +178,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -188,9 +189,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
+          "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758164",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
@@ -202,6 +226,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时26分]"
         },
         {
           "title": "特朗普吐槽美航母电磁弹射又贵又难用",
@@ -224,17 +261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        },
-        {
-          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
-          "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "美国参议院通过法案，终止美国总统特朗普针对巴西的关税措施。",
@@ -303,17 +329,6 @@
           "time_info": "09时56分"
         },
         {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758164",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美国总统特朗普：到目前为止，旅途非常愉快。",
           "url": "https://flash.jin10.com/detail/20251029093900233800",
           "source": "金十数据",
@@ -334,19 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时33分]"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -618,9 +620,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
+          "url": "https://www.cls.cn/detail/2184671",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "韩国计划向特朗普赠送一顶金冠",
@@ -766,6 +779,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://wallstreetcn.com/livenews/2995762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "美国总统特朗普：与韩国的协议很快就会最终敲定。",
           "url": "https://flash.jin10.com/detail/20251029123731778800",
           "source": "金十数据",
@@ -849,7 +873,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -893,9 +917,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "特朗普时隔数月称与马斯克关系很好",
+          "url": "https://www.toutiao.com/trending/7566517975713320502/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
@@ -1165,7 +1200,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -1210,17 +1245,6 @@
           "time_info": "[00时45分 ~ 06时26分]"
         },
         {
-          "title": "印度央行副行长：汇率不是应对关税的政策工具。",
-          "url": "https://flash.jin10.com/detail/20251029163009702800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
@@ -1229,8 +1253,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 17时26分]"
+        },
+        {
+          "title": "印度央行副行长：汇率不是应对关税的政策工具。",
+          "url": "https://flash.jin10.com/detail/20251029163009702800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "【国家外汇局推出3方面9条政策措施服务跨境贸易】国家外汇管理局10月29日对外发布3方面9条政策举措，进一步促进跨境贸易收支便利化，积极支持对外贸易发展。国家外汇局经常项目管理司副司长张玉青介绍，这3方面包括推动贸易便利化政策在试点地区和业务种类上的“双扩围”、支持贸易新业态结算便利方面“再升级”、助力服务贸易资金使用“提质效”。（新华社）",
@@ -1427,6 +1462,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "美国能源部副部长：美国正努力促使盟友参与能源充裕政策，以保持价格低位。",
+          "url": "https://flash.jin10.com/detail/20251029165247812800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "英伟达发布模型，推动自动化工厂的创造。",
           "url": "https://wallstreetcn.com/livenews/2995295",
           "source": "华尔街见闻-快讯",
@@ -1573,7 +1619,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1625,17 +1671,6 @@
           "time_info": "[03时21分 ~ 07时24分]"
         },
         {
-          "title": "美股盘前，半导体股普涨，英伟达涨约3%，美光科技涨约2%，AMD涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/2995734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
           "url": "https://flash.jin10.com/detail/20251029040108535800",
           "source": "金十数据",
@@ -1647,6 +1682,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时26分]"
+        },
+        {
+          "title": "美股盘前，半导体股普涨，英伟达涨约3%，美光科技涨约2%，AMD涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/2995734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
@@ -1743,6 +1790,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "英伟达美股盘前涨逾3%，有望成为全球首家市值5万亿美元的公司",
+          "url": "https://wallstreetcn.com/livenews/2995751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
@@ -1768,7 +1826,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1828,11 +1886,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时26分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -1869,6 +1928,28 @@
           "time_info": "15时24分"
         },
         {
+          "title": "金价反弹涨逾1%，投资者静待美联储决议与鲍威尔讲话",
+          "url": "https://flash.jin10.com/detail/20251029164948598800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "金价下跌备婚人买三金纠结症犯了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A4%87%E5%A9%9A%E4%BA%BA%E4%B9%B0%E4%B8%89%E9%87%91%E7%BA%A0%E7%BB%93%E7%97%87%E7%8A%AF%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D20%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%25A4%2587%25E5%25A9%259A%25E4%25BA%25BA%25E4%25B9%25B0%25E4%25B8%2589%25E9%2587%2591%25E7%25BA%25A0%25E7%25BB%2593%25E7%2597%2587%25E7%258A%25AF%25E4%25BA%2586%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26lcate%3D5001%26c_type%3D31%26display_time%3D1761729605%26pre_seqid%3D176172960574501087609127",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
           "url": "https://www.zhihu.com/question/1966579524385903459",
           "source": "知乎",
@@ -1897,7 +1978,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
