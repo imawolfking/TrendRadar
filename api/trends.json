@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T14:37:52.005609+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2025-10-29T15:24:31.412191+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 93,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -42,6 +42,28 @@
           "time_info": "[00时45分 ~ 07时24分]"
         },
         {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时24分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
           "url": "https://news.ifeng.com/c/8np198dmCFI",
           "source": "凤凰网",
@@ -67,28 +89,6 @@
           "time_info": "[00时45分 ~ 07时24分]"
         },
         {
-          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
-          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 14时37分]"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
           "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
           "source": "凤凰网",
@@ -96,8 +96,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时24分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
@@ -109,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://www.douyin.com/hot/2287259",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "特朗普吐槽美航母电磁弹射又贵又难用",
@@ -166,6 +188,30 @@
           "time_info": "07时24分"
         },
         {
+          "title": "高市早苗被特朗普介绍后高兴到转圈",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8B%E7%BB%8D%E5%90%8E%E9%AB%98%E5%85%B4%E5%88%B0%E8%BD%AC%E5%9C%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26flag%3D1%26cate%3D5001%26pos%3D1%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E8%25A2%25AB%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BB%258B%25E7%25BB%258D%25E5%2590%258E%25E9%25AB%2598%25E5%2585%25B4%25E5%2588%25B0%25E8%25BD%25AC%25E5%259C%2588%2523%26display_time%3D1761722143%26pre_seqid%3D17617221430680113880832",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时24分]"
+        },
+        {
           "title": "美国总统特朗普：将所有制药企业带回美国。",
           "url": "https://flash.jin10.com/detail/20251029125230949800",
           "source": "金十数据",
@@ -221,17 +267,18 @@
           "time_info": "13时25分"
         },
         {
-          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
-          "url": "https://www.zhihu.com/question/1966809012960977218",
-          "source": "知乎",
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
           "ranks": [
             15,
-            6,
-            4
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 15时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -283,18 +330,29 @@
           "time_info": "[00时45分 ~ 01时24分]"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            10,
-            8,
-            7
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时20分 ~ 14时37分]"
+          "time_info": "[12时31分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时24分]"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -308,30 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
         },
         {
           "title": "美国参议院共和党领袖图恩：如果政府停摆结束，美国总统特朗普愿意在下周与民主党人会面。",
@@ -418,6 +452,18 @@
           "time_info": "[00时45分 ~ 01时24分]"
         },
         {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D15%26flag%3D1%26realpos%3D15%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26pos%3D15%26display_time%3D1761715544%26pre_seqid%3D176171554416508426976",
           "source": "微博",
@@ -441,6 +487,18 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "韩国拟赠特朗普金色王冠模型",
+          "url": "https://www.toutiao.com/trending/7565866566953271346/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
           "title": "美国总统特朗普：如果我还是总统，俄乌冲突根本不会发生。我们在八个月内完成了八个这样的任务，我相信其他的也会解决。我曾认为那是最简单的事情之一。",
           "url": "https://flash.jin10.com/detail/20251029124807266800",
           "source": "金十数据",
@@ -450,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "媒体：高市早苗极力讨好特朗普却演砸",
+          "url": "https://www.toutiao.com/trending/7566495048360005161/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -494,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://wallstreetcn.com/livenews/2995694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "美国总统特朗普：如果你在美国建厂，关税为零。",
@@ -601,7 +681,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -634,7 +714,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -656,7 +736,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -711,7 +791,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -760,17 +840,6 @@
           "time_info": "02时37分"
         },
         {
-          "title": "特朗普为何抨击美航母电磁弹射技术",
-          "url": "https://www.toutiao.com/trending/7566463348447907366/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "美国总统特朗普：当美国繁荣时，我们的联盟和印太地区也将繁荣。",
           "url": "https://flash.jin10.com/detail/20251029122319085800",
           "source": "金十数据",
@@ -788,7 +857,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -821,7 +890,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -925,6 +994,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "美国纽约州北部莱茵贝克一年一度的圣诞庆祝活动26年来首次被取消。组织者将取消原因归咎于特朗普关税直接导致的成本上升。",
+          "url": "https://flash.jin10.com/detail/20251029144739286800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美国总统特朗普：美国工厂正在蓬勃发展。",
           "url": "https://flash.jin10.com/detail/20251029122125147800",
           "source": "金十数据",
@@ -969,17 +1049,6 @@
           "time_info": "09时56分"
         },
         {
-          "title": "韩国拟赠特朗普金色王冠模型",
-          "url": "https://www.toutiao.com/trending/7565866566953271346/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "美国总统特朗普：我们已确保超过18万亿美元的新投资承诺。",
           "url": "https://flash.jin10.com/detail/20251029122054233800",
           "source": "金十数据",
@@ -994,7 +1063,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -1022,8 +1091,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 14时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 15时24分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -1039,26 +1108,16 @@
           "time_info": "[00时45分 ~ 06时26分]"
         },
         {
-          "title": "国家外汇局： 鼓励将更多贸易新业态主体纳入便利化政策范畴",
-          "url": "https://wallstreetcn.com/livenews/2995658",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "何立峰会见中国证监会国际顾问委员会委员时指出 中国正进一步深化资本市场改革开放",
-          "url": "https://wallstreetcn.com/livenews/2995656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时24分]"
         },
         {
           "title": "【国家外汇局推出3方面9条政策措施服务跨境贸易】国家外汇管理局10月29日对外发布3方面9条政策举措，进一步促进跨境贸易收支便利化，积极支持对外贸易发展。国家外汇局经常项目管理司副司长张玉青介绍，这3方面包括推动贸易便利化政策在试点地区和业务种类上的“双扩围”、支持贸易新业态结算便利方面“再升级”、助力服务贸易资金使用“提质效”。（新华社）",
@@ -1067,7 +1126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1089,21 +1148,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 14时37分]"
         },
         {
           "title": "美国财政部、泰国央行发表声明：不会为了竞争目的而使用宏观审慎或资本流动措施来瞄准汇率。 对外汇市场的干预应该是为了对抗过度的波动，无序的运动。 不会使用政府投资工具来瞄准汇率。 泰国央行称，联合声明不会影响泰国维持汇率稳定的政策。",
@@ -1116,6 +1163,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 12时31分]"
+        },
+        {
+          "title": "国家外汇局： 鼓励将更多贸易新业态主体纳入便利化政策范畴",
+          "url": "https://wallstreetcn.com/livenews/2995658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
+          "title": "何立峰会见中国证监会国际顾问委员会委员时指出 中国正进一步深化资本市场改革开放",
+          "url": "https://wallstreetcn.com/livenews/2995656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
         },
         {
           "title": "国开行完成国开新型政策性金融工具2500亿元投放任务",
@@ -1164,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时26分]"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-10-29）",
+          "url": "https://flash.jin10.com/detail/20251029150725427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "证监会：北交所合格投资者较2024年初增长40%",
@@ -1265,6 +1347,39 @@
           "time_info": "13时25分"
         },
         {
+          "title": "北京证监局一级巡视员吴智伟29日在“金融街发布”专场活动上说，证监会北京监管局联合市委金融办等有关单位出台了《北京市推动中长期资金入市的实施意见》。 (新华财经)",
+          "url": "https://wallstreetcn.com/livenews/2995681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "OpenAI首席财务官：对于算力交易，我们在融资方面需要与技术方面同样多的创新。",
+          "url": "https://flash.jin10.com/detail/20251029145842379800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
+          "url": "https://flash.jin10.com/detail/20251029145808653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
           "url": "https://flash.jin10.com/detail/20251029015946232800",
           "source": "金十数据",
@@ -1307,6 +1422,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
+          "url": "https://flash.jin10.com/detail/20251029144659448800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "国家外汇局推出3方面9条政策措施服务跨境贸易",
+          "url": "https://wallstreetcn.com/livenews/2995655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "国家外汇管理局发布支持外贸稳定发展一揽子便利化政策",
+          "url": "https://wallstreetcn.com/livenews/2995654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -1335,8 +1483,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时25分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 15时24分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -1496,7 +1644,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1558,8 +1706,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时24分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -1585,6 +1733,28 @@
           "time_info": "07时24分"
         },
         {
+          "title": "金十图示：2025年10月29日（周三）上海金午盘价为908.34元/克，较国际金价(908.26元/克)，高0.08元/克",
+          "url": "https://flash.jin10.com/detail/20251029150439553800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
+          "url": "https://www.zhihu.com/question/1966579524385903459",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251029105537246800",
           "source": "金十数据",
@@ -1594,6 +1764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
+          "url": "https://flash.jin10.com/detail/20251029144255061800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
