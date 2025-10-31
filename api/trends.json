@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T09:52:10.808691+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-10-31T11:15:17.167234+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -23,24 +23,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
-        },
-        {
-          "title": "特朗普给中美会晤打12分",
-          "url": "https://www.douyin.com/hot/2288755",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -51,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -76,8 +64,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -102,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -126,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "高市早苗接待特朗普为何“丑态百出”",
@@ -154,11 +156,12 @@
             20,
             16,
             8,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "特朗普批准韩华费城造船厂建造核潜艇，外交部：望韩美切实履行核不扩散义务",
@@ -170,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 09时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 11时15分]"
         },
         {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
@@ -185,37 +188,51 @@
           "time_info": "[00时31分 ~ 09时52分]"
         },
         {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE",
-          "source": "百度热搜",
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2585%25A8%25E9%259D%25A2%25E5%2585%25B3%25E7%25A8%258E%25E8%25A2%25AB%25E5%258F%2582%25E8%25AE%25AE%25E9%2599%25A2%25E6%2589%25B9%25E5%2587%2586%25E7%25BB%2588%25E6%25AD%25A2%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26realpos%3D1%26band_rank%3D1%26display_time%3D1761875370%26pre_seqid%3D1761875370761026852861",
+          "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时52分]"
+          "time_info": "[09时51分 ~ 11时15分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
           "url": "https://www.toutiao.com/trending/7567152652803706377/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 11时15分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2585%25A8%25E9%259D%25A2%25E5%2585%25B3%25E7%25A8%258E%25E8%25A2%25AB%25E5%258F%2582%25E8%25AE%25AE%25E9%2599%25A2%25E6%2589%25B9%25E5%2587%2586%25E7%25BB%2588%25E6%25AD%25A2%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26realpos%3D1%26band_rank%3D1%26display_time%3D1761875370%26pre_seqid%3D1761875370761026852861",
-          "source": "微博",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -232,17 +249,6 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
           "title": "美国总统特朗普已抵达华盛顿。",
           "url": "https://flash.jin10.com/detail/20251031030904513800",
           "source": "金十数据",
@@ -252,6 +258,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普：因为民主党人已经彻底疯了，选择是明确的——启动“核选项”，摆脱阻挠议事。",
+          "url": "https://flash.jin10.com/detail/20251031104017741800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "美国总统特朗普：现在是共和党人废除冗长辩论的时候了。",
+          "url": "https://flash.jin10.com/detail/20251031103855707800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
@@ -276,6 +304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://www.douyin.com/hot/2289166",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
         },
         {
           "title": "美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte：房利美今天裁员超过62人。",
@@ -314,6 +353,17 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "外交部回应特朗普重启核试验",
+          "url": "https://www.douyin.com/hot/2288630",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
           "title": "美国财政部长贝森特：（继总统特朗普政府采取行动之后）该轮到投资者拯救阿根廷了。",
           "url": "https://wallstreetcn.com/livenews/2997071",
           "source": "华尔街见闻-快讯",
@@ -326,15 +376,15 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://www.douyin.com/hot/2289166",
-          "source": "抖音",
+          "title": "普京为何选择对特朗普“冷处理”",
+          "url": "https://www.toutiao.com/trending/7567155566624116266/",
+          "source": "今日头条",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
@@ -387,7 +437,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -417,7 +467,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -452,8 +502,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 11时15分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://www.cls.cn/detail/2187070",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时52分]"
+          "time_info": "[09时51分 ~ 11时15分]"
         },
         {
           "title": "重大利好！免税店政策“大突破”",
@@ -469,15 +530,15 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://www.cls.cn/detail/2187070",
-          "source": "财联社热门",
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -497,9 +558,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "国家发改委：将会同有关部门加强常态化政策预研储备并视情及时出台实施",
+          "url": "https://wallstreetcn.com/livenews/2997352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -514,6 +586,41 @@
           "time_info": "[04时26分 ~ 06时24分]"
         },
         {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://news.ifeng.com/c/8ntJZC8qeev",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
+        },
+        {
           "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
           "url": "https://wallstreetcn.com/livenews/2997144",
           "source": "华尔街见闻-快讯",
@@ -524,6 +631,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时24分]"
+        },
+        {
+          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2187115",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 11时15分]"
         },
         {
           "title": "看涨铜期权交易：一名交易员在大宗商品创纪录上涨中净赚2500万美元",
@@ -550,39 +668,6 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://news.ifeng.com/c/8ntJZC8qeev",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
-          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2187115",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
           "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
           "url": "https://flash.jin10.com/detail/20251031043733799800",
           "source": "金十数据",
@@ -605,17 +690,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
         },
         {
           "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
@@ -660,7 +734,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -682,7 +756,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -715,9 +789,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "国家发展改革委：新型政策性金融工具5000亿元资金已全部投放完毕，重点投向数字经济、人工智能等领域",
+          "url": "https://wallstreetcn.com/livenews/2997319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "欧洲央行行长拉加德：货币（政策）传导机制非常有效。 央行（货币政策）决定绝对是一致通过的。",
@@ -759,8 +844,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时23分 ~ 09时52分]"
+          "appearance_count": 8,
+          "time_info": "[06时23分 ~ 11时15分]"
         },
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -770,8 +855,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 11时15分]"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -914,6 +999,48 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价狂飙婚事耽搁2年女子发声",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D28%26pos%3D28%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
+          "source": "微博",
+          "ranks": [
+            28,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时26分 ~ 09时52分]"
+        },
+        {
+          "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
+          "url": "https://flash.jin10.com/detail/20251031092806995800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
+          "url": "https://flash.jin10.com/detail/20251031101827586800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -950,37 +1077,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价狂飙婚事耽搁2年女子发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D28%26pos%3D28%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
-          "source": "微博",
-          "ranks": [
-            28,
-            15,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时26分 ~ 09时52分]"
-        },
-        {
-          "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
-          "url": "https://flash.jin10.com/detail/20251031092806995800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         }
       ]
     },
