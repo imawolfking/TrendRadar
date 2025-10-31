@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T12:30:45.209344+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-10-31T13:25:52.511809+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -75,11 +75,12 @@
             4,
             1,
             2,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -105,8 +106,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 13时25分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -118,6 +131,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -171,11 +196,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
@@ -189,27 +215,18 @@
           "time_info": "[00时31分 ~ 09时52分]"
         },
         {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2585%25A8%25E9%259D%25A2%25E5%2585%25B3%25E7%25A8%258E%25E8%25A2%25AB%25E5%258F%2582%25E8%25AE%25AE%25E9%2599%25A2%25E6%2589%25B9%25E5%2587%2586%25E7%25BB%2588%25E6%25AD%25A2%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26realpos%3D1%26band_rank%3D1%26display_time%3D1761875370%26pre_seqid%3D1761875370761026852861",
+          "source": "微博",
           "ranks": [
             1,
-            4
+            2,
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
-        },
-        {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -222,19 +239,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时21分 ~ 11时15分]"
-        },
-        {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2585%25A8%25E9%259D%25A2%25E5%2585%25B3%25E7%25A8%258E%25E8%25A2%25AB%25E5%258F%2582%25E8%25AE%25AE%25E9%2599%25A2%25E6%2589%25B9%25E5%2587%2586%25E7%25BB%2588%25E6%25AD%25A2%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26realpos%3D1%26band_rank%3D1%26display_time%3D1761875370%26pre_seqid%3D1761875370761026852861",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -257,9 +261,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://www.douyin.com/hot/2289166",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普已抵达华盛顿。",
@@ -273,16 +288,28 @@
           "time_info": "03时21分"
         },
         {
+          "title": "据英国金融时报：在莫斯科向华盛顿发送备忘录后，特朗普与普京的峰会被取消。",
+          "url": "https://flash.jin10.com/detail/20251031130426387800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "外交部回应特朗普重启核试验",
           "url": "https://www.douyin.com/hot/2288630",
           "source": "抖音",
           "ranks": [
             10,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：因为民主党人已经彻底疯了，选择是明确的——启动“核选项”，摆脱阻挠议事。",
@@ -313,20 +340,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
-        },
-        {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://www.douyin.com/hot/2289166",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
         },
         {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
@@ -419,7 +435,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -455,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "如何看待美国参议院否决特朗普关税",
+          "url": "https://www.toutiao.com/trending/7567192986853838355/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "美国贸易代表格里尔：总统特朗普希望与巴西总统卢拉达成一份协议。",
@@ -504,7 +531,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -539,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时30分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -550,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -561,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时25分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -573,8 +600,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "重大利好！免税店政策“大突破”",
@@ -591,16 +631,60 @@
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6,
-            5
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
+        },
+        {
+          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2187115",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时25分]"
+        },
+        {
+          "title": "吴清：营造更具吸引力的“长钱长投”制度环境",
+          "url": "https://wallstreetcn.com/livenews/2997409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "吴清：更大力度推动优化上市公司结构、提升投资价值",
+          "url": "https://wallstreetcn.com/livenews/2997405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "吴清：健全科创企业识别筛选、价格形成等制度机制",
+          "url": "https://wallstreetcn.com/livenews/2997404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -625,39 +709,26 @@
           "time_info": "09时52分"
         },
         {
-          "title": "“粤车南下”香港政策正式公布 首批开放四个城市",
-          "url": "https://wallstreetcn.com/livenews/2997386",
+          "title": "吴清：提高资本市场制度包容性、适应性 意义重大",
+          "url": "https://wallstreetcn.com/livenews/2997403",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "13时25分"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
+          "title": "吴清：紧紧围绕市场所需、群众所呼推进制度改革",
+          "url": "https://wallstreetcn.com/livenews/2997402",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
-        },
-        {
-          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2187115",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -694,6 +765,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "“粤车南下”香港政策正式公布 首批开放四个城市",
+          "url": "https://wallstreetcn.com/livenews/2997386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
         },
         {
           "title": "金十提示：美联储洛根在银行业融资会议的开幕致辞中未提及经济前景和货币政策。",
@@ -756,6 +839,18 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
           "title": "10年期德债收益率涨超2个基点，投资者权衡鲍威尔对政策利率释放的信号和欧洲央行利率决议",
           "url": "https://wallstreetcn.com/livenews/2997075",
           "source": "华尔街见闻-快讯",
@@ -780,15 +875,15 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
+          "title": "【吴清：加力实施更具包容性的发行上市、并购重组制度】在近日出版的《〈中共中央关于制定国民经济和社会发展第十五个五年规划的建议〉辅导读本》中，证监会主席吴清发表题为《提高资本市场制度包容性、适应性》的署名文章，吴清指出，要坚持目标导向、问题导向，紧紧围绕健全投资和融资相协调的资本市场功能，进一步全面深化资本市场改革，持续提高资本市场制度包容性、适应性和吸引力、竞争力。 一是更大力度支持科技创新。适应科技企业研发投入大、经营不确定性大、盈利周期长等特征，加力实施更具包容性的发行上市、并购重组等制度，扎实做好金融“五篇大文章”。 二是更好满足投资者多元化财富管理需求。坚持投资者为本，着力打造多层次、立体化的市场体系和产品服务矩阵，持续拓宽中长期资金入市渠道，不断增强投资者获得感。 三是更加精准高效加强监管和防控风险。及时跟进国际国内资本市场创新发展趋势变化，提升监管的科学性、有效性，强化科技赋能监管，增强风险监测预警处置能力，持续稳定和活跃资本市场。",
+          "url": "https://wallstreetcn.com/livenews/2997401",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "13时25分"
         },
         {
           "title": "日本经济财政大臣城内实：预计日本央行将根据联合声明实施适当的货币政策，以实现物价目标。",
@@ -824,6 +919,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31859280",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "瑞士央行管委会成员Tschudin：我们的货币政策是扩张性的。",
           "url": "https://flash.jin10.com/detail/20251031012908306800",
           "source": "金十数据",
@@ -833,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "“粤车南下”香港政策正式公布",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%B2%A4%E8%BD%A6%E5%8D%97%E4%B8%8B%E2%80%9D%E9%A6%99%E6%B8%AF%E6%94%BF%E7%AD%96%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "瑞士央行管委会成员Tschudin：我们目前正处于货币政策适当的境地。",
@@ -894,8 +1011,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时23分 ~ 12时30分]"
+          "appearance_count": 10,
+          "time_info": "[06时23分 ~ 13时25分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -918,8 +1035,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 12时30分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -1108,7 +1225,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         }
