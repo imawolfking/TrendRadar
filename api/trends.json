@@ -1,11 +1,567 @@
 {
-  "generated_at": "2025-10-31T14:36:12.851954+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-10-31T15:23:24.566832+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
+      "match_count": 47,
+      "titles": [
+        {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://www.cls.cn/detail/2187068",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时25分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://www.cls.cn/detail/2187070",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 14时36分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://news.ifeng.com/c/8ntJZC8qeev",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时23分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2187115",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "重大利好！免税店政策“大突破”",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%85%8D%E7%A8%8E%E5%BA%97%E6%94%BF%E7%AD%96%E2%80%9C%E5%A4%A7%E7%AA%81%E7%A0%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-10-31）",
+          "url": "https://flash.jin10.com/detail/20251031145217421800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "吴清：营造更具吸引力的“长钱长投”制度环境",
+          "url": "https://wallstreetcn.com/livenews/2997409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "吴清：更大力度推动优化上市公司结构、提升投资价值",
+          "url": "https://wallstreetcn.com/livenews/2997405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "吴清：健全科创企业识别筛选、价格形成等制度机制",
+          "url": "https://wallstreetcn.com/livenews/2997404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2997111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "A股免税概念走强，海汽集团盘中触及涨停，平潭发展、凯撒旅业、海南发展、茂业商业等涨幅居前。消息面上，财政部、商务部、文化和旅游部、海关总署、税务总局印发《关于完善免税店政策支持提振消费的通知》。",
+          "url": "https://wallstreetcn.com/livenews/2997296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "吴清：提高资本市场制度包容性、适应性 意义重大",
+          "url": "https://wallstreetcn.com/livenews/2997403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "吴清：紧紧围绕市场所需、群众所呼推进制度改革",
+          "url": "https://wallstreetcn.com/livenews/2997402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时24分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时23分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher：政策周期已接近尾声或即将结束",
+          "url": "https://wallstreetcn.com/livenews/2997481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时23分]"
+        },
+        {
+          "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
+          "url": "https://wallstreetcn.com/livenews/2997144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时24分]"
+        },
+        {
+          "title": "看涨铜期权交易：一名交易员在大宗商品创纪录上涨中净赚2500万美元",
+          "url": "https://wallstreetcn.com/livenews/2997156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "“粤车南下”香港政策正式公布 首批开放四个城市",
+          "url": "https://wallstreetcn.com/livenews/2997386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
+          "title": "金十提示：美联储洛根在银行业融资会议的开幕致辞中未提及经济前景和货币政策。",
+          "url": "https://flash.jin10.com/detail/20251031020323516800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "国家发改委：将会同有关部门加强常态化政策预研储备并视情及时出台实施",
+          "url": "https://wallstreetcn.com/livenews/2997352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时30分]"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实城内实：将采取紧急措施应对通胀。 重要的是要让家庭能切实感受到生活的改善。 希望就经济方案进行跨党派讨论。 目标是在不加税的情况下增加税收。 我不会无视财政纪律。 将在保持财政纪律的同时采取财政措施。 应该探索所有的财政工具来资助经济一揽子计划。 只要财政信任依然存在，所有工具都在考虑之中。",
+          "url": "https://wallstreetcn.com/livenews/2997474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时23分]"
+        },
+        {
+          "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31859280",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时23分]"
+        },
+        {
+          "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251031043733799800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时24分]"
+        },
+        {
+          "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20251031043612973800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时24分]"
+        },
+        {
+          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
+          "url": "https://flash.jin10.com/detail/20251031015822268800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "10年期德债收益率涨超2个基点，投资者权衡鲍威尔对政策利率释放的信号和欧洲央行利率决议",
+          "url": "https://wallstreetcn.com/livenews/2997075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时21分]"
+        },
+        {
+          "title": "证监会从严惩处行业机构从业人员编造传播虚假信息",
+          "url": "https://wallstreetcn.com/livenews/2997462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时23分]"
+        },
+        {
+          "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
+          "url": "https://wallstreetcn.com/livenews/2997133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时24分]"
+        },
+        {
+          "title": "“粤车南下”香港政策正式公布",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%B2%A4%E8%BD%A6%E5%8D%97%E4%B8%8B%E2%80%9D%E9%A6%99%E6%B8%AF%E6%94%BF%E7%AD%96%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 15时23分]"
+        },
+        {
+          "title": "【吴清：加力实施更具包容性的发行上市、并购重组制度】在近日出版的《〈中共中央关于制定国民经济和社会发展第十五个五年规划的建议〉辅导读本》中，证监会主席吴清发表题为《提高资本市场制度包容性、适应性》的署名文章，吴清指出，要坚持目标导向、问题导向，紧紧围绕健全投资和融资相协调的资本市场功能，进一步全面深化资本市场改革，持续提高资本市场制度包容性、适应性和吸引力、竞争力。 一是更大力度支持科技创新。适应科技企业研发投入大、经营不确定性大、盈利周期长等特征，加力实施更具包容性的发行上市、并购重组等制度，扎实做好金融“五篇大文章”。 二是更好满足投资者多元化财富管理需求。坚持投资者为本，着力打造多层次、立体化的市场体系和产品服务矩阵，持续拓宽中长期资金入市渠道，不断增强投资者获得感。 三是更加精准高效加强监管和防控风险。及时跟进国际国内资本市场创新发展趋势变化，提升监管的科学性、有效性，强化科技赋能监管，增强风险监测预警处置能力，持续稳定和活跃资本市场。",
+          "url": "https://wallstreetcn.com/livenews/2997401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "吴清：提高资本市场制度包容性、适应性",
+          "url": "https://www.cls.cn/detail/2187494",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：预计日本央行将根据联合声明实施适当的货币政策，以实现物价目标。",
+          "url": "https://flash.jin10.com/detail/20251031092703570800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "潘功胜：研究和储备应对宏观经济、金融市场波动等领域的政策工具",
+          "url": "https://www.cls.cn/detail/2187525",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，参众两院三分之二绝对多数才能推翻总统否决",
+          "url": "https://wallstreetcn.com/livenews/2997170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：预计日本央行将根据与政府之间的联合声明实施适当的货币政策，以实现价格目标。",
+          "url": "https://wallstreetcn.com/livenews/2997278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "瑞士央行管委会成员Tschudin：我们的货币政策是扩张性的。",
+          "url": "https://flash.jin10.com/detail/20251031012908306800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "瑞士央行管委会成员Tschudin：我们目前正处于货币政策适当的境地。",
+          "url": "https://flash.jin10.com/detail/20251031012854633800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "终止特朗普全面关税政策落地有多难",
+          "url": "https://www.toutiao.com/trending/7567230870218608138/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：货币政策由日本央行决定 相信美国财长贝森特知道，日本央行不会在本周的会议上改变政策。",
+          "url": "https://wallstreetcn.com/livenews/2997265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "国家发展改革委：新型政策性金融工具5000亿元资金已全部投放完毕，重点投向数字经济、人工智能等领域",
+          "url": "https://wallstreetcn.com/livenews/2997319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：货币（政策）传导机制非常有效。 央行（货币政策）决定绝对是一致通过的。",
+          "url": "https://wallstreetcn.com/livenews/2997007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -27,8 +583,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 14时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -79,8 +635,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 14时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -101,11 +657,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -129,11 +686,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -203,8 +761,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 14时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
@@ -216,6 +774,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 09时52分]"
+        },
+        {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://www.douyin.com/hot/2289166",
+          "source": "抖音",
+          "ranks": [
+            14,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 15时23分]"
         },
         {
           "title": "特朗普下令重启核试验，美国官员麻了：不切实际",
@@ -256,18 +827,6 @@
           "time_info": "[07时21分 ~ 11时15分]"
         },
         {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://www.douyin.com/hot/2289166",
-          "source": "抖音",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
-        },
-        {
           "title": "外交部回应特朗普重启核试验",
           "url": "https://www.douyin.com/hot/2288630",
           "source": "抖音",
@@ -275,11 +834,12 @@
             10,
             1,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时23分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -349,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：预计将与美国总统特朗普达成一项经济协议。",
+          "url": "https://flash.jin10.com/detail/20251031144914884800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
@@ -447,6 +1018,17 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "匈牙利总理欧尔班：下周与美国总统特朗普的会晤可能会使我们更接近和平峰会。",
+          "url": "https://flash.jin10.com/detail/20251031144758403800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "特朗普称把很多台湾的生意带回美国",
           "url": "https://www.toutiao.com/trending/7566839980006866954/",
           "source": "今日头条",
@@ -497,7 +1079,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -548,511 +1130,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 43,
-      "titles": [
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://www.cls.cn/detail/2187068",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时21分 ~ 13时25分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://www.cls.cn/detail/2187070",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://news.ifeng.com/c/8ntJZC8qeev",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时36分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
-        },
-        {
-          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2187115",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 14时36分]"
-        },
-        {
-          "title": "重大利好！免税店政策“大突破”",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%85%8D%E7%A8%8E%E5%BA%97%E6%94%BF%E7%AD%96%E2%80%9C%E5%A4%A7%E7%AA%81%E7%A0%B4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "吴清：营造更具吸引力的“长钱长投”制度环境",
-          "url": "https://wallstreetcn.com/livenews/2997409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "吴清：更大力度推动优化上市公司结构、提升投资价值",
-          "url": "https://wallstreetcn.com/livenews/2997405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：政策周期已接近尾声或即将结束",
-          "url": "https://wallstreetcn.com/livenews/2997481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "吴清：健全科创企业识别筛选、价格形成等制度机制",
-          "url": "https://wallstreetcn.com/livenews/2997404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2997111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "A股免税概念走强，海汽集团盘中触及涨停，平潭发展、凯撒旅业、海南发展、茂业商业等涨幅居前。消息面上，财政部、商务部、文化和旅游部、海关总署、税务总局印发《关于完善免税店政策支持提振消费的通知》。",
-          "url": "https://wallstreetcn.com/livenews/2997296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "吴清：提高资本市场制度包容性、适应性 意义重大",
-          "url": "https://wallstreetcn.com/livenews/2997403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "吴清：紧紧围绕市场所需、群众所呼推进制度改革",
-          "url": "https://wallstreetcn.com/livenews/2997402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "日本经济财政政策大臣城内实城内实：将采取紧急措施应对通胀。 重要的是要让家庭能切实感受到生活的改善。 希望就经济方案进行跨党派讨论。 目标是在不加税的情况下增加税收。 我不会无视财政纪律。 将在保持财政纪律的同时采取财政措施。 应该探索所有的财政工具来资助经济一揽子计划。 只要财政信任依然存在，所有工具都在考虑之中。",
-          "url": "https://wallstreetcn.com/livenews/2997474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758229",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 06时24分]"
-        },
-        {
-          "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
-          "url": "https://wallstreetcn.com/livenews/2997144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "看涨铜期权交易：一名交易员在大宗商品创纪录上涨中净赚2500万美元",
-          "url": "https://wallstreetcn.com/livenews/2997156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时22分]"
-        },
-        {
-          "title": "“粤车南下”香港政策正式公布 首批开放四个城市",
-          "url": "https://wallstreetcn.com/livenews/2997386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时25分]"
-        },
-        {
-          "title": "金十提示：美联储洛根在银行业融资会议的开幕致辞中未提及经济前景和货币政策。",
-          "url": "https://flash.jin10.com/detail/20251031020323516800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时21分]"
-        },
-        {
-          "title": "国家发改委：将会同有关部门加强常态化政策预研储备并视情及时出台实施",
-          "url": "https://wallstreetcn.com/livenews/2997352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时30分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时36分]"
-        },
-        {
-          "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31859280",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时36分]"
-        },
-        {
-          "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
-          "url": "https://flash.jin10.com/detail/20251031043733799800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20251031043612973800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
-          "url": "https://flash.jin10.com/detail/20251031015822268800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时21分]"
-        },
-        {
-          "title": "10年期德债收益率涨超2个基点，投资者权衡鲍威尔对政策利率释放的信号和欧洲央行利率决议",
-          "url": "https://wallstreetcn.com/livenews/2997075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时21分]"
-        },
-        {
-          "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
-          "url": "https://wallstreetcn.com/livenews/2997133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "【吴清：加力实施更具包容性的发行上市、并购重组制度】在近日出版的《〈中共中央关于制定国民经济和社会发展第十五个五年规划的建议〉辅导读本》中，证监会主席吴清发表题为《提高资本市场制度包容性、适应性》的署名文章，吴清指出，要坚持目标导向、问题导向，紧紧围绕健全投资和融资相协调的资本市场功能，进一步全面深化资本市场改革，持续提高资本市场制度包容性、适应性和吸引力、竞争力。 一是更大力度支持科技创新。适应科技企业研发投入大、经营不确定性大、盈利周期长等特征，加力实施更具包容性的发行上市、并购重组等制度，扎实做好金融“五篇大文章”。 二是更好满足投资者多元化财富管理需求。坚持投资者为本，着力打造多层次、立体化的市场体系和产品服务矩阵，持续拓宽中长期资金入市渠道，不断增强投资者获得感。 三是更加精准高效加强监管和防控风险。及时跟进国际国内资本市场创新发展趋势变化，提升监管的科学性、有效性，强化科技赋能监管，增强风险监测预警处置能力，持续稳定和活跃资本市场。",
-          "url": "https://wallstreetcn.com/livenews/2997401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：预计日本央行将根据联合声明实施适当的货币政策，以实现物价目标。",
-          "url": "https://flash.jin10.com/detail/20251031092703570800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "证监会从严惩处行业机构从业人员编造传播虚假信息",
-          "url": "https://wallstreetcn.com/livenews/2997462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，参众两院三分之二绝对多数才能推翻总统否决",
-          "url": "https://wallstreetcn.com/livenews/2997170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "日本经济财政政策大臣城内实：预计日本央行将根据与政府之间的联合声明实施适当的货币政策，以实现价格目标。",
-          "url": "https://wallstreetcn.com/livenews/2997278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：我们的货币政策是扩张性的。",
-          "url": "https://flash.jin10.com/detail/20251031012908306800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "“粤车南下”香港政策正式公布",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%B2%A4%E8%BD%A6%E5%8D%97%E4%B8%8B%E2%80%9D%E9%A6%99%E6%B8%AF%E6%94%BF%E7%AD%96%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "瑞士央行管委会成员Tschudin：我们目前正处于货币政策适当的境地。",
-          "url": "https://flash.jin10.com/detail/20251031012854633800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：货币政策由日本央行决定 相信美国财长贝森特知道，日本央行不会在本周的会议上改变政策。",
-          "url": "https://wallstreetcn.com/livenews/2997265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "国家发展改革委：新型政策性金融工具5000亿元资金已全部投放完毕，重点投向数字经济、人工智能等领域",
-          "url": "https://wallstreetcn.com/livenews/2997319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：货币（政策）传导机制非常有效。 央行（货币政策）决定绝对是一致通过的。",
-          "url": "https://wallstreetcn.com/livenews/2997007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
@@ -1077,8 +1154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时21分 ~ 14时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 15时23分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
