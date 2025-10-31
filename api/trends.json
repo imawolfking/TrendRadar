@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-10-31T19:21:47.524936+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-10-31T20:53:38.012991+08:00",
+  "total_titles_processed": 1828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 19时21分]"
-        },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
           "url": "https://www.cls.cn/detail/2186587",
@@ -30,6 +18,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 20时53分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -81,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时51分 ~ 20时53分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -107,23 +108,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 19时21分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时51分 ~ 20时53分]"
         },
         {
           "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
@@ -139,8 +125,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 20时53分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 20时53分]"
         },
         {
           "title": "吴清：提高资本市场制度包容性、适应性",
@@ -194,6 +195,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "美联储施密德：美联储的政策立场仅真有温和的限制性。",
+          "url": "https://flash.jin10.com/detail/20251031203541469800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "吴清：营造更具吸引力的“长钱长投”制度环境",
           "url": "https://wallstreetcn.com/livenews/2997409",
           "source": "华尔街见闻-快讯",
@@ -203,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：就业市场总体平衡，通胀过高。 降息无法解决就业市场的结构性变化。 美联储的政策立场仅具有温和的限制性。",
+          "url": "https://wallstreetcn.com/livenews/2997726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "潘功胜：研究和储备应对宏观经济、金融市场波动等领域的政策工具",
@@ -218,6 +241,17 @@
           "time_info": "[15时23分 ~ 19时21分]"
         },
         {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时53分]"
+        },
+        {
           "title": "吴清：更大力度推动优化上市公司结构、提升投资价值",
           "url": "https://wallstreetcn.com/livenews/2997405",
           "source": "华尔街见闻-快讯",
@@ -227,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "证监会集中披露4则处罚决定书，多人因内幕交易领罚单",
+          "url": "https://www.cls.cn/detail/2188222",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "吴清：健全科创企业识别筛选、价格形成等制度机制",
@@ -305,17 +350,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时26分 ~ 06时24分]"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时21分]"
         },
         {
           "title": "欧洲央行管委Kocher：政策周期已接近尾声或即将结束",
@@ -588,7 +622,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -613,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "第一创业：全资子公司一创投行被证监会立案",
+          "url": "https://wallstreetcn.com/livenews/2997704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，参众两院三分之二绝对多数才能推翻总统否决",
@@ -681,6 +726,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "第一创业：因一创投行在鸿达兴业股份有限公司2019年可转债项目中，涉嫌持续督导业务未勤勉尽责，中国证监会决定对一创投行立案。",
+          "url": "https://wallstreetcn.com/livenews/2997697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "清越科技：因公司涉嫌定期报告等财务数据虚假记载，中国证监会决定对公司立案",
           "url": "https://wallstreetcn.com/livenews/2997613",
           "source": "华尔街见闻-快讯",
@@ -734,12 +790,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "一男子内幕交易亏损，被证监会罚款500万",
+          "url": "https://wallstreetcn.com/livenews/2997685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：欧洲央行必须在政策上保持充分的灵活性。",
+          "url": "https://flash.jin10.com/detail/20251031201830257800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -872,8 +950,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时51分 ~ 20时53分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -972,6 +1050,18 @@
           "time_info": "[09时51分 ~ 16时33分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时53分]"
+        },
+        {
           "title": "特朗普为何不参加APEC峰会",
           "url": "https://www.toutiao.com/trending/7567275879148031498/",
           "source": "今日头条",
@@ -1020,17 +1110,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时21分 ~ 11时15分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -1128,6 +1207,20 @@
           "time_info": "15时23分"
         },
         {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            8,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时53分]"
+        },
+        {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
           "url": "https://wallstreetcn.com/livenews/2997087",
           "source": "华尔街见闻-快讯",
@@ -1150,19 +1243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时27分]"
-        },
-        {
-          "title": "外交部回应特朗普“G2”集团言论",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "特朗普关税被指“违法”对华意味什么",
@@ -1343,7 +1423,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1390,12 +1470,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "中方回应特朗普所称G2会议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E7%A7%B0G2%E4%BC%9A%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26realpos%3D29%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%2580%25E7%25A7%25B0G2%25E4%25BC%259A%25E8%25AE%25AE%2523%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D0%26band_rank%3D29%26display_time%3D1761914659%26pre_seqid%3D17619146597940338261852&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1406,8 +1497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 19时21分]"
+          "appearance_count": 17,
+          "time_info": "[07时21分 ~ 20时53分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -1570,7 +1661,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1597,13 +1688,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1656,11 +1758,12 @@
           "ranks": [
             25,
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时53分]"
         },
         {
           "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
