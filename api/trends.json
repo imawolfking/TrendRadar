@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-31T20:53:38.012991+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2025-10-31T21:35:10.555965+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时14分 ~ 21时35分]"
+        },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
           "url": "https://www.cls.cn/detail/2186587",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时14分 ~ 20时53分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -82,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 20时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时51分 ~ 21时35分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -108,8 +108,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 20时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时51分 ~ 21时35分]"
         },
         {
           "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
@@ -125,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 21时35分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -140,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时30分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[12时30分 ~ 21时35分]"
         },
         {
           "title": "吴清：提高资本市场制度包容性、适应性",
@@ -169,6 +169,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 21时35分]"
+        },
+        {
+          "title": "证监会集中披露4则处罚决定书，多人因内幕交易领罚单",
+          "url": "https://www.cls.cn/detail/2188222",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
           "title": "重大利好！免税店政策“大突破”",
@@ -201,7 +223,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -223,7 +245,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -241,17 +263,6 @@
           "time_info": "[15时23分 ~ 19时21分]"
         },
         {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时53分]"
-        },
-        {
           "title": "吴清：更大力度推动优化上市公司结构、提升投资价值",
           "url": "https://wallstreetcn.com/livenews/2997405",
           "source": "华尔街见闻-快讯",
@@ -261,17 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "证监会集中披露4则处罚决定书，多人因内幕交易领罚单",
-          "url": "https://www.cls.cn/detail/2188222",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "吴清：健全科创企业识别筛选、价格形成等制度机制",
@@ -581,6 +581,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "第一创业：全资子公司一创投行被证监会立案",
+          "url": "https://wallstreetcn.com/livenews/2997704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
+        },
+        {
           "title": "证监会：长期显著跑输业绩比较基准 基金经理的绩效薪酬将大幅下调",
           "url": "https://wallstreetcn.com/livenews/2997634",
           "source": "华尔街见闻-快讯",
@@ -616,6 +628,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "中国证监会国际顾问委员会第22次会议在京召开",
+          "url": "https://wallstreetcn.com/livenews/2997730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "土耳其央行：将根据实际和预期的通胀及其潜在趋势来确定政策利率，以确保与中期目标相符的预期通胀回落路径所需的紧缩程度。",
           "url": "https://flash.jin10.com/detail/20251031190211385800",
           "source": "金十数据",
@@ -649,15 +672,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "第一创业：全资子公司一创投行被证监会立案",
-          "url": "https://wallstreetcn.com/livenews/2997704",
+          "title": "美国堪萨斯城联储主席Schmid：就业市场总体平衡，通胀过高。 降息无法解决就业市场的结构性变化。 美联储的政策立场仅具有温和的限制性。 货币政策应当抑制需求增长。",
+          "url": "https://wallstreetcn.com/livenews/2997726",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时35分"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，参众两院三分之二绝对多数才能推翻总统否决",
@@ -732,7 +755,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -798,7 +821,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -809,7 +832,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -937,6 +960,18 @@
           "time_info": "[00时31分 ~ 13时25分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普全面关税被参议院批准终止",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
           "source": "bilibili 热搜",
@@ -947,11 +982,12 @@
             9,
             10,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 20时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时51分 ~ 21时35分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -1050,18 +1086,6 @@
           "time_info": "[09时51分 ~ 16时33分]"
         },
         {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时53分]"
-        },
-        {
           "title": "特朗普为何不参加APEC峰会",
           "url": "https://www.toutiao.com/trending/7567275879148031498/",
           "source": "今日头条",
@@ -1125,6 +1149,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时14分 ~ 15时23分]"
+        },
+        {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            8,
+            23,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时35分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -1205,20 +1244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
-        },
-        {
-          "title": "外交部回应特朗普“G2”集团言论",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            8,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时53分]"
         },
         {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
@@ -1478,7 +1503,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -1486,7 +1511,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1497,8 +1522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 20时53分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 21时35分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -1621,6 +1646,17 @@
           "time_info": "[16时33分 ~ 17时27分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
           "url": "https://flash.jin10.com/detail/20251031040124209800",
           "source": "金十数据",
@@ -1633,6 +1669,18 @@
           "time_info": "[04时27分 ~ 05时21分]"
         },
         {
+          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时35分]"
+        },
+        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -1642,6 +1690,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
+          "url": "https://wallstreetcn.com/livenews/2997746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -1688,17 +1758,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
@@ -1708,6 +1767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
+          "url": "https://flash.jin10.com/detail/20251031205708619800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "小马智行美股盘前涨超5%。",
@@ -1762,8 +1832,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时35分]"
         },
         {
           "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
@@ -1867,6 +1937,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财长贝森特：与新加坡总理商谈了暂停采购俄罗斯和伊朗石油事宜。",
+          "url": "https://flash.jin10.com/detail/20251031205434035800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     }
