@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:35:10.555965+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2025-10-31T22:26:22.057922+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时14分 ~ 21时35分]"
+          "appearance_count": 16,
+          "time_info": "[11时14分 ~ 22时26分]"
         },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -82,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时51分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时51分 ~ 22时26分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -108,8 +108,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时51分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时51分 ~ 22时26分]"
         },
         {
           "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
@@ -125,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时25分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[13时25分 ~ 22时26分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -140,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时30分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时30分 ~ 22时26分]"
         },
         {
           "title": "吴清：提高资本市场制度包容性、适应性",
@@ -178,19 +178,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 22时26分]"
         },
         {
           "title": "证监会集中披露4则处罚决定书，多人因内幕交易领罚单",
           "url": "https://www.cls.cn/detail/2188222",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时26分]"
         },
         {
           "title": "重大利好！免税店政策“大突破”",
@@ -634,7 +635,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -661,6 +662,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "日本经济财政大臣城内实：预计日本央行将根据联合声明实施适当的货币政策，以实现物价目标。",
           "url": "https://flash.jin10.com/detail/20251031092703570800",
           "source": "金十数据",
@@ -678,7 +690,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -804,6 +816,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "美国达拉斯联储主席Logan：更倾向于本周维持利率不变。 我认为12月再次降息难度较大。 美联储9月份的降息已经缓解了就业风险。 如果回购利率保持高位，美联储将需要购买资产。 准备金规模可能还有进一步温和下降的空间。 看到三方回购利率超过SRF利率感到失望。 美联储是时候对政策利率框架进行现代化改革了。 资产购买的规模和时机不应是机械的。",
+          "url": "https://wallstreetcn.com/livenews/2997752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "欧洲央行行长拉加德：货币（政策）传导机制非常有效。 央行（货币政策）决定绝对是一致通过的。",
           "url": "https://wallstreetcn.com/livenews/2997007",
           "source": "华尔街见闻-快讯",
@@ -840,7 +863,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -945,6 +968,18 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 22时26分]"
+        },
+        {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
           "url": "https://wallstreetcn.com/articles/3758273",
           "source": "华尔街见闻",
@@ -958,18 +993,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时31分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时35分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -1464,6 +1487,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "土耳其外交部长：与美国总统特朗普在纽约会晤讨论加沙问题的各国外交部长将于下周一召开会议，商讨加沙停火事宜。",
+          "url": "https://flash.jin10.com/detail/20251031214220761800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "市场消息：美国参议院已获得足够票数通过旨在终止特朗普为实施全球关税而宣布的国家紧急状态的决议。",
           "url": "https://flash.jin10.com/detail/20251031011523348800",
           "source": "金十数据",
@@ -1511,7 +1545,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1522,8 +1556,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时21分 ~ 21时35分]"
+          "appearance_count": 20,
+          "time_info": "[07时21分 ~ 22时26分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -1622,6 +1656,30 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时26分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时26分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)美股盘后大涨超10%。",
           "url": "https://flash.jin10.com/detail/20251031040446703800",
           "source": "金十数据",
@@ -1644,17 +1702,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时27分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
@@ -1692,24 +1739,13 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2997747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
           "url": "https://wallstreetcn.com/livenews/2997746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1769,13 +1805,46 @@
           "time_info": "19时21分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251031214235711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
           "url": "https://flash.jin10.com/detail/20251031205708619800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1951,7 +2020,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
