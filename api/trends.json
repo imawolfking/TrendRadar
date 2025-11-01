@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T02:30:40.033968+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2025-11-02T03:17:23.358249+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
-        },
-        {
-          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1967877511644935498",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -38,11 +26,58 @@
           "ranks": [
             16,
             14,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1967877511644935498",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "怀进鹏出席联合国教科文组织大会第43届会议总政策辩论",
+          "url": "https://wallstreetcn.com/livenews/2998032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
+        },
+        {
+          "title": "海南离岛免税政策升级",
+          "url": "https://wallstreetcn.com/livenews/2998028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
+        },
+        {
+          "title": "海南离岛免税政策升级",
+          "url": "https://flash.jin10.com/detail/20251101213438910800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
@@ -56,39 +91,6 @@
           "time_info": "[00时27分 ~ 01时19分]"
         },
         {
-          "title": "怀进鹏出席联合国教科文组织大会第43届会议总政策辩论",
-          "url": "https://wallstreetcn.com/livenews/2998032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时30分]"
-        },
-        {
-          "title": "海南离岛免税政策升级",
-          "url": "https://wallstreetcn.com/livenews/2998028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时30分]"
-        },
-        {
-          "title": "海南离岛免税政策升级",
-          "url": "https://flash.jin10.com/detail/20251101213438910800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时30分]"
-        },
-        {
           "title": "郑州演艺赛事奖励政策今起施行，大型演出最高奖补300万元",
           "url": "https://wallstreetcn.com/livenews/2998012",
           "source": "华尔街见闻-快讯",
@@ -96,8 +98,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -106,9 +108,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时17分]"
         },
         {
           "title": "关于黄金有关税收政策的公告",
@@ -117,7 +119,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
@@ -136,8 +138,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -159,8 +161,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -170,8 +172,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -183,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
@@ -194,8 +196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     },
@@ -212,8 +214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -225,19 +227,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     },
@@ -253,8 +256,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     },
@@ -271,8 +274,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     }
