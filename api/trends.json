@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:45:36.414544+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-11-01T21:29:08.053554+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时56分 ~ 20时45分]"
+          "appearance_count": 17,
+          "time_info": "[09时56分 ~ 21时29分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 20时45分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 21时29分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -71,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时56分 ~ 20时45分]"
+          "appearance_count": 17,
+          "time_info": "[09时56分 ~ 21时29分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -94,8 +95,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[13时23分 ~ 21时29分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -106,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 21时29分]"
         },
         {
           "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
@@ -117,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 21时29分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -353,6 +354,17 @@
           "time_info": "[18时25分 ~ 19时19分]"
         },
         {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
           "url": "https://news.ifeng.com/c/8nujw83bPTx",
           "source": "凤凰网",
@@ -458,17 +470,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时35分]"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -650,7 +651,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "证监会集中披露4则处罚决定书，多人因内幕交易领罚单",
@@ -661,8 +662,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时32分 ~ 20时45分]"
+          "appearance_count": 28,
+          "time_info": "[00时32分 ~ 21时29分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -688,6 +689,20 @@
           "time_info": "[00时32分 ~ 06时27分]"
         },
         {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 21时29分]"
+        },
+        {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
           "url": "https://www.zhihu.com/question/1967877511644935498",
           "source": "知乎",
@@ -699,8 +714,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时26分 ~ 20时45分]"
+          "appearance_count": 15,
+          "time_info": "[12时26分 ~ 21时29分]"
         },
         {
           "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
@@ -714,20 +729,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 11时17分]"
-        },
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 20时45分]"
         },
         {
           "title": "黄金有关税收政策公告来了",
@@ -842,11 +843,24 @@
           "ranks": [
             4,
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时29分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时29分]"
         },
         {
           "title": "美联储哈玛克对改革政策利率目标持开放态度",
@@ -898,15 +912,16 @@
           "time_info": "[16时30分 ~ 17时25分]"
         },
         {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
+          "title": "郑州演艺赛事奖励政策今起施行，大型演出最高奖补300万元",
+          "url": "https://wallstreetcn.com/livenews/2998012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时45分]"
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时29分]"
         },
         {
           "title": "美联储理事米兰：限制性政策对劳动力市场构成风险。",
@@ -933,15 +948,15 @@
           "time_info": "[18时25分 ~ 19时19分]"
         },
         {
-          "title": "郑州演艺赛事奖励政策今起施行，大型演出最高奖补300万元",
-          "url": "https://wallstreetcn.com/livenews/2998012",
-          "source": "华尔街见闻-快讯",
+          "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31870743",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "潘功胜：研究和储备应对宏观经济、金融市场波动等领域的政策工具，持续整治金融业“内卷式”竞争、资金空转",
@@ -1024,8 +1039,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 20时45分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -1040,8 +1055,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 20时45分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 21时29分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -1136,6 +1151,17 @@
           "time_info": "[05时20分 ~ 07时22分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时29分]"
+        },
+        {
           "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
           "url": "https://www.cls.cn/detail/2188453",
           "source": "财联社热门",
@@ -1146,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 12时26分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -1261,11 +1276,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时29分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
