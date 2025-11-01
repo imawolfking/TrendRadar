@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:20:59.928710+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-11-01T23:22:16.117309+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时56分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时56分 ~ 23时22分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时21分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[07时21分 ~ 23时22分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 23时22分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -76,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 23时22分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -95,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时56分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时56分 ~ 23时22分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -149,6 +149,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时35分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时45分 ~ 23时22分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -243,17 +254,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 09时56分]"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -654,7 +654,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -710,8 +710,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时20分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[15时20分 ~ 23时22分]"
         },
         {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
@@ -722,11 +722,12 @@
             8,
             6,
             3,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时26分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[12时26分 ~ 23时22分]"
         },
         {
           "title": "“粤车南下”香港政策正式公布，首批开放四个城市",
@@ -837,6 +838,20 @@
           "time_info": "[09时56分 ~ 18时25分]"
         },
         {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时22分]"
+        },
+        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：仍然认为处于（利率政策的）限制性状态。 本来想在这周要求按兵不动的，最终还是决定支持降息。",
           "url": "https://wallstreetcn.com/livenews/2997819",
           "source": "华尔街见闻-快讯",
@@ -846,41 +861,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时20分]"
-        },
-        {
-          "title": "海南离岛免税政策升级",
-          "url": "https://flash.jin10.com/detail/20251101213438910800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "怀进鹏出席联合国教科文组织大会第43届会议总政策辩论",
-          "url": "https://wallstreetcn.com/livenews/2998032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "美联储理事米兰：不认为关税推高了通胀。 限制性政策对劳动力市场构成风险。 “在我看来”，预测显示12月份将再次降息。 限制性政策使经济更容易受到冲击。",
@@ -895,6 +875,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时25分 ~ 21时29分]"
+        },
+        {
+          "title": "怀进鹏出席联合国教科文组织大会第43届会议总政策辩论",
+          "url": "https://wallstreetcn.com/livenews/2998032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
+          "title": "海南离岛免税政策升级",
+          "url": "https://flash.jin10.com/detail/20251101213438910800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "美联储哈玛克对改革政策利率目标持开放态度",
@@ -915,11 +919,12 @@
           "ranks": [
             7,
             10,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
@@ -970,6 +975,18 @@
           "time_info": "[21时28分 ~ 22时20分]"
         },
         {
+          "title": "海南离岛免税政策升级",
+          "url": "https://wallstreetcn.com/livenews/2998028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "美联储理事米兰：限制性政策对劳动力市场构成风险。",
           "url": "https://flash.jin10.com/detail/20251101172728422800",
           "source": "金十数据",
@@ -992,17 +1009,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 19时19分]"
-        },
-        {
-          "title": "海南离岛免税政策升级",
-          "url": "https://wallstreetcn.com/livenews/2998028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "潘功胜：研究和储备应对宏观经济、金融市场波动等领域的政策工具，持续整治金融业“内卷式”竞争、资金空转",
@@ -1085,8 +1091,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时21分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[07时21分 ~ 23时22分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -1102,8 +1108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时21分 ~ 22时20分]"
+          "appearance_count": 21,
+          "time_info": "[07时21分 ~ 23时22分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -1172,6 +1178,18 @@
           "time_info": "[04时27分 ~ 07时22分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时45分 ~ 23时22分]"
+        },
+        {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
           "url": "https://wallstreetcn.com/livenews/2997900",
           "source": "华尔街见闻-快讯",
@@ -1183,18 +1201,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 22时20分]"
         },
         {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
@@ -1273,8 +1279,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时27分 ~ 16时30分]"
+          "appearance_count": 13,
+          "time_info": "[06时27分 ~ 23时22分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -1348,9 +1354,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         }
       ]
     },
@@ -1370,8 +1376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时24分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[17时24分 ~ 23时22分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
