@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T12:28:22.616630+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2025-11-02T13:23:38.341227+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时30分 ~ 12时28分]"
+          "appearance_count": 12,
+          "time_info": "[02时30分 ~ 13时23分]"
         },
         {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
@@ -132,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时23分]"
         },
         {
           "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
@@ -166,14 +166,14 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时23分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -186,8 +186,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -199,8 +199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -247,8 +247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时23分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -267,11 +267,12 @@
           "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时23分]"
         },
         {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
@@ -282,8 +283,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时23分]"
+        },
+        {
+          "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
+          "url": "https://flash.jin10.com/detail/20251102122507484800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -293,8 +305,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时23分]"
         },
         {
           "title": "美国考虑制作特朗普纪念币",
@@ -330,22 +342,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时23分]"
         },
         {
           "title": "金价起落之间：有人梭哈有人“卧倒”",
           "url": "https://www.toutiao.com/trending/7567509383320567871/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时23分]"
         },
         {
           "title": "黄金税收公告发布是否会影响金价",
