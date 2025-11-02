@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T16:29:10.614024+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-11-02T17:23:46.816243+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 16时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 17时23分]"
         },
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -35,6 +35,19 @@
           "time_info": "[09时59分 ~ 15时23分]"
         },
         {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 17时23分]"
+        },
+        {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
           "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
           "source": "凤凰网",
@@ -46,6 +59,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时27分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 17时23分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -84,19 +109,6 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时29分]"
-        },
-        {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
           "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
           "source": "凤凰网",
@@ -107,18 +119,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时27分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 16时29分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -140,8 +140,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -232,8 +243,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时30分 ~ 16时29分]"
+          "appearance_count": 17,
+          "time_info": "[02时30分 ~ 17时23分]"
         },
         {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
@@ -245,8 +256,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 17时23分]"
         },
         {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
@@ -288,6 +299,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时25分 ~ 11时22分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 17时23分]"
         },
         {
           "title": "海南离岛免税政策升级",
@@ -336,19 +360,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时29分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -490,6 +501,46 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
+          "url": "https://wallstreetcn.com/livenews/2998105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时23分]"
+        },
+        {
+          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
+          "url": "https://flash.jin10.com/detail/20251102162444112800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "伊朗总统：德黑兰将“以更强大的力量”重建其核设施。",
+          "url": "https://flash.jin10.com/detail/20251102160948763800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -504,23 +555,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
-          "url": "https://wallstreetcn.com/livenews/2998105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         }
       ]
     }
