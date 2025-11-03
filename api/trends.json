@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T12:33:31.227681+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-11-03T13:26:29.726617+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -52,8 +52,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时26分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时33分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -105,6 +105,17 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时26分]"
+        },
+        {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
           "url": "https://wallstreetcn.com/livenews/2998163",
           "source": "华尔街见闻-快讯",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
-          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -158,6 +158,19 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时26分]"
+        },
+        {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
           "url": "https://flash.jin10.com/detail/20251103045723386800",
           "source": "金十数据",
@@ -182,19 +195,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时33分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -277,6 +277,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "特朗普的三角外交玩不转了吗",
+          "url": "https://www.toutiao.com/trending/7568318449886170651/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "美国总统特朗普：我不认为我们会对委内瑞拉发动战争。",
           "url": "https://flash.jin10.com/detail/20251103092219460800",
           "source": "金十数据",
@@ -335,7 +346,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
@@ -359,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时26分]"
         },
         {
           "title": "美国财长贝森特：周三不打算出席最高法院关于贸易政策的辩论。",
@@ -413,6 +424,30 @@
           "time_info": "[09时57分 ~ 11时23分]"
         },
         {
+          "title": "11月3日投资避雷针：掩模版龙头涉嫌财务造假遭证监会立案",
+          "url": "https://www.cls.cn/detail/2189009",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时26分]"
+        },
+        {
+          "title": "国家移民管理局发布10项重磅政策",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%E7%AE%A1%E7%90%86%E5%B1%80%E5%8F%91%E5%B8%8310%E9%A1%B9%E9%87%8D%E7%A3%85%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时26分]"
+        },
+        {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
@@ -423,18 +458,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "11月3日投资避雷针：掩模版龙头涉嫌财务造假遭证监会立案",
-          "url": "https://www.cls.cn/detail/2189009",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
         },
         {
           "title": "如何看特朗普说台海政策是秘密",
@@ -449,38 +472,28 @@
           "time_info": "[09时57分 ~ 11时23分]"
         },
         {
-          "title": "国家移民管理局发布10项重磅政策",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%E7%AE%A1%E7%90%86%E5%B1%80%E5%8F%91%E5%B8%8310%E9%A1%B9%E9%87%8D%E7%A3%85%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
-        },
-        {
           "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
           "url": "https://flash.jin10.com/detail/20251103120231849800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时26分]"
         },
         {
           "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
           "url": "https://wallstreetcn.com/livenews/2998342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时26分]"
         },
         {
           "title": "证监会原副主席王建军被“双开”",
@@ -489,9 +502,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时26分]"
         },
         {
           "title": "香港证监会行政总裁梁凤仪：香港将允许本地持牌虚拟资产交易平台与海外关联公司共享全球订单簿，以提高流动性。",
@@ -500,9 +513,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "香港证监会：准许平台营运者发售不具备12个月往绩纪录的虚拟资产予专业投资者及香港发牌的稳定币。",
+          "url": "https://flash.jin10.com/detail/20251103123205704800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "石药集团港交所发布文件显示：公司执行董事潘卫东近日收到证监会向其出具的《行政处罚决定书》，潘违反《中华人民共和国证券法》的相关规定，构成证券法项下的内幕交易。据此，中国证监会责令潘依法处理非法持有的证券，并对其处以人民币500万元罚款。",
@@ -514,6 +538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "中国证监会原党委委员、副主席王建军严重违纪违法被“双开”",
+          "url": "https://www.cls.cn/detail/2189193",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "香港证监会发出新指引利便持牌虚拟资产交易平台 连接全球流动性和扩展多元化产品及服务",
+          "url": "https://wallstreetcn.com/livenews/2998353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "事关港澳台人员往来、过境免签口岸扩容等10项重磅政策发布",
@@ -576,11 +622,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时26分]"
         }
       ]
     },
@@ -644,11 +691,12 @@
           "source": "微博",
           "ranks": [
             23,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时26分]"
         }
       ]
     },
