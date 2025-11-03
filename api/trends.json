@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:57:39.587167+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-03T11:23:07.498259+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -52,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时23分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -136,15 +147,15 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -185,13 +196,49 @@
           "time_info": "[04时25分 ~ 07时22分]"
         },
         {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
+        },
+        {
+          "title": "奥巴马怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7567655390914199593/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
+        },
+        {
+          "title": "学者：特朗普抛G2概念是霸权算计",
+          "url": "https://www.toutiao.com/trending/7568286962377821723/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
+        },
+        {
           "title": "美国总统特朗普：我认为委内瑞拉总统马杜罗的日子已经屈指可数了。",
           "url": "https://flash.jin10.com/detail/20251103093014891800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -202,7 +249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -213,18 +260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "奥巴马怼特朗普政府“无法无天”",
-          "url": "https://www.toutiao.com/trending/7567655390914199593/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -235,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -246,18 +282,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "学者：特朗普抛G2概念是霸权算计",
-          "url": "https://www.toutiao.com/trending/7568286962377821723/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -268,7 +293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -279,18 +304,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -301,7 +315,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -312,7 +326,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
@@ -320,7 +334,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
@@ -334,6 +348,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
+          "url": "https://www.cls.cn/detail/2188963",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
         },
         {
           "title": "美国财长贝森特：周三不打算出席最高法院关于贸易政策的辩论。",
@@ -362,26 +388,27 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
-          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
-          "url": "https://www.cls.cn/detail/2188963",
-          "source": "财联社热门",
+          "title": "中国证监会原党委委员、副主席王建军严重违纪违法被“双开”",
+          "url": "https://wallstreetcn.com/livenews/2998314",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "11时23分"
         },
         {
           "title": "港股老铺黄金盘中跌超8%，此前中国取消黄金税收优惠政策。",
           "url": "https://wallstreetcn.com/livenews/2998268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 11时23分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -396,6 +423,40 @@
           "time_info": "[00时27分 ~ 02时31分]"
         },
         {
+          "title": "如何看特朗普说台海政策是秘密",
+          "url": "https://www.toutiao.com/trending/7568264436717194788/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
+        },
+        {
+          "title": "11月3日投资避雷针：掩模版龙头涉嫌财务造假遭证监会立案",
+          "url": "https://www.cls.cn/detail/2189009",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
+          "title": "国家移民管理局发布10项重磅政策",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%E7%AE%A1%E7%90%86%E5%B1%80%E5%8F%91%E5%B8%8310%E9%A1%B9%E9%87%8D%E7%A3%85%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        },
+        {
           "title": "石药集团港交所发布文件显示：公司执行董事潘卫东近日收到证监会向其出具的《行政处罚决定书》，潘违反《中华人民共和国证券法》的相关规定，构成证券法项下的内幕交易。据此，中国证监会责令潘依法处理非法持有的证券，并对其处以人民币500万元罚款。",
           "url": "https://wallstreetcn.com/livenews/2998182",
           "source": "华尔街见闻-快讯",
@@ -407,71 +468,21 @@
           "time_info": "07时22分"
         },
         {
-          "title": "如何看特朗普说台海政策是秘密",
-          "url": "https://www.toutiao.com/trending/7568264436717194788/",
-          "source": "今日头条",
+          "title": "事关港澳台人员往来、过境免签口岸扩容等10项重磅政策发布",
+          "url": "https://wallstreetcn.com/livenews/2998283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗总统称将重建核设施",
-          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "伊朗总统：将重建核设施，不生产核武器",
-          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "伊朗已做好应对以再次袭击的准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E5%AF%B9%E4%BB%A5%E5%86%8D%E6%AC%A1%E8%A2%AD%E5%87%BB%E7%9A%84%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "伊朗已做好应对以色列再次袭击的准备",
-          "url": "https://www.toutiao.com/trending/7567289908600143926/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "11时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -510,6 +521,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 11时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗总统称将重建核设施",
+          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗总统：将重建核设施，不生产核武器",
+          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "伊朗已做好应对以再次袭击的准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E5%AF%B9%E4%BB%A5%E5%86%8D%E6%AC%A1%E8%A2%AD%E5%87%BB%E7%9A%84%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "伊朗已做好应对以色列再次袭击的准备",
+          "url": "https://www.toutiao.com/trending/7567289908600143926/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -522,11 +594,29 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D23%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26realpos%3D23%26c_type%3D31%26flag%3D1%26cate%3D5001%26display_time%3D1762134458%26pre_seqid%3D17621344587920254830341&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上周多名美联储官员公开表态反对美联储12月降息，美元指数一路走高，在三个月高点附近徘徊；欧佩克+八国决定下月继续增产，明年一季度暂停增产，油价今日亚盘跳空高开，当前美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251103103249533800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "11时23分"
         }
       ]
     }
