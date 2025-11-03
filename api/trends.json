@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T13:26:29.726617+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-11-03T14:38:17.503532+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -42,6 +42,17 @@
           "time_info": "[00时27分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
@@ -52,19 +63,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 14时38分]"
         },
         {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时26分]"
+          "time_info": "[11时22分 ~ 14时38分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
-          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时26分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -164,11 +164,12 @@
           "ranks": [
             28,
             13,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 14时38分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -283,7 +284,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -297,6 +298,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.toutiao.com/trending/7567984366324858899/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。 特朗普表示，他不知道赵长鹏是谁；他百分百支持加密货币行业。",
@@ -332,6 +355,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "特朗普称或军事打击尼日利亚",
           "url": "https://wallstreetcn.com/livenews/2998231",
           "source": "华尔街见闻-快讯",
@@ -346,7 +380,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
@@ -367,11 +401,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 14时38分]"
         },
         {
           "title": "美国财长贝森特：周三不打算出席最高法院关于贸易政策的辩论。",
@@ -400,6 +435,43 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
+          "title": "香港证监会梁凤仪：将允许持牌虚拟资产平台共用全球订单簿",
+          "url": "https://wallstreetcn.com/livenews/2998396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "11月3日投资避雷针：掩模版龙头涉嫌财务造假遭证监会立案",
+          "url": "https://www.cls.cn/detail/2189009",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时38分]"
+        },
+        {
+          "title": "国家移民管理局发布10项重磅政策",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%E7%AE%A1%E7%90%86%E5%B1%80%E5%8F%91%E5%B8%8310%E9%A1%B9%E9%87%8D%E7%A3%85%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时38分]"
+        },
+        {
           "title": "中国证监会原党委委员、副主席王建军严重违纪违法被“双开”",
           "url": "https://wallstreetcn.com/livenews/2998314",
           "source": "华尔街见闻-快讯",
@@ -424,30 +496,6 @@
           "time_info": "[09时57分 ~ 11时23分]"
         },
         {
-          "title": "11月3日投资避雷针：掩模版龙头涉嫌财务造假遭证监会立案",
-          "url": "https://www.cls.cn/detail/2189009",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时26分]"
-        },
-        {
-          "title": "国家移民管理局发布10项重磅政策",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%E7%AE%A1%E7%90%86%E5%B1%80%E5%8F%91%E5%B8%8310%E9%A1%B9%E9%87%8D%E7%A3%85%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时26分]"
-        },
-        {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
@@ -458,6 +506,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "证监会原副主席王建军被“双开”",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E5%BB%BA%E5%86%9B%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时38分]"
         },
         {
           "title": "如何看特朗普说台海政策是秘密",
@@ -496,15 +556,27 @@
           "time_info": "[12时33分 ~ 13时26分]"
         },
         {
-          "title": "证监会原副主席王建军被“双开”",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E5%BB%BA%E5%86%9B%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D",
-          "source": "百度热搜",
+          "title": "中国证监会原党委委员、副主席王建军严重违纪违法被“双开”",
+          "url": "https://www.cls.cn/detail/2189193",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时26分]"
+          "time_info": "[13时26分 ~ 14时38分]"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-03）",
+          "url": "https://flash.jin10.com/detail/20251103141053124800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "香港证监会行政总裁梁凤仪：香港将允许本地持牌虚拟资产交易平台与海外关联公司共享全球订单簿，以提高流动性。",
@@ -524,7 +596,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -540,26 +612,26 @@
           "time_info": "07时22分"
         },
         {
-          "title": "中国证监会原党委委员、副主席王建军严重违纪违法被“双开”",
-          "url": "https://www.cls.cn/detail/2189193",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "香港证监会发出新指引利便持牌虚拟资产交易平台 连接全球流动性和扩展多元化产品及服务",
           "url": "https://wallstreetcn.com/livenews/2998353",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "美国内政部长：我们的政策是将能源出售给我们的朋友，这样他们就不会从我们的对手那里购买。",
+          "url": "https://flash.jin10.com/detail/20251103140147438800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "事关港澳台人员往来、过境免签口岸扩容等10项重磅政策发布",
@@ -571,6 +643,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "欧洲央行内格尔：欧元区经济未偏离预期 维持政策灵活应对不确定性",
+          "url": "https://flash.jin10.com/detail/20251103134346792800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗总统称将重建核设施",
+          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗总统：将重建核设施，不生产核武器",
+          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "美国内政部长：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20251103140652707800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "伊朗已做好应对以再次袭击的准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E5%AF%B9%E4%BB%A5%E5%86%8D%E6%AC%A1%E8%A2%AD%E5%87%BB%E7%9A%84%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "伊朗已做好应对以色列再次袭击的准备",
+          "url": "https://www.toutiao.com/trending/7567289908600143926/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -623,61 +767,12 @@
           "ranks": [
             11,
             10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗总统称将重建核设施",
-          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "伊朗总统：将重建核设施，不生产核武器",
-          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
-          "source": "凤凰网",
-          "ranks": [
+            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "伊朗已做好应对以再次袭击的准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E5%AF%B9%E4%BB%A5%E5%86%8D%E6%AC%A1%E8%A2%AD%E5%87%BB%E7%9A%84%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "伊朗已做好应对以色列再次袭击的准备",
-          "url": "https://www.toutiao.com/trending/7567289908600143926/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时38分]"
         }
       ]
     },
