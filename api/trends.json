@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T13:25:21.008093+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-11-04T14:37:36.113419+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方决定延长对多国免签政策，名单公布",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时33分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[02时33分 ~ 14时37分]"
         },
         {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时23分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[05时23分 ~ 14时37分]"
         },
         {
           "title": "中方延长对多国免签政策 名单来了",
@@ -63,6 +63,32 @@
           "time_info": "[02时33分 ~ 09时53分]"
         },
         {
+          "title": "美联储理事米兰：美联储政策过于紧缩，应通过一系列50bp降息实现中性利率",
+          "url": "https://wallstreetcn.com/articles/3758572",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
+        },
+        {
           "title": "美国大约24个州起诉总统特朗普的政府，指控其对公职人员限制（前总统拜登出台的）学生贷款的免除政策。",
           "url": "https://wallstreetcn.com/livenews/2998683",
           "source": "华尔街见闻-快讯",
@@ -85,29 +111,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "美联储理事米兰：美联储政策过于紧缩，应通过一系列50bp降息实现中性利率",
-          "url": "https://wallstreetcn.com/articles/3758572",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-04）",
+          "url": "https://flash.jin10.com/detail/20251104141703402800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -182,6 +194,18 @@
           "time_info": "[03时21分 ~ 04时28分]"
         },
         {
+          "title": "澳洲联储主席布洛克：当前货币政策处于 “合适的水平”。",
+          "url": "https://wallstreetcn.com/livenews/2998995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时37分]"
+        },
+        {
           "title": "美联储理事库克：资产估值高企与风险溢价低迷之间存在紧张关系，但政策仍具限制性。",
           "url": "https://flash.jin10.com/detail/20251104033951699800",
           "source": "金十数据",
@@ -242,6 +266,17 @@
           "time_info": "[02时33分 ~ 03时21分]"
         },
         {
+          "title": "道富集团CEO称特朗普移民政策“反增长”",
+          "url": "https://wallstreetcn.com/livenews/2999031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美联储理事库克：当前政策适度具有限制性。通胀居高不下，并面临上行风险。",
           "url": "https://flash.jin10.com/detail/20251104030115503800",
           "source": "金十数据",
@@ -251,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：当前货币政策处于 “合适的水平”。",
-          "url": "https://wallstreetcn.com/livenews/2998995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
         },
         {
           "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
@@ -303,7 +327,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -325,7 +349,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -347,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -358,7 +382,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -413,7 +437,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -457,7 +481,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -527,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时37分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -542,8 +566,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时37分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -599,8 +623,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
         },
         {
           "title": "特朗普：美核武可毁灭世界150次",
@@ -610,8 +634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时37分]"
         },
         {
           "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
@@ -621,8 +645,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时37分]"
         },
         {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
@@ -632,8 +656,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -827,7 +851,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -837,8 +861,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -849,8 +873,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 14时37分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -948,6 +972,28 @@
           "time_info": "[06时24分 ~ 07时29分]"
         },
         {
+          "title": "华尔街高管警示美股未来或显著回调 但健康调整属市场常态",
+          "url": "https://flash.jin10.com/detail/20251104135328234800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2999015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251104013142595800",
           "source": "金十数据",
@@ -957,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251104134919523800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股盘中）",
@@ -1051,8 +1108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时37分]"
         },
         {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
@@ -1202,8 +1259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时37分]"
         }
       ]
     }
