@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T20:51:43.973365+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2025-11-05T21:36:23.465993+08:00",
+  "total_titles_processed": 1919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时15分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[11时15分 ~ 21时36分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 20时51分]"
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 21时36分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -117,6 +117,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "奥巴马为何高调对特朗普发难",
+          "url": "https://www.toutiao.com/trending/7569156347464257074/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时36分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -253,19 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "奥巴马为何高调对特朗普发难",
-          "url": "https://www.toutiao.com/trending/7569156347464257074/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时51分]"
         },
         {
           "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
@@ -555,7 +566,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -565,8 +576,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时54分 ~ 20时51分]"
+          "appearance_count": 18,
+          "time_info": "[09时54分 ~ 21时36分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -635,17 +646,6 @@
           "time_info": "[00时30分 ~ 11时16分]"
         },
         {
-          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
-          "url": "https://flash.jin10.com/detail/20251105204332629800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
           "url": "https://flash.jin10.com/detail/20251105061222244800",
           "source": "金十数据",
@@ -670,6 +670,18 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251105204332629800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时36分]"
+        },
+        {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -679,6 +691,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2999898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时36分]"
         },
         {
           "title": "费城金银指数收跌4.51%，报265.03点，跳空低开之后，大部分时间低位震荡。 纽约证交所ARCA金矿开采商指数收跌3.98%，报1926.21点；北京时间22:30美股开盘之前维持微幅下跌状态，主要持稳于2000-1990点区间，之后跳空下挫，后续低位震荡。",
@@ -761,17 +785,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2999898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "美联储内部分歧引发年内降息前景疑虑，美元走强致现货黄金一度跌破3920美元关口；隔夜美股大跌，投资者怀疑高估值与市场集中度过窄会否终结本轮牛市行情，当前美股纳指、标普500指数卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251105103351647800",
           "source": "金十数据",
@@ -792,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "AMD(AMD.O)美股盘前跌超3%，公司三季度营收大超预期但指引不及市场预期激进；至少有一家券商下调了目标价。",
@@ -877,7 +901,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -951,7 +975,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "今年已有多条高速在收费期满后停止收费，高速免费时代真的要来了吗？ 这一政策将带来哪些影响？",
@@ -1023,6 +1047,19 @@
         },
         {
           "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31899384",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时36分]"
+        },
+        {
+          "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
           "url": "https://wallstreetcn.com/livenews/2999714",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -1053,19 +1090,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31899384",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时51分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -1278,6 +1302,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "匈牙利央行会议纪要：委员会一致认为，在当前不断变化的环境下，货币政策仍需采取谨慎而耐心的方针。",
+          "url": "https://flash.jin10.com/detail/20251105210157846800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-05）",
           "url": "https://flash.jin10.com/detail/20251105140643693800",
           "source": "金十数据",
@@ -1434,8 +1469,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国ADP数据公布后，美元指数短线小幅拉升，现货黄金短线走低约5美元",
+          "url": "https://wallstreetcn.com/livenews/2999928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
         {
           "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
           "url": "https://www.cls.cn/detail/2191412",
@@ -1505,8 +1551,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时36分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
