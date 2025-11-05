@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:36:23.465993+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2025-11-05T22:26:18.053241+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时15分 ~ 21时36分]"
+          "appearance_count": 18,
+          "time_info": "[11时15分 ~ 22时26分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 22时26分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -125,9 +125,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默和众议院少数党领袖杰弗瑞斯要求与特朗普举行两党会晤。",
+          "url": "https://flash.jin10.com/detail/20251105220952184800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国（国会山）民主党致函总统特朗普，要求会面。 参议院民主党领导人Schumer和众议院民主党领导人Hakeem Jeffries要求与特朗普进行跨党派会面。 这两名民主党领导人希望结束10月1日以来的政府关门问题。",
+          "url": "https://wallstreetcn.com/livenews/2999953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
+          "url": "https://flash.jin10.com/detail/20251105220524399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "为结束政府“停摆” 特朗普再要求参议院终止“冗长辩论”",
+          "url": "https://wallstreetcn.com/livenews/2999952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "奥巴马为何高调对特朗普发难",
@@ -387,6 +431,17 @@
           "time_info": "[01时20分 ~ 02时36分]"
         },
         {
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
           "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
@@ -442,6 +497,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
+          "url": "https://wallstreetcn.com/livenews/2999939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
           "url": "https://flash.jin10.com/detail/20251105064331425800",
           "source": "金十数据",
@@ -484,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "俄罗斯情报部门负责人纳雷什金：（就特朗普有关核试验的声明表示）美国官员拒绝直接讨论此事。",
+          "url": "https://flash.jin10.com/detail/20251105215937400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -552,6 +629,28 @@
           "time_info": "00时30分"
         },
         {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯总统普京：（就美国总统特朗普有关核试验的声明表示）这是一个严重的问题。",
+          "url": "https://flash.jin10.com/detail/20251105215226127800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "奥巴马为何怼特朗普政府“无法无天”",
           "url": "https://www.toutiao.com/trending/7568801860920806922/",
           "source": "今日头条",
@@ -566,7 +665,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -576,8 +675,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时54分 ~ 21时36分]"
+          "appearance_count": 19,
+          "time_info": "[09时54分 ~ 22时26分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -813,7 +912,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -829,6 +928,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "超微电脑(SMCI.O)美股盘前跌超8%，公司第一季度营收低于预期。",
           "url": "https://flash.jin10.com/detail/20251105170437887800",
           "source": "金十数据",
@@ -838,6 +948,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -970,12 +1091,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普呼吁结束政府停摆 并直言美股屡创新高仅是开端",
+          "url": "https://flash.jin10.com/detail/20251105214713212800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105214658539800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "今年已有多条高速在收费期满后停止收费，高速免费时代真的要来了吗？ 这一政策将带来哪些影响？",
@@ -1035,6 +1178,20 @@
           "time_info": "[13时26分 ~ 15时24分]"
         },
         {
+          "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31899384",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时26分]"
+        },
+        {
           "title": "全球大宗商品贸易商摩科瑞：供应过剩正在缓慢形成，并可能在接下来的几个月内冲击市场。",
           "url": "https://flash.jin10.com/detail/20251105141856675800",
           "source": "金十数据",
@@ -1044,19 +1201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31899384",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时36分]"
         },
         {
           "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
@@ -1236,6 +1380,17 @@
           "time_info": "[04时28分 ~ 05时23分]"
         },
         {
+          "title": "谷歌(GOOG.O)：基于地标的导航功能现已在美国的安卓和iOS设备上推出。",
+          "url": "https://flash.jin10.com/detail/20251105220518450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
           "url": "https://wallstreetcn.com/livenews/2999443",
           "source": "华尔街见闻-快讯",
@@ -1308,7 +1463,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1476,11 +1631,12 @@
           "url": "https://wallstreetcn.com/livenews/2999928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时26分]"
         },
         {
           "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
@@ -1541,7 +1697,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
@@ -1553,6 +1709,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时29分 ~ 21时36分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
@@ -1591,7 +1758,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际原子能机构总干事格罗西：伊朗必须“认真改善”与联合国检查员的合作，以避免与西方的紧张关系加剧。",
@@ -1614,6 +1781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://wallstreetcn.com/livenews/2999940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
