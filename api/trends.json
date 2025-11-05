@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T17:28:35.874142+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-11-05T18:29:21.461137+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时15分 ~ 17时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时15分 ~ 18时29分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 18时29分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -60,6 +60,19 @@
           "time_info": "[00时30分 ~ 07时22分]"
         },
         {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
           "url": "https://news.ifeng.com/c/8o11vuaIumr",
           "source": "凤凰网",
@@ -71,6 +84,18 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时29分]"
+        },
+        {
           "title": "日本最高外汇事务官员三村淳：特朗普总统将从美日委员会提出的项目中进行挑选。",
           "url": "https://flash.jin10.com/detail/20251105151752442800",
           "source": "金十数据",
@@ -80,31 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时28分]"
-        },
-        {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时28分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -514,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "奥巴马为何高调对特朗普发难",
+          "url": "https://www.toutiao.com/trending/7569156347464257074/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -535,8 +546,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 18时29分]"
         },
         {
           "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
@@ -766,6 +777,18 @@
           "time_info": "[04时28分 ~ 05时23分]"
         },
         {
+          "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31899384",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时29分]"
+        },
+        {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
           "url": "https://wallstreetcn.com/livenews/2999443",
           "source": "华尔街见闻-快讯",
@@ -876,24 +899,13 @@
           "time_info": "15时24分"
         },
         {
-          "title": "美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31899384",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "香港证监会终身禁止恒生银行前有关人士张艺议重投业界",
           "url": "https://wallstreetcn.com/livenews/2999781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -922,8 +934,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -1039,6 +1051,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
+          "url": "https://wallstreetcn.com/livenews/2999794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时29分]"
+        },
+        {
           "title": "Pinterest美股盘后下跌15%，该公司业绩欠佳，给出的指引也疲软。",
           "url": "https://wallstreetcn.com/livenews/2999419",
           "source": "华尔街见闻-快讯",
@@ -1106,24 +1130,13 @@
           "time_info": "05时23分"
         },
         {
-          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
-          "url": "https://wallstreetcn.com/livenews/2999794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "AMD(AMD.O)美股盘前跌超3%，公司三季度营收大超预期但指引不及市场预期激进；至少有一家券商下调了目标价。",
           "url": "https://flash.jin10.com/detail/20251105170556716800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1134,7 +1147,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1286,8 +1299,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 18时29分]"
         },
         {
           "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
@@ -1359,7 +1372,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1411,8 +1424,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
           "url": "https://wallstreetcn.com/livenews/2999388",
