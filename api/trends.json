@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T21:33:07.389673+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2025-11-07T22:25:01.419278+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 79,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时30分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[15时30分 ~ 22时25分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -97,6 +97,17 @@
           "time_info": "[15时30分 ~ 19时21分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 22时25分]"
+        },
+        {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
           "url": "https://www.cls.cn/detail/2193664",
           "source": "财联社热门",
@@ -109,6 +120,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时15分 ~ 16时33分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 22时25分]"
         },
         {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
@@ -133,6 +156,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "市场消息：特朗普政府向第一巡回法院提交紧急延期动议，寻求阻止法官关于11月全额发放补充营养协助计划（SNAP）福利的裁决。",
+          "url": "https://flash.jin10.com/detail/20251107221627605800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-07）",
           "url": "https://flash.jin10.com/detail/20251107191347439800",
           "source": "金十数据",
@@ -144,17 +178,6 @@
           "time_info": "19时21分"
         },
         {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时33分]"
-        },
-        {
           "title": "联邦法官下令特朗普政府全额发放11月食品援助金",
           "url": "https://flash.jin10.com/detail/20251107071312828800",
           "source": "金十数据",
@@ -164,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普媒体科技三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
+          "url": "https://wallstreetcn.com/livenews/3001276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普官宣降价后药企高管当场晕倒",
@@ -219,18 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时33分]"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -573,6 +595,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)第三季度净亏损5480万美元。",
+          "url": "https://flash.jin10.com/detail/20251107220224855800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：医疗保险和医疗补助将涵盖这些减肥药物。",
           "url": "https://flash.jin10.com/detail/20251107011115320800",
           "source": "金十数据",
@@ -582,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)第三季度从其他金融投资中产生1340万美元的利息收入，第三季度运营现金流达1010万美元。",
+          "url": "https://flash.jin10.com/detail/20251107220203696800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普：Zepbound和Wegovy价格将下调。",
@@ -604,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)第三季度末财务资产达31亿美元，第三季度通过比特币相关证券的期权溢价实现1530万美元收益。",
+          "url": "https://flash.jin10.com/detail/20251107220149666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普回应共和党选举失利",
@@ -714,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普再次呼吁废除冗长辩论程序",
+          "url": "https://flash.jin10.com/detail/20251107214340577800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
@@ -862,7 +928,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -898,11 +964,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时54分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时54分 ~ 22时25分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -987,7 +1054,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1185,6 +1252,17 @@
           "time_info": "[19时21分 ~ 20时50分]"
         },
         {
+          "title": "【每日收评】三大指数缩量小幅调整，化工、锂电联袂领涨，市场再现9连板个股",
+          "url": "https://www.cls.cn/detail/2194277",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
           "title": "财政部 ：用好用足更加积极的财政政策",
           "url": "https://wallstreetcn.com/livenews/3001149",
           "source": "华尔街见闻-快讯",
@@ -1219,6 +1297,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时24分]"
+        },
+        {
+          "title": "美联储副主席Jefferson：美联储仍在获得足够的数据来制定政策。 对美国国债市场的信心良好。",
+          "url": "https://wallstreetcn.com/livenews/3001250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时25分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -1284,7 +1374,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1364,17 +1454,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
-        },
-        {
-          "title": "美联储副主席Jefferson：美联储仍在获得足够的数据来制定政策。 对美国国债市场的信心良好。",
-          "url": "https://wallstreetcn.com/livenews/3001250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "【国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》】日前，国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》，对相关工作作出部署。《意见》指出，场景是用于系统性验证新技术、新产品、新业态产业化应用以及配套基础设施、商业模式、制度政策的具体情境，是连接技术和产业、打通研发和市场的桥梁，是推动科技创新和产业创新融合发展的重要载体，对促进新技术新产品规模化商业化应用具有重要牵引作用。（新华社）",
@@ -1501,7 +1580,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -1554,6 +1633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3001278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1657,6 +1747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107214841680800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
@@ -1843,8 +1944,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时54分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时54分 ~ 22时25分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
