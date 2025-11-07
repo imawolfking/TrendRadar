@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:33:09.452024+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-11-07T17:26:14.184106+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -42,6 +42,33 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时30分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            17,
+            21,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时26分]"
+        },
+        {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
@@ -54,17 +81,6 @@
           "time_info": "[09时54分 ~ 16时33分]"
         },
         {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时33分]"
-        },
-        {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
           "url": "https://www.cls.cn/detail/2193664",
           "source": "财联社热门",
@@ -73,21 +89,6 @@
             11,
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 16时33分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            17,
-            21,
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -125,6 +126,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时30分 ~ 17时26分]"
         },
         {
           "title": "特朗普官宣降价后药企高管当场晕倒",
@@ -308,17 +321,6 @@
           "time_info": "[09时54分 ~ 13时24分]"
         },
         {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时33分]"
-        },
-        {
           "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
           "url": "https://wallstreetcn.com/livenews/3000712",
           "source": "华尔街见闻-快讯",
@@ -430,6 +432,17 @@
           "time_info": "[00时33分 ~ 01时24分]"
         },
         {
+          "title": "特朗普就美高院激辩关税表态",
+          "url": "https://www.toutiao.com/trending/7569800305303359018/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
           "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
           "url": "https://flash.jin10.com/detail/20251107013741993800",
           "source": "金十数据",
@@ -452,6 +465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时28分]"
+        },
+        {
+          "title": "为何说特朗普处于重返白宫后最大困境",
+          "url": "https://www.toutiao.com/trending/7568788294771720243/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
@@ -789,7 +813,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -804,6 +828,21 @@
           "time_info": "[07时23分 ~ 15时30分]"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时26分]"
+        },
+        {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
           "url": "https://wallstreetcn.com/articles/3758839",
           "source": "华尔街见闻",
@@ -812,8 +851,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时25分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[06时25分 ~ 17时26分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 17时26分]"
         },
         {
           "title": "鄂尔多斯积极响应并迅速衔接国家育儿政策：三孩每年市级再补6400元",
@@ -844,30 +895,26 @@
           "time_info": "[00时33分 ~ 14时36分]"
         },
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
+          "title": "英国央行审慎政策执行主管Saporta：非银行机构回购利率上升，债券供应增加。",
+          "url": "https://flash.jin10.com/detail/20251107171909518800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 16时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
+          "title": "英国央行审慎政策执行主管Saporta：英国央行出售资产之路仍将充满坎坷。",
+          "url": "https://flash.jin10.com/detail/20251107171903006800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            10,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 16时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "土耳其央行行长：从九月和十月的数据来看，我们并未观察到需要暂停宽松政策的恶化迹象。",
@@ -876,7 +923,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1174,6 +1221,28 @@
           "time_info": "14时36分"
         },
         {
+          "title": "证监会同意铂、钯期货和期权注册",
+          "url": "https://flash.jin10.com/detail/20251107165954283800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "【国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》】日前，国务院办公厅印发《关于加快场景培育和开放推动新场景大规模应用的实施意见》，对相关工作作出部署。《意见》指出，场景是用于系统性验证新技术、新产品、新业态产业化应用以及配套基础设施、商业模式、制度政策的具体情境，是连接技术和产业、打通研发和市场的桥梁，是推动科技创新和产业创新融合发展的重要载体，对促进新技术新产品规模化商业化应用具有重要牵引作用。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3001115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "美联储穆萨莱姆：美联储已适当放松政策，为就业市场提供保障。",
           "url": "https://flash.jin10.com/detail/20251107064758745800",
           "source": "金十数据",
@@ -1194,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "证监会同意铂、钯期货和期权注册",
+          "url": "https://wallstreetcn.com/livenews/3001113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美联储哈玛克：美联储正面临就业和通胀双重目标的压力。货币政策充其量只是勉强具有限制性。",
@@ -1235,7 +1315,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -1265,7 +1345,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -1305,8 +1385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 16时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 17时26分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1368,6 +1448,28 @@
           "time_info": "06时25分"
         },
         {
+          "title": "英特尔(INTC.O)美股盘前上涨2.4%，此前马斯克表示值得与该公司进行讨论。",
+          "url": "https://flash.jin10.com/detail/20251107170531468800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251107170234164800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3000764",
           "source": "华尔街见闻-快讯",
@@ -1410,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
+          "url": "https://wallstreetcn.com/livenews/3001114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
@@ -1473,8 +1586,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时26分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -1556,6 +1669,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 17时26分]"
+        },
+        {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -1566,17 +1690,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时24分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 16时33分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
