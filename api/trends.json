@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:23:13.566928+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-11-08T14:34:45.485658+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时34分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -103,6 +103,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 14时34分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -191,6 +205,20 @@
           "time_info": "[02时34分 ~ 03时20分]"
         },
         {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 14时34分]"
+        },
+        {
           "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
           "url": "https://flash.jin10.com/detail/20251108020350624800",
           "source": "金十数据",
@@ -201,32 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 13时23分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 13时23分]"
         },
         {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
@@ -240,6 +242,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时18分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时34分]"
         },
         {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
@@ -313,18 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时20分]"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -589,6 +592,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时34分]"
+        },
+        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
@@ -599,8 +614,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 14时34分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -613,18 +628,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时23分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -680,11 +683,12 @@
           "ranks": [
             11,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 14时34分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -824,8 +828,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时34分]"
         },
         {
           "title": "英国央行首席经济学家Pill：我会强调英国央行政策的延续性，而不是措辞方面相对温和的变化。 不应当过度解读从“逐步且谨慎”的措辞中删除“谨慎”。",
@@ -845,11 +849,25 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时34分]"
+        },
+        {
+          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
+          "url": "https://flash.jin10.com/detail/20251108112121105800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "time_info": "[12时28分 ~ 14时34分]"
         },
         {
           "title": "联邦快递（FedEx）回应美国联邦航空管理局（FAA）发布的11月7日指令，称：国际航线不会受到削减航班政策的干扰。",
@@ -862,18 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时18分]"
-        },
-        {
-          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
-          "url": "https://flash.jin10.com/detail/20251108112121105800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
         },
         {
           "title": "英国央行首席经济学家皮尔：将强调英国央行政策的连续性，而非措辞上相对温和的调整。",
@@ -937,7 +943,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -950,6 +956,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时28分]"
+        },
+        {
+          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
+          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
