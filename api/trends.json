@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T19:20:46.048426+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-11-08T20:44:48.917492+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -85,17 +85,6 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时20分]"
-        },
-        {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
           "url": "https://wallstreetcn.com/articles/3758942",
           "source": "华尔街见闻",
@@ -105,8 +94,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 20时44分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时44分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -125,11 +126,27 @@
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            15,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时44分]"
         },
         {
           "title": "特朗普被问急眼了怒喷记者",
@@ -138,7 +155,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -166,20 +183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 13时23分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -441,6 +444,18 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
+          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
           "title": "特朗普下令调查几家最大肉类加工商",
           "url": "https://www.toutiao.com/trending/7570176156171767346/",
           "source": "今日头条",
@@ -461,6 +476,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
@@ -538,17 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "美国财长贝森特：波音公司上月授予特朗普年度最佳推销员奖。",
@@ -687,8 +702,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时21分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 20时44分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -701,8 +716,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 19时20分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 20时44分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -881,7 +896,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "制裁、接触与冷和平：美韩对朝政策，正在对抗与试探中摇摆",
@@ -896,8 +911,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 20时44分]"
         },
         {
           "title": "黄仁勋：想回中国市场，希望中方改变政策",
@@ -941,11 +956,23 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时44分]"
+        },
+        {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D5%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26stream_entry_id%3D31%26dgr%3D0%26pos%3D5%26realpos%3D5%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762605200%26pre_seqid%3D176260520013403328592103&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "英国央行首席经济学家Pill：我会强调英国央行政策的延续性，而不是措辞方面相对温和的变化。 不应当过度解读从“逐步且谨慎”的措辞中删除“谨慎”。",
@@ -1119,11 +1146,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 20时44分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
