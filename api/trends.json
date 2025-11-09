@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T00:27:45.843167+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-10T01:19:30.576106+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
@@ -37,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
@@ -48,8 +49,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -59,8 +60,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
@@ -70,8 +71,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
@@ -81,8 +82,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
@@ -92,8 +93,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
@@ -103,8 +104,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -120,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -131,19 +132,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "十大券商策略：化工、有色等顺周期板块获多家券商推荐",
           "url": "https://www.cls.cn/detail/2195289",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
@@ -153,8 +155,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "分析｜扩内需政策显效推动CPI转涨，部分行业供需改善带动PPI环比年内首次上涨",
@@ -164,8 +166,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     },
@@ -178,11 +180,12 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     }
