@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:30:09.229256+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-10T18:29:08.283610+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -60,6 +60,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 09时58分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 18时29分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -125,20 +140,6 @@
           "time_info": "[09时58分 ~ 11时26分]"
         },
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 17时30分]"
-        },
-        {
           "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
           "url": "https://wallstreetcn.com/livenews/3001731",
           "source": "华尔街见闻-快讯",
@@ -161,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110180323905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -403,6 +415,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
+          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "特朗普：美政府“停摆”接近结束",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F",
           "source": "百度热搜",
@@ -600,6 +623,18 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "国办印发《关于进一步促进民间投资发展的若干措施》，提出13项针对性政策举措",
+          "url": "https://wallstreetcn.com/livenews/3002067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时29分]"
+        },
+        {
           "title": "欧洲央行副行长金多斯：政策制定需秉持高度审慎与稳健方针。",
           "url": "https://flash.jin10.com/detail/20251110150941834800",
           "source": "金十数据",
@@ -633,24 +668,13 @@
           "time_info": "09时58分"
         },
         {
-          "title": "国办印发《关于进一步促进民间投资发展的若干措施》，提出13项针对性政策举措",
-          "url": "https://wallstreetcn.com/livenews/3002067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
-        },
-        {
           "title": "波兰央行货币政策委员Dabrowski：我认为我们可能将降息周期止步于3.5%。",
           "url": "https://flash.jin10.com/detail/20251110164952341800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -661,7 +685,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -672,7 +696,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -683,7 +707,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -724,7 +748,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -751,8 +775,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 17时30分]"
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 18时29分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -806,17 +830,40 @@
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时29分]"
+        },
+        {
+          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20251110175803111800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时30分"
+          "time_info": "18时29分"
+        },
+        {
+          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
+          "url": "https://flash.jin10.com/detail/20251110175802667800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -832,13 +879,24 @@
           "time_info": "[11时26分 ~ 15时24分]"
         },
         {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
           "url": "https://flash.jin10.com/detail/20251110164825040800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         }
@@ -855,7 +913,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
