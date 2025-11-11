@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T17:28:38.450200+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-11-11T18:28:32.673433+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -35,6 +35,19 @@
           "time_info": "[00时33分 ~ 15时25分]"
         },
         {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 18时28分]"
+        },
+        {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
           "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
           "source": "澎湃新闻",
@@ -47,19 +60,6 @@
           "time_info": "[00时33分 ~ 06时24分]"
         },
         {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 17时28分]"
-        },
-        {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
           "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
           "source": "凤凰网",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时54分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -94,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -178,6 +178,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时37分 ~ 16时32分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -359,26 +381,15 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
+          "title": "特朗普回应高市早苗涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7571253212158689290/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时28分"
         },
         {
           "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
@@ -420,7 +431,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -478,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-11）",
+          "url": "https://flash.jin10.com/detail/20251111175811195800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
@@ -681,7 +703,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "何立峰发表署名文章：因地制宜发展新质生产力",
@@ -701,9 +723,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "乘联分会崔东树：国家以旧换新政策效果突出，内卷降价现象明显减弱",
+          "url": "https://wallstreetcn.com/livenews/3002734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "欧洲央行管委斯莱普恩：一国的财政压力可能迅速蔓延至其他国家；公共支出短期内可能推高通货膨胀；财政差异可能削弱欧洲央行政策传导机制。",
@@ -717,17 +750,6 @@
           "time_info": "16时32分"
         },
         {
-          "title": "中国央行：要继续推进货币政策调控框架转型，更加注重发挥价格型调控的作用",
-          "url": "https://wallstreetcn.com/livenews/3002690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "韩国央行会议纪要：一名委员表示，有必要全面评估进一步宽松政策的潜在益处和副作用。",
           "url": "https://flash.jin10.com/detail/20251111151353178800",
           "source": "金十数据",
@@ -737,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "央行：实施好适度宽松的货币政策 强化货币政策的执行和传导",
+          "url": "https://www.cls.cn/detail/2197285",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美联储理事米兰：放松货币政策势在必行。",
@@ -759,6 +792,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "中国央行：要继续推进货币政策调控框架转型，更加注重发挥价格型调控的作用",
+          "url": "https://wallstreetcn.com/livenews/3002690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
@@ -813,7 +858,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -829,6 +874,28 @@
           "time_info": "07时27分"
         },
         {
+          "title": "据消息人士称，谷歌计划在德国的基础设施领域投资数亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251111180516272800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "上海清算所与上海大宗商品仓单登记有限责任公司签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3002729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）主席：谷歌和迪士尼需要达成协议，结束这场网络封锁。（因双方在续约协议上仍存在巨大分歧，迪士尼旗下的ESPN及ABC等频道将停止在谷歌YouTube TV上播出。）",
           "url": "https://flash.jin10.com/detail/20251111065415499800",
           "source": "金十数据",
@@ -838,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -868,7 +946,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -901,7 +979,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -928,13 +1006,24 @@
           "time_info": "11时18分"
         },
         {
+          "title": "德国智库ZEW：总体情绪的特点是，人们对德国经济政策解决紧迫问题的能力的信心有所下降。",
+          "url": "https://flash.jin10.com/detail/20251111180059668800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "中国央行：着力推动保障性住房再贷款等金融政策措施落地见效，完善房地产金融基础性制度",
           "url": "https://wallstreetcn.com/livenews/3002679",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -956,7 +1045,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -967,7 +1056,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -978,7 +1067,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -989,7 +1078,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1000,7 +1089,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1011,7 +1100,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1049,6 +1138,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "英国央行货币政策委员格林：通胀上行风险大于下行风险。",
+          "url": "https://flash.jin10.com/detail/20251111174433282800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "日本经济财政政策大臣城内实：日元疲软可能推高通胀，正在监控其趋势。 持续的通胀对消费构成压力。",
           "url": "https://wallstreetcn.com/livenews/3002401",
           "source": "华尔街见闻-快讯",
@@ -1077,7 +1177,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1085,7 +1185,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -1292,6 +1392,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "英伟达美股盘前跌幅扩大至1%，触及盘中低点。",
+          "url": "https://wallstreetcn.com/livenews/3002712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场对其机器人感到乐观。",
           "url": "https://wallstreetcn.com/livenews/3002456",
           "source": "华尔街见闻-快讯",
@@ -1301,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "禾赛美股盘前涨超6%，公司第三季度的净收入7.95亿元，同比增加47.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股盘中）",
@@ -1452,6 +1574,18 @@
           "time_info": "[01时23分 ~ 06时24分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
           "url": "https://flash.jin10.com/detail/20251111034728559800",
           "source": "金十数据",
@@ -1461,17 +1595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）上海金午盘价为946.77元/克，较国际金价(945.51元/克)，高1.26元/克",
