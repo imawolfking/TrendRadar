@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T15:25:21.354449+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-11-11T16:32:43.047860+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时32分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -161,11 +161,12 @@
           "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时32分]"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -636,7 +637,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "何立峰发表署名文章：因地制宜发展新质生产力",
@@ -650,13 +651,24 @@
           "time_info": "[09时54分 ~ 15时25分]"
         },
         {
+          "title": "欧洲央行管委斯莱普恩：一国的财政压力可能迅速蔓延至其他国家；公共支出短期内可能推高通货膨胀；财政差异可能削弱欧洲央行政策传导机制。",
+          "url": "https://flash.jin10.com/detail/20251111162042507800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "韩国央行会议纪要：一名委员表示，有必要全面评估进一步宽松政策的潜在益处和副作用。",
           "url": "https://flash.jin10.com/detail/20251111151353178800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -724,7 +736,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -757,7 +769,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -768,7 +780,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -850,6 +862,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "国家发改委：累计向证监会推荐18个民间投资REITs项目 发售基金总额近300亿元",
+          "url": "https://wallstreetcn.com/livenews/3002614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "日本经济财政政策大臣城内实：日元疲软可能推高通胀，正在监控其趋势。 持续的通胀对消费构成压力。",
           "url": "https://wallstreetcn.com/livenews/3002401",
           "source": "华尔街见闻-快讯",
@@ -867,7 +890,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -929,6 +952,20 @@
           "time_info": "[07时27分 ~ 15时25分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时32分]"
+        },
+        {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
@@ -938,19 +975,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时25分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -1128,7 +1152,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗货币改革将启动：删除4个0",
@@ -1164,6 +1188,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊朗否认密谋暗杀以驻墨西哥大使",
+          "url": "https://news.ifeng.com/c/8oCBAFytiMm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
           "url": "https://flash.jin10.com/detail/20251111020333560800",
           "source": "金十数据",
@@ -1194,7 +1229,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1246,7 +1281,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
