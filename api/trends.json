@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:30:24.522101+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-12T13:25:55.120662+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -110,11 +110,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 13时25分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -504,7 +505,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "央行：实施好适度宽松的货币政策 强化货币政策的执行和传导",
@@ -530,8 +531,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应",
@@ -541,8 +542,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 13时25分]"
         },
         {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
@@ -578,8 +579,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 13时25分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://wallstreetcn.com/livenews/3003176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "日本首相高市早苗：如果政策失误，日本将有重新陷入通货紧缩的风险，这将损害消费、工资增长和资本支出。",
+          "url": "https://flash.jin10.com/detail/20251112131221881800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "澳洲联储副主席Hauser：我们的最佳预测是货币政策仍具限制性，委员会正在讨论这个问题。 如果货币政策不再具备温和的限制性，将对未来的政策产生重要影响。 消费数据有涨有跌，但整体态势是逐步温和复苏。 没有哪个失业率水平会让央行满意。",
@@ -679,6 +702,39 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
+          "title": "日本首相高市早苗：希望日本央行实施政策，使日本能够通过工资增长可持续地实现其价格目标。",
+          "url": "https://flash.jin10.com/detail/20251112131118647800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "【证监会副主席李明：坚决防止市场大起大落、急涨急跌】中国证监会副主席李明表示，投资端，持续完善长钱长投的市场生态，加力推动中长期资金入市实施方案落地见效，持续扩大社保、保险、年金等权益类投资规模和比例，深化公募基金改革，丰富适配长期投资的指数产品，更好发挥中长期资金稳定性、压舱石作用。此外，强化战略性力量储备和稳市机制建设，提升资本市场内在稳定性，坚决防止市场大起大落、急涨急跌。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3003173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "国际能源署：在当前政策情景下，认为石油需求在2050年前不会达到峰值。",
+          "url": "https://flash.jin10.com/detail/20251112130122387800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "谷歌宣布未来四年在德国投资55亿欧元",
           "url": "https://flash.jin10.com/detail/20251112003809486800",
           "source": "金十数据",
@@ -718,7 +774,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -760,8 +816,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 12时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -994,8 +1050,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 12时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 13时25分]"
         }
       ]
     }
