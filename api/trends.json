@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:28:49.976956+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2025-11-12T19:24:15.136351+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -207,6 +207,18 @@
           "time_info": "[02时35分 ~ 04时29分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时24分]"
+        },
+        {
           "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
           "url": "https://flash.jin10.com/detail/20251112010827200800",
           "source": "金十数据",
@@ -253,18 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时35分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "特朗普：美国众议院议长约翰逊与美国参议院共和党领袖图恩在临时开支草案协议上“取得重大胜利”。",
@@ -384,6 +384,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "以色列总统办公室：赫尔佐格总统收到美国总统特朗普的来信，信中呼吁他考虑赦免总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20251112184110534800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "瑞银：特朗普提出的50年期抵押贷款将使整个贷款期的利息成本翻倍",
           "url": "https://wallstreetcn.com/livenews/3002980",
           "source": "华尔街见闻-快讯",
@@ -412,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -533,7 +544,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -574,7 +585,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "央行：实施好适度宽松的货币政策 强化货币政策的执行和传导",
@@ -615,18 +626,6 @@
           "time_info": "[00时31分 ~ 17时28分]"
         },
         {
-          "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
-          "url": "https://www.cls.cn/detail/2197163",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 06时24分]"
-        },
-        {
           "title": "中国光伏行业协会执行秘书长刘译阳：不要低估政策决心，光伏行业不走出内卷式恶性竞争誓不罢休",
           "url": "https://www.cls.cn/detail/2198192",
           "source": "财联社热门",
@@ -637,8 +636,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时24分]"
+        },
+        {
+          "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
+          "url": "https://www.cls.cn/detail/2197163",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 06时24分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -654,6 +665,19 @@
           "time_info": "[09时53分 ~ 15时25分]"
         },
         {
+          "title": "证监会副主席李明：坚决防止市场大起大落、急涨急跌",
+          "url": "https://wallstreetcn.com/articles/3759198",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 19时24分]"
+        },
+        {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
           "url": "https://wallstreetcn.com/livenews/3002949",
           "source": "华尔街见闻-快讯",
@@ -667,6 +691,20 @@
           "time_info": "[03时20分 ~ 05时22分]"
         },
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 19时24分]"
+        },
+        {
           "title": "乌克兰军方表示，其袭击了位于斯塔夫罗波尔边疆区的俄罗斯斯塔夫罗伦化工厂。",
           "url": "https://flash.jin10.com/detail/20251112171645758800",
           "source": "金十数据",
@@ -676,19 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
-        },
-        {
-          "title": "证监会副主席李明：坚决防止市场大起大落、急涨急跌",
-          "url": "https://wallstreetcn.com/articles/3759198",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时28分]"
         },
         {
           "title": "日本首相高市早苗：如果政策失误，日本将有重新陷入通货紧缩的风险，这将损害消费、工资增长和资本支出。",
@@ -708,7 +733,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -810,19 +835,6 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时28分]"
-        },
-        {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
           "url": "https://wallstreetcn.com/livenews/3002934",
           "source": "华尔街见闻-快讯",
@@ -913,7 +925,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -927,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "美联股份港股发行上市及境内未上市股份“全流通”获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3003379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "国际能源署：在当前政策情景下，认为石油需求在2050年前不会达到峰值。",
@@ -946,9 +969,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "辉创电子股份有限公司台交所IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3003376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "谷歌宣布未来四年在德国投资55亿欧元",
@@ -979,7 +1013,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1004,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "中国证监会：境外投资者持有A股市值超3.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3003371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
@@ -1221,8 +1266,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26flag%3D1%26pos%3D4%26band_rank%3D4%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26dgr%3D0%26display_time%3D1762946113%26pre_seqid%3D176294611326401146898118&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时24分]"
+        },
         {
           "title": "金十图示：2025年11月12日（周三）上海金午盘价为943.52元/克，较国际金价(942.06元/克)，高1.46元/克",
           "url": "https://flash.jin10.com/detail/20251112161245995800",
@@ -1377,8 +1433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 18时28分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 19时24分]"
         }
       ]
     }
