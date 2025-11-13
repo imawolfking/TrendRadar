@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T17:28:30.276188+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2025-11-13T18:28:48.661269+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -17,8 +17,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 18时28分]"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 18时28分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -34,21 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时24分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[01时24分 ~ 18时28分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -88,6 +88,32 @@
           "time_info": "[15时24分 ~ 17时28分]"
         },
         {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 18时28分]"
+        },
+        {
+          "title": "特朗普送叙政权领导人自产香水",
+          "url": "https://www.toutiao.com/trending/7572030694445272627/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 18时28分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
           "url": "https://wallstreetcn.com/livenews/3003597",
           "source": "华尔街见闻-快讯",
@@ -111,19 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时28分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -150,18 +163,6 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
-          "title": "特朗普送叙政权领导人自产香水",
-          "url": "https://www.toutiao.com/trending/7572030694445272627/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
           "url": "https://news.ifeng.com/c/8oFEfoIotGG",
           "source": "凤凰网",
@@ -171,6 +172,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 17时28分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时28分]"
         },
         {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
@@ -280,15 +292,15 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美众议院通过结束政府停摆法案，送交特朗普签署",
@@ -311,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113180638887800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -366,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "民主党再公布爱泼斯坦案文件，内容指向特朗普",
+          "url": "https://wallstreetcn.com/livenews/3004092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "白宫表示，民主党选择性地公布了爱泼斯坦的电子邮件，以抹黑美国总统特朗普。",
@@ -558,7 +592,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "证监会副主席李明：坚决防止市场大起大落、急涨急跌",
@@ -593,11 +627,12 @@
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时28分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -620,17 +655,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "【中国央行主管媒体：政府债券快发多发短期对贷款有一定替代】中国人民银行主管的《金融时报》刊文称，社会融资规模保持较快增长，货币政策与财政政策协同发力。同时，也要看到，政府债券快发多发短期对贷款有一定替代。“当前经济运行面临需求不足的挑战，通过加大政府债券发行规模，能够支持重大项目和国家重大战略的实施，助力扩大需求、支撑经济。同时，不少政府债券用于置换融资平台债务、清理拖欠企业账款等，实际上是政府部门适度加杠杆帮助企业和居民部门稳杠杆的过程，有助于经营主体缓解资金压力、减轻债务负担，为经济中长期可持续发展奠定基础。”有业内人士解释，据国家资产负债表中心数据，截至三季度末，政府部门杠杆率同比提高8.8个百分点至67.5%，非金融企业部门、居民部门杠杆率分别同比上升4.5个百分点、略降1.2个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3004063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -666,6 +690,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "【中国央行主管媒体：政府债券快发多发短期对贷款有一定替代】中国人民银行主管的《金融时报》刊文称，社会融资规模保持较快增长，货币政策与财政政策协同发力。同时，也要看到，政府债券快发多发短期对贷款有一定替代。“当前经济运行面临需求不足的挑战，通过加大政府债券发行规模，能够支持重大项目和国家重大战略的实施，助力扩大需求、支撑经济。同时，不少政府债券用于置换融资平台债务、清理拖欠企业账款等，实际上是政府部门适度加杠杆帮助企业和居民部门稳杠杆的过程，有助于经营主体缓解资金压力、减轻债务负担，为经济中长期可持续发展奠定基础。”有业内人士解释，据国家资产负债表中心数据，截至三季度末，政府部门杠杆率同比提高8.8个百分点至67.5%，非金融企业部门、居民部门杠杆率分别同比上升4.5个百分点、略降1.2个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3004063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "白宫新闻秘书莱维特：数据匮乏使政策制定者“盲目决策”。",
@@ -778,6 +814,18 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "工信部：高质量编制“十五五”促进中小企业发展规划，适时推动出台各类惠企政策",
           "url": "https://wallstreetcn.com/livenews/3003850",
           "source": "华尔街见闻-快讯",
@@ -788,6 +836,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时25分]"
+        },
+        {
+          "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
@@ -829,7 +889,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -854,17 +914,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -898,17 +947,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美联储柯林斯：在一段时间内维持政策利率不变可能是合适的。",
@@ -988,6 +1026,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "阿里巴巴美股盘前涨超4%，公司正准备对其旗舰AI应用进行重大改版，旨在使其功能更接近OpenAI的ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3004067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "美联储理事米兰：我认为我们有责任确保货币政策得当，避免处于过于收紧的状态，从而消除部分经济下行风险。",
           "url": "https://flash.jin10.com/detail/20251113014756455800",
           "source": "金十数据",
@@ -1024,7 +1073,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -1037,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时23分 ~ 16时34分]"
+        },
+        {
+          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -1071,6 +1131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
+          "url": "https://wallstreetcn.com/livenews/3004100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美股收盘：道指创新高 AMD涨9%",
@@ -1115,12 +1186,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
+          "url": "https://flash.jin10.com/detail/20251113174541985800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "京东美股盘前涨超3%，此前公布业绩数据。",
+          "url": "https://wallstreetcn.com/livenews/3004076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年11月13日（周四）上海金早盘价为957.96元/克，较国际金价(958.64元/克)，低0.68元/克",
@@ -1165,6 +1269,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "受政府停摆结束和降息预期提振 黄金价格突破4200美元",
+          "url": "https://flash.jin10.com/detail/20251113175418788800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "黄金价格延续涨势 升至三周高点",
+          "url": "https://www.toutiao.com/trending/7572078083620998697/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
