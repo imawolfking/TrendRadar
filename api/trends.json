@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T21:28:33.885925+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-11-15T22:20:45.683906+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
@@ -69,11 +69,27 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
+          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
+          "url": "https://flash.jin10.com/detail/20251115180815888800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            25,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时20分]"
         },
         {
           "title": "特朗普称将向BBC索赔10亿到50亿美元",
@@ -121,6 +137,21 @@
           "time_info": "[14时33分 ~ 18时24分]"
         },
         {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
+          "url": "https://flash.jin10.com/detail/20251115180113833800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时20分]"
+        },
+        {
           "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
           "url": "https://flash.jin10.com/detail/20251115031611810800",
           "source": "金十数据",
@@ -146,20 +177,6 @@
           "time_info": "[16时28分 ~ 19时18分]"
         },
         {
-          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
-          "url": "https://flash.jin10.com/detail/20251115180815888800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时28分]"
-        },
-        {
           "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
           "url": "https://wallstreetcn.com/livenews/3005141",
           "source": "华尔街见闻-快讯",
@@ -175,31 +192,18 @@
           "time_info": "[12时28分 ~ 16时28分]"
         },
         {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
-          "url": "https://flash.jin10.com/detail/20251115180113833800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时28分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
           "url": "https://flash.jin10.com/detail/20251115190723061800",
           "source": "金十数据",
           "ranks": [
             2,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
@@ -208,11 +212,12 @@
           "ranks": [
             4,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "特朗普政府下调美国大豆出口前景预测",
@@ -239,6 +244,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 18时24分]"
+        },
+        {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -290,19 +309,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时22分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时28分]"
         },
         {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
@@ -621,8 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时11分 ~ 22时20分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -638,8 +644,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 22时20分]"
         },
         {
           "title": "吴清：着力推动市场更具韧性、更加稳健，制度更加包容、更具吸引力",
@@ -709,6 +715,17 @@
           "time_info": "[00时31分 ~ 17时22分]"
         },
         {
+          "title": "男子为卖货造谣化工厂害死人被罚",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%8D%96%E8%B4%A7%E9%80%A0%E8%B0%A3%E5%8C%96%E5%B7%A5%E5%8E%82%E5%AE%B3%E6%AD%BB%E4%BA%BA%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 22时20分]"
+        },
+        {
           "title": "航运巨头达飞轮船CFO：目前，在安全允许的情况下，限制苏伊士运河通航次数的政策不会改变。",
           "url": "https://flash.jin10.com/detail/20251115011457670800",
           "source": "金十数据",
@@ -761,17 +778,6 @@
           "time_info": "[09时50分 ~ 14时33分]"
         },
         {
-          "title": "男子为卖货造谣化工厂害死人被罚",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%8D%96%E8%B4%A7%E9%80%A0%E8%B0%A3%E5%8C%96%E5%B7%A5%E5%8E%82%E5%AE%B3%E6%AD%BB%E4%BA%BA%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 21时28分]"
-        },
-        {
           "title": "据证监会官网，宇树科技已发布IPO辅导工作完成报告。",
           "url": "https://wallstreetcn.com/livenews/3005117",
           "source": "华尔街见闻-快讯",
@@ -792,6 +798,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
+          "url": "https://flash.jin10.com/detail/20251115183803555800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
@@ -817,19 +837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
-        },
-        {
-          "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
-          "url": "https://flash.jin10.com/detail/20251115183803555800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时28分]"
         },
         {
           "title": "“粤车南下”政策落地，首辆车顺利通关",
@@ -1025,20 +1032,6 @@
           "time_info": "[00时31分 ~ 14时33分]"
         },
         {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 21时28分]"
-        },
-        {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
@@ -1049,8 +1042,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时22分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 22时20分]"
+        },
+        {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 22时20分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -1063,8 +1071,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时11分 ~ 22时20分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -1225,11 +1233,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时20分]"
         },
         {
           "title": "伊朗革命卫队：我们根据法院命令查封了“塔拉拉”号油轮，该油轮载有未经授权的货物。",
@@ -1238,11 +1247,12 @@
           "ranks": [
             3,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1252,8 +1262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时20分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1261,11 +1271,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时20分]"
         }
       ]
     },
