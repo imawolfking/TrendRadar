@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T05:23:00.431763+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-11-18T06:23:50.830050+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -39,8 +39,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "美国总统特朗普：有个国家想重新谈判其贸易协议的条款。",
@@ -54,6 +54,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3006089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "美国总统特朗普：可能会允许美国出售F-35战斗机给沙特。",
           "url": "https://wallstreetcn.com/livenews/3006043",
           "source": "华尔街见闻-快讯",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美联储理事沃勒：拒绝评论美国总统特朗普针对FOMC利率的论调是否对美联储有帮助。",
-          "url": "https://wallstreetcn.com/livenews/3006059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "美国总统特朗普：我们必须培训我们的人员如何制造芯片。",
@@ -98,6 +98,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "联合国安理会通过由美国起草的决议，支持美国总统特朗普的加沙和平计划。",
+          "url": "https://flash.jin10.com/detail/20251118060501977800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "美国总统特朗普：由于关税，芯片制造商正在回归美国。",
           "url": "https://flash.jin10.com/detail/20251118040818746800",
           "source": "金十数据",
@@ -119,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时24分]"
+        },
+        {
+          "title": "美联储理事沃勒：拒绝评论美国总统特朗普针对FOMC利率的论调是否对美联储有帮助。",
+          "url": "https://wallstreetcn.com/livenews/3006059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时23分]"
         },
         {
           "title": "特朗普会晤麦当劳高层 借力快餐业宣传“降成本”",
@@ -193,6 +216,18 @@
           "time_info": "[03时20分 ~ 04时28分]"
         },
         {
+          "title": "美联储理事沃勒：拒绝评论美国总统特朗普有关利率的言论是否对美联储有帮助。",
+          "url": "https://flash.jin10.com/detail/20251118050638889800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时23分]"
+        },
+        {
           "title": "力拓对美铝材加收附加费 特朗普关税引发市场结构性破坏",
           "url": "https://flash.jin10.com/detail/20251118014247009800",
           "source": "金十数据",
@@ -256,7 +291,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -283,24 +318,13 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美联储理事沃勒：拒绝评论美国总统特朗普有关利率的言论是否对美联储有帮助。",
-          "url": "https://flash.jin10.com/detail/20251118050638889800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "特朗普释放可能军事打击墨西哥的信息，墨西哥比索跌幅扩大",
           "url": "https://wallstreetcn.com/livenews/3006045",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -311,7 +335,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -410,7 +434,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -418,7 +442,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
@@ -429,8 +453,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -441,8 +465,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -457,24 +481,25 @@
           "time_info": "[01时24分 ~ 02时35分]"
         },
         {
+          "title": "英国公布庇护制度改革方案将全面收紧难民政策",
+          "url": "https://flash.jin10.com/detail/20251118050736592800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时23分]"
+        },
+        {
           "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
           "url": "https://wallstreetcn.com/livenews/3006051",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "英国公布庇护制度改革方案将全面收紧难民政策",
-          "url": "https://flash.jin10.com/detail/20251118050736592800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -488,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美联储理事沃勒：我预计明年财政刺激（政策）不会有太大变化。",
+          "url": "https://flash.jin10.com/detail/20251118051632124800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "美联储副主席杰斐逊：作为货币政策制定者，我对存款保险改革没有看法，这应由民选官员决定。",
@@ -512,13 +548,24 @@
           "time_info": "01时24分"
         },
         {
+          "title": "英国公布庇护制度改革方案，将全面收紧难民政策",
+          "url": "https://wallstreetcn.com/livenews/3006061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "美联储理事沃勒：近期数据的匮乏不应阻碍美联储的宽松政策。",
           "url": "https://flash.jin10.com/detail/20251118044021647800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -548,7 +595,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
@@ -575,15 +622,48 @@
           "time_info": "[02时35分 ~ 03时20分]"
         },
         {
+          "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
+          "url": "https://wallstreetcn.com/livenews/3006080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌1.68%，报289.48点。 纽约证交所ARCA金矿开采商指数收跌1.58%，报2124.04点，北京时间22:59涨至2170.10点刷新日高，01:33出现一波显著的下跌行情，04:03跌至2109.73点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3006077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251118050536496800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
+          "url": "https://wallstreetcn.com/livenews/3006074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股收盘）",
@@ -592,9 +672,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "区域银行ETF收跌超3.7%，和银行业ETF领跌美股行业ETF，标普电信板块涨超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3006071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
@@ -614,7 +705,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -665,8 +756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时23分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -705,7 +796,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -739,7 +830,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
