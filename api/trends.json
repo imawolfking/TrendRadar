@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T13:26:21.846928+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2025-11-17T14:38:15.872071+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时38分]"
+        },
+        {
+          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
+          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时26分]"
+          "time_info": "[12时31分 ~ 14时38分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -95,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 11时20分]"
-        },
-        {
-          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时26分]"
         },
         {
           "title": "特朗普不到两个月内完成超175笔投资",
@@ -137,7 +137,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -181,7 +181,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -200,7 +200,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -227,8 +227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时38分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -245,13 +245,24 @@
           "time_info": "[02时31分 ~ 09时55分]"
         },
         {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117141948002800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "据英国金融时报：欧洲央行政策制定者奥拉夫·斯莱伊彭警告称，稳定币的挤兑可能会迫使欧洲央行重新考虑利率。",
           "url": "https://flash.jin10.com/detail/20251117130538720800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -275,8 +286,85 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时38分]"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，从长期来看，可持续地实现2%的目标并不仅仅意味着通胀要高于2%，还意味着通胀大幅超过2%可能会带来麻烦。",
+          "url": "https://flash.jin10.com/detail/20251117140803069800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "14时38分"
+        },
+        {
+          "title": "日本11月12日经济财政政策会议（CEFP）纪要：日本央行行长植田和男表示，日本央行正在寻求一个能确保经济“平稳着陆”的利率水平。 植田和男表示，我们的观点是基础通胀率仍低于目标，因此我们正在维持宽松的货币立场。 植田和男表示，从长远来看，可持续地实现 2%（的通胀目标），不仅意味着要从目前的低水平上升，也意味着通胀显著超过2%可能会带来麻烦。 植田和男称维持过于宽松货币政策时间太久，会对稳定达成2%通胀目标构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3005628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，从稳定实现2%目标的角度来看，维持货币政策过于宽松的时间过长会带来风险。",
+          "url": "https://flash.jin10.com/detail/20251117140719857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
+          "url": "https://wallstreetcn.com/livenews/3005627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，我们认为潜在通胀率仍低于目标水平，因此我们将维持宽松的货币政策立场。",
+          "url": "https://flash.jin10.com/detail/20251117140427790800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "日本经济财政政策会议会议纪要：日本央行行长植田和男表示，日本央行正在追求一个能确保平稳着陆的利率水平。",
+          "url": "https://flash.jin10.com/detail/20251117140405224800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "日本方面公布11月12日经济财政政策会议（CEFP）会议纪要，这是日本首相高市早苗任内首次召开该会议。",
+          "url": "https://flash.jin10.com/detail/20251117140111143800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
@@ -343,36 +431,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
-          "url": "https://flash.jin10.com/detail/20251117110119026800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金价居高不下，黄金消费现新趋势",
-          "url": "https://wallstreetcn.com/livenews/3005396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗外长：国际制裁不影响俄伊核能合作进程",
@@ -401,6 +461,45 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗启动人工增雨应对严重干旱",
+          "url": "https://wallstreetcn.com/livenews/3005624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
+          "url": "https://flash.jin10.com/detail/20251117110119026800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "金价居高不下，黄金消费现新趋势",
+          "url": "https://wallstreetcn.com/livenews/3005396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
