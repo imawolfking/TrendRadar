@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T17:28:14.709664+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-11-18T18:28:56.330248+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -410,7 +410,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -632,8 +632,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 18时28分]"
         },
         {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
@@ -917,11 +917,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时28分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -933,8 +934,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时28分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -953,11 +954,12 @@
           "url": "https://wallstreetcn.com/livenews/3006403",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -1157,8 +1159,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时28分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1209,11 +1211,12 @@
           "url": "https://wallstreetcn.com/articles/3759603",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
