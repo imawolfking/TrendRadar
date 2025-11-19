@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T22:25:26.502049+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-11-19T23:27:10.130954+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[09时53分 ~ 23时27分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -51,6 +51,17 @@
           "time_info": "[12时30分 ~ 22时25分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时28分 ~ 23时27分]"
+        },
+        {
           "title": "特朗普：台湾生产了几乎100%的芯片",
           "url": "https://www.toutiao.com/trending/7573879516414623771/",
           "source": "今日头条",
@@ -63,15 +74,16 @@
           "time_info": "[01时23分 ~ 07时23分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时28分 ~ 22时25分]"
+          "time_info": "[19时21分 ~ 23时27分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时22分 ~ 13时25分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时25分]"
         },
         {
           "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
@@ -295,6 +296,18 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
+          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
+          "url": "https://wallstreetcn.com/livenews/3007265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时27分]"
+        },
+        {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
           "url": "https://flash.jin10.com/detail/20251119020428074800",
           "source": "金十数据",
@@ -455,6 +468,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
+          "url": "https://wallstreetcn.com/livenews/3007285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
           "url": "https://flash.jin10.com/detail/20251119020538614800",
           "source": "金十数据",
@@ -486,17 +510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
-          "url": "https://wallstreetcn.com/livenews/3007265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "特朗普称他“与家族业务没有任何关系”",
@@ -686,6 +699,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "特朗普缺席，美国警告南非不要在峰会上发表G20声明",
+          "url": "https://wallstreetcn.com/livenews/3007268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
           "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
@@ -810,7 +834,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -819,11 +843,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[09时53分 ~ 23时27分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -837,8 +862,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时16分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[11时16分 ~ 23时27分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -870,8 +895,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时53分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 23时27分]"
+        },
+        {
+          "title": "韩国深陷 5 年内十大产业或全线失守恐慌，在中国的高速发展和美国的贸易保护政策之下，韩国经济何去何从？",
+          "url": "https://www.zhihu.com/question/1974079949016168025",
+          "source": "知乎",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时21分 ~ 23时27分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -905,6 +942,20 @@
           "time_info": "[09时53分 ~ 16时33分]"
         },
         {
+          "title": "你看好普高与中职学生互转政策吗",
+          "url": "https://www.toutiao.com/trending/7574226126256685062/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            10,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时33分 ~ 23时27分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
@@ -920,18 +971,27 @@
           "time_info": "[02时36分 ~ 09时53分]"
         },
         {
-          "title": "你看好普高与中职学生互转政策吗",
-          "url": "https://www.toutiao.com/trending/7574226126256685062/",
-          "source": "今日头条",
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
           "ranks": [
-            12,
-            10,
-            9,
-            18
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时27分]"
+        },
+        {
+          "title": "大湾区政策红利发放系虚假信息",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%94%BF%E7%AD%96%E7%BA%A2%E5%88%A9%E5%8F%91%E6%94%BE%E7%B3%BB%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时33分 ~ 22时25分]"
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -944,18 +1004,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 13时25分]"
-        },
-        {
-          "title": "韩国深陷 5 年内十大产业或全线失守恐慌，在中国的高速发展和美国的贸易保护政策之下，韩国经济何去何从？",
-          "url": "https://www.zhihu.com/question/1974079949016168025",
-          "source": "知乎",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时25分]"
         },
         {
           "title": "中国公民赴俄免签政策将于近期生效",
@@ -995,28 +1043,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时16分 ~ 17时28分]"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时25分]"
-        },
-        {
-          "title": "大湾区政策红利发放系虚假信息",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E6%94%BF%E7%AD%96%E7%BA%A2%E5%88%A9%E5%8F%91%E6%94%BE%E7%B3%BB%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时25分]"
         },
         {
           "title": "欧盟外交政策负责人卡拉斯：冲突将在俄罗斯耗尽资金之时结束。希望在12月就乌克兰赔偿贷款事宜做出决定。",
@@ -1074,17 +1100,6 @@
           "time_info": "01时23分"
         },
         {
-          "title": "证监会：MSCI中国A股指数成分股有36.8%的企业ESG评级提升",
-          "url": "https://wallstreetcn.com/livenews/3007270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -1131,6 +1146,18 @@
           "time_info": "[09时53分 ~ 13时25分]"
         },
         {
+          "title": "证监会：MSCI中国A股指数成分股有36.8%的企业ESG评级提升",
+          "url": "https://wallstreetcn.com/livenews/3007270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时27分]"
+        },
+        {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
           "url": "https://wallstreetcn.com/livenews/3006643",
           "source": "华尔街见闻-快讯",
@@ -1141,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时23分]"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "【李强会见俄罗斯总统普京】当地时间11月18日下午，国务院总理李强在莫斯科克里姆林宫会见俄罗斯总统普京。 李强指出，中方对发展中俄互利合作的决心和立场是一贯的，愿同俄方进一步增强合作韧性，巩固和维护两国合作的稳健发展势头。双方要共同办好新的中俄国家级主题年，用好免签等“双向奔赴”的惠民政策，促进两国人民更加相知相亲，筑牢双边关系的民间友好基础。中方愿同俄方继续通力协作，落实上海合作组织天津峰会成果，弘扬“上海精神”，深化团结合作，打造践行全球治理倡议的样板，推动上合组织高质量发展，为地区乃至世界的和平与发展作出更大贡献。（新华社）",
@@ -1211,6 +1249,28 @@
           "time_info": "00时34分"
         },
         {
+          "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3007282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美联储理事米兰：本会在10月28日至29日的政策会议上支持立即结束美联储的量化宽松政策。",
+          "url": "https://flash.jin10.com/detail/20251119230129192800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-19）",
           "url": "https://flash.jin10.com/detail/20251119150724225800",
           "source": "金十数据",
@@ -1239,7 +1299,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1324,7 +1384,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -1449,6 +1509,29 @@
           "time_info": "[11时16分 ~ 12时30分]"
         },
         {
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时27分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.18%，报292.90点。 纽约证交所ARCA金矿开采商指数收平，报2124.04点，北京时间22:30美股开盘之前跌至2110点下方，随后反弹至接近2140点的水平，之后出现V形反转——00:03曾跌至2093.40点刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3006750",
           "source": "华尔街见闻-快讯",
@@ -1460,15 +1543,15 @@
           "time_info": "06时24分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3007260",
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
+          "url": "https://wallstreetcn.com/livenews/3007277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "23时27分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -1535,6 +1618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251119225522376800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "金十图示：2025年11月18日（周二）热门中概股行情一览（美股收盘）",
@@ -1759,6 +1853,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
