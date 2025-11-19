@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T13:25:58.813135+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-11-19T14:36:48.349046+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时36分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -55,6 +55,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -132,18 +144,6 @@
           "time_info": "[00时34分 ~ 01时23分]"
         },
         {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时25分]"
-        },
-        {
           "title": "美国总统特朗普结束在白宫的讲话。",
           "url": "https://flash.jin10.com/detail/20251119021212716800",
           "source": "金十数据",
@@ -166,6 +166,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时36分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -191,18 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：应吊销美国广播公司的执照。",
@@ -263,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时36分]"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -342,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
+          "url": "https://news.ifeng.com/c/8oPCfhjamik",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -542,17 +566,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "特朗普与沙特王储握手露出尴尬表情",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "特朗普指定沙特阿拉伯为美国主要的非北约盟友，与沙特签署战略防御协议。",
           "url": "https://wallstreetcn.com/livenews/3006823",
           "source": "华尔街见闻-快讯",
@@ -655,7 +668,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌正式发布Gemini3",
@@ -720,11 +733,26 @@
             1,
             4,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时36分]"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "欧盟外交政策负责人卡拉斯：冲突将在俄罗斯耗尽资金之时结束。希望在12月就乌克兰赔偿贷款事宜做出决定。",
@@ -738,6 +766,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时36分]"
+        },
+        {
           "title": "英国央行货币政策委员丁格拉：尽管实际工资增长与其他国家相似，但消费疲软。",
           "url": "https://flash.jin10.com/detail/20251119010723596800",
           "source": "金十数据",
@@ -749,18 +788,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
+          "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
+          "url": "https://wallstreetcn.com/livenews/3006981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7,
-            5,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -785,15 +821,16 @@
           "time_info": "09时53分"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "英国央行货币政策委员丁格拉：应尽快将利率降至中性水平。",
@@ -808,16 +845,16 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            10
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时25分]"
+          "time_info": "[11时16分 ~ 14时36分]"
         },
         {
           "title": "普京：中国公民赴俄免签政策将于近期生效",
@@ -831,18 +868,6 @@
           "time_info": "[09时53分 ~ 13时25分]"
         },
         {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时25分]"
-        },
-        {
           "title": "财政部辟谣多项涉大湾区政策",
           "url": "https://www.toutiao.com/trending/7574018358896082986/",
           "source": "今日头条",
@@ -850,8 +875,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时36分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -921,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "美联储巴尔金：政策仍适度紧缩。",
@@ -997,17 +1033,6 @@
           "time_info": "[00时34分 ~ 11时16分]"
         },
         {
-          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 06时24分]"
-        },
-        {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
           "url": "https://www.cls.cn/detail/2204381",
           "source": "财联社热门",
@@ -1017,8 +1042,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 14时36分]"
+        },
+        {
+          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时24分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
