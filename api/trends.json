@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T09:52:15.387431+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-11-20T11:14:30.674253+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -69,7 +69,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -113,7 +113,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -166,6 +166,18 @@
           "time_info": "[01时23分 ~ 02时36分]"
         },
         {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时14分]"
+        },
+        {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
           "url": "https://wallstreetcn.com/livenews/3007367",
           "source": "华尔街见闻-快讯",
@@ -190,15 +202,16 @@
           "time_info": "[00时38分 ~ 01时23分]"
         },
         {
-          "title": "特朗普：应起诉鲍威尔",
-          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
-          "source": "凤凰网",
+          "title": "特朗普政府宣布拆解教育部计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
           "ranks": [
-            9
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时14分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -237,17 +250,6 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
-          "title": "特朗普政府宣布拆解教育部计划",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
           "title": "美国总统特朗普：对于美国而言，沙特是北约之外一个非常强大的盟友。",
           "url": "https://flash.jin10.com/detail/20251120010945648800",
           "source": "金十数据",
@@ -279,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "乌克兰总统泽连斯基：只有美国和美国总统特朗普有足够的实力结束冲突，实现和平的关键在于与我们的伙伴合作，并确保美国的领导力依然有效且强大。",
@@ -331,7 +344,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -367,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美国总统特朗普：我们将开始着手处理苏丹问题。",
@@ -592,7 +616,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -627,11 +651,12 @@
             5,
             6,
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -644,8 +669,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -666,11 +691,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时36分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[02时36分 ~ 11时14分]"
         },
         {
           "title": "大湾区政策红利发放系虚假信息",
@@ -712,7 +738,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -869,6 +895,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
+          "url": "https://flash.jin10.com/detail/20251120104126755800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
           "url": "https://flash.jin10.com/detail/20251120005103639800",
           "source": "金十数据",
@@ -902,6 +939,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
+          "url": "https://flash.jin10.com/detail/20251120103853378800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：英伟达正与OpenAI合作，建设并部署超过10吉瓦的AI数据中心。",
           "url": "https://flash.jin10.com/detail/20251120062209378800",
           "source": "金十数据",
@@ -911,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "澳洲联储助理主席Hunter：正在研究疫情以来企业是否改变了定价方式。 正在研究如何衡量经济的供给能力，重点关注劳动力市场。 正在探究近年来货币政策的传导渠道是否发生了变化。 住房市场对降息的反应比预期要稍微强劲一些。",
+          "url": "https://wallstreetcn.com/livenews/3007576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
@@ -925,11 +984,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 11时14分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -941,8 +1001,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 09时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 11时14分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -953,8 +1013,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时14分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
