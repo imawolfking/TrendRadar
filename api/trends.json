@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T04:28:53.117805+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-11-21T05:23:28.127456+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "何立峰：持续推动外贸提质增效 打通全国统一大市场建设卡点堵点",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "Gemini3",
@@ -49,11 +49,12 @@
           "ranks": [
             5,
             4,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 05时23分]"
         },
         {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
@@ -84,7 +85,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -147,13 +148,24 @@
           "time_info": "01时20分"
         },
         {
+          "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：过去三个月的通胀充其量是保持稳定，从某些衡量标准来看更糟。 在确定通胀回升是否是暂时的之前，对提前大幅降息感到不安。 认为美联储主席鲍威尔努力建立共识的做法很有价值。 如果我最终意见强烈，且与其他美联储政策制定者意见不同，提出异议也没有错。 在美联储9月降息后，认为2025年只需要再降息一次。 当我投票支持美联储10月降息时，假定就业市场正在逐渐降温。 9月就业数据显示稳定、温和降温；失业救济申请没有显示快速恶化。 官方政府数据是“一团糟”；缺乏通胀可见性带来的风险大于缺乏劳动力市场可见性带来的风险，因为劳动力市场有更多替代数据。 就中期利率而言，他不是鹰派。 相信利率将远低于目前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3008178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "英国央行货币政策委员丁格拉：关税不会导致进口“爆炸式增长”。",
           "url": "https://flash.jin10.com/detail/20251121032553440800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -169,13 +181,24 @@
           "time_info": "01时20分"
         },
         {
+          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3008167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "英国央行货币政策委员丁格拉：关税将导致英国物价小幅下降。",
           "url": "https://flash.jin10.com/detail/20251121031326295800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -249,7 +272,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -377,7 +400,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -459,6 +482,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
           "url": "https://flash.jin10.com/detail/20251121013301455800",
           "source": "金十数据",
@@ -473,7 +507,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -481,11 +515,45 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050621300800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050600915800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
+          "url": "https://wallstreetcn.com/livenews/3008179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -529,9 +597,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
+          "url": "https://wallstreetcn.com/livenews/3008168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美股收盘：纳指跌超2% 英伟达高开低收",
+          "url": "https://flash.jin10.com/detail/20251121050054404800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
+          "url": "https://wallstreetcn.com/livenews/3008162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251121043853690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
@@ -548,18 +660,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗外长：与国际原子能机构签署的开罗协议正式终止",
           "url": "https://wallstreetcn.com/livenews/3008149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时23分]"
         },
         {
           "title": "伊朗外长：与国际原子能机构签署的开罗协议正式终止",
@@ -568,7 +681,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -582,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国财政部：加强对支持伊朗军队的石油网络的制裁。",
+          "url": "https://flash.jin10.com/detail/20251121043834811800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -609,9 +733,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时23分]"
         }
       ]
     },
