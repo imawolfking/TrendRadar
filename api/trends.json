@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:32:51.449747+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2025-11-21T22:24:30.444981+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 57,
+      "match_count": 63,
       "titles": [
         {
           "title": "何立峰：持续推动外贸提质增效 打通全国统一大市场建设卡点堵点",
@@ -73,6 +73,28 @@
           "time_info": "[02时36分 ~ 05时23分]"
         },
         {
+          "title": "涉嫌信息披露违法违规，聚石化学、豪尔赛被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207698",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时24分]"
+        },
+        {
+          "title": "美联储柯林斯：全球经济进一步分化可能导致更高通胀。资产估值高企，信贷利差收窄，意味着政策利率必须抵消金融状况带来的顺风。",
+          "url": "https://flash.jin10.com/detail/20251121220957718800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
           "url": "https://flash.jin10.com/detail/20251121010604644800",
           "source": "金十数据",
@@ -90,18 +112,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "涉嫌信息披露违法违规，聚石化学、豪尔赛被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207698",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -194,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "美国达拉斯联储主席Lorie Logan：预计不久之后就会重新扩张资产负债表。 再次呼吁在继续降息方面放慢脚步。 12月恐怕再难降息。 如果维持利率政策不变，美联储将有时间来评估限制性。 美联储需要抵消来自金融条件的尾部风险。",
+          "url": "https://wallstreetcn.com/livenews/3008753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
@@ -292,6 +314,18 @@
           "time_info": "[20时50分 ~ 21时32分]"
         },
         {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时24分]"
+        },
+        {
           "title": "OpenAI正式推出ChatGPT群聊功能",
           "url": "https://wallstreetcn.com/livenews/3008363",
           "source": "华尔街见闻-快讯",
@@ -361,15 +395,15 @@
           "time_info": "16时35分"
         },
         {
-          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
-          "url": "https://wallstreetcn.com/livenews/3008725",
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "22时24分"
         },
         {
           "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
@@ -515,6 +549,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "美联储副主席杰斐逊：现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251121214555783800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "财政部办公厅、中国证监会办公厅发布关于开展会计师事务所从事H股企业审计业务名单增补工作的通知",
           "url": "https://wallstreetcn.com/livenews/3008550",
           "source": "华尔街见闻-快讯",
@@ -548,13 +593,24 @@
           "time_info": "09时52分"
         },
         {
+          "title": "美国波士顿联储主席Susan Collins：9月份就业数据表现不一。 9月份失业率上升并不令人意外。 9月份的就业报告并没有改变其看法。 目前来看，尽管数据有限，经济活动依然保持韧性。 就业市场显然已经走弱。 预计今年晚些时候经济增速会有所放缓。 采取温和或适度从紧的政策是合适的。 对于下次政策会议持谨慎态度。",
+          "url": "https://wallstreetcn.com/livenews/3008737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美联储威廉姆斯：财政政策可能将中性利率推高了25至50个基点。",
           "url": "https://flash.jin10.com/detail/20251121205855367800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -592,6 +648,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "何立峰：中美双方应以两国元首会晤重要共识为引领 推动双边经贸关系稳定发展",
+          "url": "https://wallstreetcn.com/livenews/3008733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美联储古尔斯比：50年期抵押贷款利率可能会使货币政策决策的影响减弱。",
           "url": "https://flash.jin10.com/detail/20251121021606712800",
           "source": "金十数据",
@@ -609,7 +676,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -661,7 +728,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -670,11 +737,12 @@
           "ranks": [
             21,
             22,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时25分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 22时24分]"
         },
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -1099,7 +1167,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1146,26 +1214,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "白宫回应特朗普称女记者为“小猪”",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时52分 ~ 21时32分]"
-        },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
           "url": "https://www.cls.cn/detail/2206908",
@@ -1192,6 +1258,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时29分 ~ 18时26分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 22时24分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1230,8 +1310,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时52分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 22时24分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -1266,8 +1346,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 22时24分]"
         },
         {
           "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
@@ -1307,6 +1387,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时25分 ~ 17时26分]"
+        },
+        {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时24分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
@@ -1393,6 +1485,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时24分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌5.06%，报281.81点，美股盘初微幅上涨至301.10点刷新日高，随后逐步回吐涨幅并转跌，01:00过后持续低位震荡。 纽约证交所ARCA金矿开采商指数收跌4.02%，报2065.29点。",
           "url": "https://wallstreetcn.com/livenews/3008202",
           "source": "华尔街见闻-快讯",
@@ -1429,15 +1533,26 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
@@ -1449,17 +1564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3008724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -1644,7 +1748,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1697,8 +1801,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时52分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 22时24分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
