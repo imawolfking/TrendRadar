@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T22:21:01.370940+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-11-22T23:22:22.886925+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时22分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -31,11 +31,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时49分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 23时22分]"
         },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -55,11 +56,12 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时33分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[14时33分 ~ 23时22分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -178,6 +180,19 @@
           "time_info": "[05时22分 ~ 09时49分]"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时22分]"
+        },
+        {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
           "source": "百度热搜",
@@ -219,6 +234,19 @@
           "time_info": "[18时24分 ~ 20时42分]"
         },
         {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时22分]"
+        },
+        {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
           "url": "https://news.ifeng.com/c/8oUGoYyox5f",
           "source": "凤凰网",
@@ -240,18 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时20分]"
-        },
-        {
-          "title": "纽约市长在特朗普面前言论“大变脸”",
-          "url": "https://wallstreetcn.com/livenews/3009006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时21分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -290,18 +306,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时33分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -391,6 +395,18 @@
           "time_info": "[12时28分 ~ 13时23分]"
         },
         {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
           "url": "https://wallstreetcn.com/livenews/3008805",
           "source": "华尔街见闻-快讯",
@@ -450,15 +466,15 @@
           "time_info": "[04时27分 ~ 04时28分]"
         },
         {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
+          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
+          "url": "https://flash.jin10.com/detail/20251122223224197800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时22分"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”完善”。（彭博）",
@@ -467,7 +483,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -481,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
@@ -555,7 +582,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -651,8 +678,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时49分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 23时22分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -718,8 +745,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时22分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -750,9 +777,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时22分]"
         },
         {
           "title": "中信证券：政策推动下 氢能有望逐步迈入产业化阶段",
@@ -796,6 +836,19 @@
           "time_info": "[16时30分 ~ 18时24分]"
         },
         {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时22分]"
+        },
+        {
           "title": "欧洲央行行长拉加德将于十分钟后在关于“财政和货币政策未来”的会议上发表主旨演讲。",
           "url": "https://flash.jin10.com/detail/20251122185000000800",
           "source": "金十数据",
@@ -807,19 +860,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时18分 ~ 21时27分]"
-        },
-        {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
@@ -848,6 +888,20 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "欧洲央行行长拉加德：货币政策不能解决债务问题。",
+          "url": "https://wallstreetcn.com/livenews/3008994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时22分]"
+        },
+        {
           "title": "Gemini3适合用来编程吗",
           "url": "https://www.douyin.com/hot/2314319",
           "source": "抖音",
@@ -859,31 +913,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时23分 ~ 20时42分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时21分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：货币政策不能解决债务问题。",
-          "url": "https://wallstreetcn.com/livenews/3008994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "泰国央行行长：如有需要，准备放松货币政策。仍有降息空间。",
@@ -922,6 +951,30 @@
           "time_info": "[02时32分 ~ 03时20分]"
         },
         {
+          "title": "美联储柯林斯：目前对美联储而言是复杂时期，政策观点存在差异并不令人意外。",
+          "url": "https://flash.jin10.com/detail/20251122215646544800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
+          "title": "美联储柯林斯：美联储政策“略显紧缩”，这符合当前经济状况。",
+          "url": "https://flash.jin10.com/detail/20251122215631362800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
           "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
           "url": "https://wallstreetcn.com/livenews/3008792",
           "source": "华尔街见闻-快讯",
@@ -934,17 +987,6 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
-          "title": "美联储柯林斯：目前对美联储而言是复杂时期，政策观点存在差异并不令人意外。",
-          "url": "https://flash.jin10.com/detail/20251122215646544800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "欧洲央行管委佩雷拉：目前欧洲央行的货币政策是恰当的。",
           "url": "https://flash.jin10.com/detail/20251121234307956800",
           "source": "金十数据",
@@ -954,17 +996,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "美联储柯林斯：美联储政策“略显紧缩”，这符合当前经济状况。",
-          "url": "https://flash.jin10.com/detail/20251122215631362800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -1050,8 +1081,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时22分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 23时22分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -1093,6 +1124,19 @@
           "time_info": "[00时30分 ~ 07时22分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 23时22分]"
+        },
+        {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3008935",
           "source": "华尔街见闻-快讯",
@@ -1108,18 +1152,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时22分 ~ 15时22分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 22时21分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -1329,6 +1361,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时22分 ~ 13时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
