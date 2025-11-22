@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T15:22:20.536170+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-11-22T16:30:34.249319+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时30分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -37,11 +37,12 @@
           "ranks": [
             16,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -52,11 +53,24 @@
             9,
             11,
             16,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://www.cls.cn/detail/2207928",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 16时30分]"
         },
         {
           "title": "美国白宫针对关键矿物发布公告：为某些固定污染源提供“监管减免”，以促进美国焦炉加工安全 总统特朗普向与煤炭相关的产品提供两年监管宽限。",
@@ -122,18 +136,6 @@
           "time_info": "[05时22分 ~ 09时49分]"
         },
         {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://www.cls.cn/detail/2207928",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 15时22分]"
-        },
-        {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
           "url": "https://flash.jin10.com/detail/20251122021918507800",
           "source": "金十数据",
@@ -173,6 +175,20 @@
           "time_info": "[11时08分 ~ 14时33分]"
         },
         {
+          "title": "公开决裂后 特朗普铁杆盟友辞职",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            12,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时30分]"
+        },
+        {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
           "url": "https://flash.jin10.com/detail/20251122032426694800",
           "source": "金十数据",
@@ -182,6 +198,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
+          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
+        },
+        {
+          "title": "昔日盟友格林辞职，特朗普：好啊",
+          "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
@@ -195,19 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时08分 ~ 13时23分]"
-        },
-        {
-          "title": "公开决裂后 特朗普铁杆盟友辞职",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
         },
         {
           "title": "特朗普明确基辅接受新方案的最后期限及拒绝后果",
@@ -236,17 +274,15 @@
           "time_info": "[11时08分 ~ 13时23分]"
         },
         {
-          "title": "特朗普警告泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            17,
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "特朗普昔日亲密盟友将辞去众议员职务",
@@ -258,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
-          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -283,15 +308,16 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
-          "title": "昔日盟友格林辞职，特朗普：好啊",
-          "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
-          "source": "凤凰网",
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
+          "time_info": "[15时22分 ~ 16时30分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -330,17 +356,6 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
           "title": "白宫回应特朗普称女记者为“小猪”",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
           "source": "百度热搜",
@@ -350,17 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -549,6 +553,18 @@
           "time_info": "[00时30分 ~ 09时49分]"
         },
         {
+          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
+          "url": "https://www.cls.cn/detail/2207916",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 16时30分]"
+        },
+        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -573,18 +589,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 15时22分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -762,7 +766,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "涉嫌信息披露违法违规，聚石化学、豪尔赛被证监会立案调查",
@@ -787,8 +791,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -796,11 +800,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 16时30分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -822,8 +827,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 16时30分]"
+        },
+        {
+          "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
+          "url": "https://flash.jin10.com/detail/20251122152827880800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "中信证券：政策推动下 氢能有望逐步迈入产业化阶段",
@@ -875,8 +891,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时30分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -901,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时22分]"
+        },
+        {
+          "title": "兆威机电、迈威生物港股IPO获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3008968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "欧洲央行管委佩雷拉：目前欧洲央行的货币政策是恰当的。",
