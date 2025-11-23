@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T11:59:20.465634+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2025-11-23T12:39:23.945444+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -29,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时39分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -57,8 +57,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时39分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -70,8 +70,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时39分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -99,6 +99,30 @@
           "time_info": "[00时28分 ~ 10时07分]"
         },
         {
+          "title": "特朗普暗示“28点”计划方案有调整空间",
+          "url": "https://flash.jin10.com/detail/20251123114108204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时39分]"
+        },
+        {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
           "url": "https://wallstreetcn.com/articles/3759903",
           "source": "华尔街见闻",
@@ -108,6 +132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
+          "url": "https://flash.jin10.com/detail/20251123100826752800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时39分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -133,38 +169,16 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 11时59分]"
-        },
-        {
-          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
-          "url": "https://flash.jin10.com/detail/20251123100826752800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时39分]"
         }
       ]
     },
@@ -180,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时39分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -194,8 +208,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时39分]"
+        },
+        {
+          "title": "“一切为了中选”！明年上半年的美国政策组合：“关税退坡+财货双松”？",
+          "url": "https://wallstreetcn.com/articles/3759925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时32分 ~ 12时39分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -211,19 +239,6 @@
           "time_info": "[00时28分 ~ 10时07分]"
         },
         {
-          "title": "“一切为了中选”！明年上半年的美国政策组合：“关税退坡+财货双松”？",
-          "url": "https://wallstreetcn.com/articles/3759925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时32分 ~ 11时59分]"
-        },
-        {
           "title": "Gemini-3-pro 为什么提升那么大?",
           "url": "https://www.zhihu.com/question/1974915118199509365",
           "source": "知乎",
@@ -233,11 +248,12 @@
             12,
             16,
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时32分 ~ 11时59分]"
+          "appearance_count": 10,
+          "time_info": "[02时32分 ~ 12时39分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -250,11 +266,12 @@
             26,
             22,
             24,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 12时39分]"
         },
         {
           "title": "美联储柯林斯：目前对美联储而言是复杂时期，政策观点存在差异并不令人意外。",
@@ -298,8 +315,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时39分]"
         }
       ]
     },
@@ -316,8 +333,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时39分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
