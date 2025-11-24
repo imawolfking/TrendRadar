@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T17:31:16.810739+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-24T18:29:09.954214+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[10时01分 ~ 18时29分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普28条能让俄乌停战吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时29分]"
         },
         {
           "title": "泽连斯基：感谢美国，感谢特朗普",
@@ -126,17 +138,6 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
-          "title": "特朗普28条能让俄乌停战吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
           "url": "https://flash.jin10.com/detail/20251123221310746800",
           "source": "金十数据",
@@ -159,6 +160,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时29分]"
         },
         {
           "title": "特朗普：期待最高法院对关税问题的裁决。",
@@ -246,6 +259,18 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
+          "url": "https://wallstreetcn.com/livenews/3009492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
           "url": "https://wallstreetcn.com/livenews/3009128",
           "source": "华尔街见闻-快讯",
@@ -278,28 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
-          "url": "https://wallstreetcn.com/livenews/3009492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "市场消息：特朗普预计最早将于当时时间周一公布控制医疗成本的总体框架方案。",
@@ -387,6 +390,20 @@
           "time_info": "[00时28分 ~ 13时27分]"
         },
         {
+          "title": "证监会原党委委员王会民被开除党籍",
+          "url": "https://www.cls.cn/detail/2208610",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 18时29分]"
+        },
+        {
           "title": "11月24日投资避雷针：两公司因涉嫌信息披露违法违规 被证监会立案调查",
           "url": "https://www.cls.cn/detail/2208418",
           "source": "财联社热门",
@@ -413,20 +430,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "证监会原党委委员王会民被开除党籍",
-          "url": "https://www.cls.cn/detail/2208610",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时40分 ~ 17时31分]"
-        },
-        {
           "title": "驻证监会纪检监察组原组长王会民被开除党籍",
           "url": "https://m.thepaper.cn/newsDetail_forward_32029036",
           "source": "澎湃新闻",
@@ -436,8 +439,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 18时29分]"
+        },
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "李家超：香港特区政府支持国家对日本的外交政策",
@@ -475,18 +491,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "中国证监会原党委委员、中央纪委国家监委驻中国证监会纪检监察组原组长王会民严重违纪违法被开除党籍",
@@ -542,7 +546,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -597,7 +601,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
@@ -613,11 +617,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 18时29分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -653,17 +658,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美股盘前：中概股、科技股普涨",
-          "url": "https://wallstreetcn.com/livenews/3009505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3009473",
           "source": "华尔街见闻-快讯",
@@ -674,6 +668,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时29分]"
         }
       ]
     },
@@ -688,7 +694,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
