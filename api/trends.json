@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T03:19:58.625280+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-28T04:25:35.759268+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -39,8 +39,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "惠誉评级：英国执政工党内部充满挑战的政治动态使得存在政策进一步逆转的风险。",
@@ -54,69 +67,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
-        },
-        {
-          "title": "加拿大总理与艾伯塔省省长达成协议，将取消联邦对油气行业的碳排放上限，同时强化工业碳定价及碳封存措施。",
-          "url": "https://flash.jin10.com/detail/20251128011433758800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "英国央行货币政策委员格林：自预算案公布以来，我对通胀的担忧略有缓解，但只是略微缓解。",
-          "url": "https://flash.jin10.com/detail/20251128011416012800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "英国央行货币政策委员格林：最新通胀消息偏于下行。",
-          "url": "https://flash.jin10.com/detail/20251128011404613800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "英国央行货币政策委员会（MPC）委员Megan Greene：大部分显著的全球风险都来自市场。",
-          "url": "https://wallstreetcn.com/livenews/3011613",
+          "title": "多地出台政策强化对企业金融支持",
+          "url": "https://wallstreetcn.com/livenews/3011648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            16,
-            25
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -126,8 +85,64 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "加拿大总理与艾伯塔省省长达成协议，将取消联邦对油气行业的碳排放上限，同时强化工业碳定价及碳封存措施。",
+          "url": "https://flash.jin10.com/detail/20251128011433758800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            20,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "time_info": "[01时21分 ~ 04时25分]"
+        },
+        {
+          "title": "英国央行货币政策委员格林：自预算案公布以来，我对通胀的担忧略有缓解，但只是略微缓解。",
+          "url": "https://flash.jin10.com/detail/20251128011416012800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
+        },
+        {
+          "title": "英国央行货币政策委员格林：最新通胀消息偏于下行。",
+          "url": "https://flash.jin10.com/detail/20251128011404613800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）委员Megan Greene：大部分显著的全球风险都来自市场。",
+          "url": "https://wallstreetcn.com/livenews/3011613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
         },
         {
           "title": "英国央行货币政策委员会（MPC）委员Megan Greene：大部分政策制度暗示要维持利率稳定。 如果（通胀）预期偏高，货币政策必须做出反应。",
@@ -136,11 +151,12 @@
           "ranks": [
             6,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
         },
         {
           "title": "英国央行货币政策委员格林：工资增长强劲，正朝着正确的方向发展。",
@@ -182,6 +198,19 @@
           "time_info": "[01时21分 ~ 03时19分]"
         },
         {
+          "title": "英国央行货币政策委员格林：人们担心通胀回落是否会持续。",
+          "url": "https://flash.jin10.com/detail/20251128011529946800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时25分]"
+        },
+        {
           "title": "英国央行货币政策委员格林：预算中的能源价格措施似乎是一次性的，但可能有助于提振通胀预期。",
           "url": "https://flash.jin10.com/detail/20251128010151933800",
           "source": "金十数据",
@@ -206,18 +235,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "英国央行货币政策委员格林：人们担心通胀回落是否会持续。",
-          "url": "https://flash.jin10.com/detail/20251128011529946800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
         },
         {
           "title": "英国央行货币政策委员格林：大多数政策规则都建议保持利率稳定。",
@@ -453,8 +470,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -465,8 +482,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -477,8 +494,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
+          "url": "https://flash.jin10.com/detail/20251128021209382800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -491,17 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时21分]"
-        },
-        {
-          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
-          "url": "https://flash.jin10.com/detail/20251128021209382800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -526,11 +544,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时25分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：有关伊方间接地向美国发出讯息的传闻“完全是谎言”。",
@@ -538,22 +557,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时25分]"
         },
         {
           "title": "据华尔街日报：消息人士称，伊朗向真主党的资金正经由迪拜流动。",
           "url": "https://flash.jin10.com/detail/20251128022422215800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
         }
       ]
     },
@@ -585,11 +606,12 @@
           "ranks": [
             3,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时25分]"
         }
       ]
     }
