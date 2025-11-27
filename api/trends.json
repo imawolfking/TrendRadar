@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T15:26:02.160773+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2025-11-27T16:35:04.220223+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时52分 ~ 15时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 16时35分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -91,6 +91,19 @@
           "time_info": "[00时32分 ~ 05时22分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 16时35分]"
+        },
+        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -148,6 +161,19 @@
           "time_info": "14时38分"
         },
         {
+          "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
+          "url": "https://www.toutiao.com/trending/7576229938517852170/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 16时35分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
           "url": "https://wallstreetcn.com/livenews/3011063",
           "source": "华尔街见闻-快讯",
@@ -173,28 +199,16 @@
           "time_info": "[03时20分 ~ 04时27分]"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            6
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时26分]"
-        },
-        {
-          "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
-          "url": "https://www.toutiao.com/trending/7576229938517852170/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时26分]"
+          "time_info": "[13时26分 ~ 16时35分]"
         },
         {
           "title": "英特尔(INTC.O)：台积电的指控没有任何依据；公司有禁止使用第三方知识产权的政策。",
@@ -320,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "日本央行审议委员野口旭：政策调整步伐过慢的问题在于，会增加经济活动和物价失稳的风险。",
@@ -478,11 +481,12 @@
             5,
             2,
             4,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时52分 ~ 15时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 16时35分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -507,8 +511,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时35分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -518,11 +522,54 @@
             8,
             12,
             13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 16时35分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 16时35分]"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 16时35分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -571,43 +618,29 @@
           "time_info": "[11时15分 ~ 15时26分]"
         },
         {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 15时26分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
             17,
-            16,
+            7,
+            11,
             15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时15分 ~ 15时26分]"
+          "time_info": "[11时15分 ~ 16时35分]"
         },
         {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时52分 ~ 15时26分]"
+          "time_info": "[12时30分 ~ 16时35分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -619,19 +652,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时52分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 15时26分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -646,17 +666,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时15分 ~ 14时38分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 15时26分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -729,6 +738,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时52分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 16时35分]"
         },
         {
           "title": "美特使手把手教俄罗斯如何说服特朗普",
@@ -836,17 +856,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "加拿大总理卡尼：将于下周在世界杯足球抽签期间会见美国总统特朗普。",
@@ -1157,7 +1166,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
