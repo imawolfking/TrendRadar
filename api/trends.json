@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T21:35:48.489163+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2025-11-27T22:25:35.155445+08:00",
+  "total_titles_processed": 1942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时52分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时52分 ~ 22时25分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -102,8 +102,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 22时25分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -131,15 +131,28 @@
           "time_info": "[06时24分 ~ 11时16分]"
         },
         {
-          "title": "DeepSeek发布可自验证数学模型DeepSeekMath-V2",
-          "url": "https://wallstreetcn.com/livenews/3011557",
-          "source": "华尔街见闻-快讯",
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
           "ranks": [
-            2
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时25分]"
+        },
+        {
+          "title": "消息人士：欧佩克+预计将在明年一季度保持石油产量政策稳定",
+          "url": "https://flash.jin10.com/detail/20251127221051324800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "日本央行审议委员野口旭：日本央行必须仔细审视各种经济渠道如何最终影响经济活动和物价，并适时运用政策利率这一工具来调整货币宽松程度。",
@@ -204,11 +217,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -236,16 +250,16 @@
           "time_info": "[20时52分 ~ 21时35分]"
         },
         {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
+          "title": "DeepSeek发布可自验证数学模型DeepSeekMath-V2",
+          "url": "https://wallstreetcn.com/livenews/3011557",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时35分]"
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
@@ -271,6 +285,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时27分]"
+        },
+        {
+          "title": "牧原股份：发行境外上市外资股（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3011533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时25分]"
+        },
+        {
+          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
+          "url": "https://www.cls.cn/detail/2213059",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "英特尔(INTC.O)：台积电的指控没有任何依据；公司有禁止使用第三方知识产权的政策。",
@@ -357,18 +396,6 @@
           "time_info": "[17时28分 ~ 18时28分]"
         },
         {
-          "title": "牧原股份：发行境外上市外资股（H股）获得中国证监会备案。",
-          "url": "https://wallstreetcn.com/livenews/3011533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时35分]"
-        },
-        {
           "title": "日本央行审议委员野口旭：货币政策的唯一目标是实现物价稳定。",
           "url": "https://flash.jin10.com/detail/20251127093931620800",
           "source": "金十数据",
@@ -402,15 +429,15 @@
           "time_info": "09时53分"
         },
         {
-          "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
-          "url": "https://www.cls.cn/detail/2213059",
-          "source": "财联社热门",
+          "title": "消息人士：欧佩克+预计将在周日的会议上维持2026年第一季度的石油产出政策不变。",
+          "url": "https://flash.jin10.com/detail/20251127220606750800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时25分"
         },
         {
           "title": "墨西哥央行行长：毫无疑问，我们的货币政策现在以及未来都将继续聚焦于将通胀率降至3%的目标。",
@@ -643,8 +670,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时52分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时52分 ~ 22时25分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -671,11 +698,12 @@
             15,
             13,
             21,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时15分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[11时15分 ~ 22时25分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -708,8 +736,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时15分 ~ 21时35分]"
+          "appearance_count": 16,
+          "time_info": "[11时15分 ~ 22时25分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -884,6 +912,20 @@
           "time_info": "[09时52分 ~ 11时16分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            24,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -928,19 +970,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时30分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时35分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普回应",
