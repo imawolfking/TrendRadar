@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:28:52.853771+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2025-11-27T19:22:43.213845+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时52分 ~ 18时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时52分 ~ 19时22分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -54,6 +54,21 @@
           "time_info": "[00时32分 ~ 05时22分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 19时22分]"
+        },
+        {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
           "url": "https://www.cls.cn/detail/2211503",
           "source": "财联社热门",
@@ -64,20 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 04时27分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 18时28分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -116,6 +117,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时24分 ~ 11时16分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 19时22分]"
         },
         {
           "title": "日本央行审议委员野口旭：日本央行必须仔细审视各种经济渠道如何最终影响经济活动和物价，并适时运用政策利率这一工具来调整货币宽松程度。",
@@ -162,18 +175,6 @@
           "time_info": "14时38分"
         },
         {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 18时28分]"
-        },
-        {
           "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
           "url": "https://www.toutiao.com/trending/7576229938517852170/",
           "source": "今日头条",
@@ -205,11 +206,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时22分]"
         },
         {
           "title": "美联储褐皮书：制造业与零售业普遍面临成本压力，这主要反映了关税政策带来的推升作用。",
@@ -485,7 +487,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -521,11 +523,12 @@
             9,
             7,
             17,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时52分 ~ 18时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时52分 ~ 19时22分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -550,11 +553,12 @@
             7,
             11,
             15,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时15分 ~ 19时22分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -570,8 +574,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 18时28分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 19时22分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -586,8 +590,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时15分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时15分 ~ 19时22分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -691,11 +695,12 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时22分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -891,6 +896,17 @@
           "time_info": "[05时22分 ~ 06时24分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.toutiao.com/trending/7576562131659702313/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "加拿大总理卡尼：将于下周在世界杯足球抽签期间会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251127044545100800",
           "source": "金十数据",
@@ -922,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
@@ -1210,7 +1237,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
