@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T13:26:25.980104+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-11-28T14:38:24.016982+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -21,18 +21,15 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
           "ranks": [
-            1,
-            2,
-            21,
-            28
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -45,6 +42,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时23分]"
+        },
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            21,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 14时38分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -61,17 +73,6 @@
           "time_info": "[00时31分 ~ 09时52分]"
         },
         {
-          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
-          "url": "https://www.zhihu.com/question/1977462001522450495",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时26分]"
-        },
-        {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
           "url": "https://wallstreetcn.com/articles/3760281",
           "source": "华尔街见闻",
@@ -80,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -106,15 +107,17 @@
           "time_info": "00时31分"
         },
         {
-          "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
-          "url": "https://flash.jin10.com/detail/20251128130252675800",
-          "source": "金十数据",
+          "title": "DeepSeek开启无限进化新时代",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            7,
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时38分]"
         },
         {
           "title": "加拿大总理与艾伯塔省省长达成协议，将取消联邦对油气行业的碳排放上限，同时强化工业碳定价及碳封存措施。",
@@ -200,6 +203,18 @@
           "time_info": "[01时21分 ~ 04时25分]"
         },
         {
+          "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128130252675800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时38分]"
+        },
+        {
           "title": "英国央行货币政策委员格林：人们担心通胀回落是否会持续。",
           "url": "https://flash.jin10.com/detail/20251128011529946800",
           "source": "金十数据",
@@ -212,18 +227,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时22分]"
-        },
-        {
-          "title": "DeepSeek开启无限进化新时代",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时26分]"
         },
         {
           "title": "英国央行货币政策委员格林：工资增长强劲，正朝着正确的方向发展。",
@@ -447,13 +450,24 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
+          "title": "法国：坚定不移奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7577002030909165062/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-28）",
           "url": "https://flash.jin10.com/detail/20251128130117117800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -480,6 +494,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
           "url": "https://flash.jin10.com/detail/20251128095923576800",
           "source": "金十数据",
@@ -491,13 +516,24 @@
           "time_info": "11时15分"
         },
         {
+          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3011904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "DeepSeek新模型有多猛",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E7%8C%9B%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -626,7 +662,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -674,22 +710,48 @@
           "ranks": [
             5,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时38分]"
         },
         {
-          "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
-          "url": "https://flash.jin10.com/detail/20251128130524560800",
-          "source": "金十数据",
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普称将对委内瑞拉展开地面行动",
+          "url": "https://www.douyin.com/hot/2319972",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "14时38分"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -705,29 +767,30 @@
           "time_info": "[09时52分 ~ 12时31分]"
         },
         {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普称将对委内瑞拉展开地面行动",
-          "url": "https://www.douyin.com/hot/2319972",
+          "title": "中方回应特朗普要求高市降低声调",
+          "url": "https://www.douyin.com/hot/2319515",
           "source": "抖音",
           "ranks": [
-            20,
-            21
+            6,
+            10,
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时26分]"
+          "time_info": "[09时52分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
+          "url": "https://flash.jin10.com/detail/20251128130524560800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时38分]"
         },
         {
           "title": "特朗普称美国已订购更多B-2隐形轰炸机",
@@ -740,19 +803,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时26分]"
-        },
-        {
-          "title": "中方回应特朗普要求高市降低声调",
-          "url": "https://www.douyin.com/hot/2319515",
-          "source": "抖音",
-          "ranks": [
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 12时31分]"
         },
         {
           "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
@@ -780,6 +830,18 @@
           "time_info": "[03时19分 ~ 06时23分]"
         },
         {
+          "title": "特朗普：将永久停止所有“第三世界”国家的移民",
+          "url": "https://wallstreetcn.com/livenews/3011877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时38分]"
+        },
+        {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
           "url": "https://wallstreetcn.com/livenews/3011582",
           "source": "华尔街见闻-快讯",
@@ -803,15 +865,26 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普：将永久停止所有“第三世界”国家的移民",
-          "url": "https://wallstreetcn.com/livenews/3011877",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "14时38分"
+        },
+        {
+          "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
+          "url": "https://flash.jin10.com/detail/20251128133301169800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -831,9 +904,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "据英国金融时报：印尼正抵制美国总统特朗普试图强使其接受所谓“毒丸条款”及其它强制性条款的企图，这些条款原本拟纳入其与美国的“对等关税”贸易协议中。",
+          "url": "https://flash.jin10.com/detail/20251128132329449800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "美国总统特朗普：将永久暂停来自所有第三世界国家的移民，以使美国体系得以全面恢复。",
@@ -842,7 +926,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -986,8 +1070,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 14时38分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
