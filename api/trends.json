@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T16:34:44.102995+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2025-11-28T17:27:21.034381+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 17时27分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 17时27分]"
         },
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -74,18 +86,6 @@
           "time_info": "[00时31分 ~ 09时52分]"
         },
         {
-          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
-          "url": "https://wallstreetcn.com/articles/3760281",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时34分]"
-        },
-        {
           "title": "DeepSeek开启无限进化新时代",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
           "source": "bilibili 热搜",
@@ -96,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 17时27分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -128,9 +128,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "香港证监会简化措施，已获认可的欧盟规管零售基金将能更高效实施变更",
+          "url": "https://wallstreetcn.com/livenews/3012100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "加拿大总理与艾伯塔省省长达成协议，将取消联邦对油气行业的碳排放上限，同时强化工业碳定价及碳封存措施。",
@@ -216,6 +227,19 @@
           "time_info": "[01时21分 ~ 04时25分]"
         },
         {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时27分]"
+        },
+        {
           "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
           "url": "https://flash.jin10.com/detail/20251128130252675800",
           "source": "金十数据",
@@ -266,18 +290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时19分]"
-        },
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时34分]"
         },
         {
           "title": "英国央行货币政策委员格林：公用事业成本对通胀的影响显著低于燃料成本。",
@@ -521,6 +533,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "DeepSeek推出新模型",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -541,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
+          "url": "https://www.cls.cn/detail/2214088",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
@@ -607,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "工信部：加快推出针对性政策举措，依法依规治理动力和储能电池产业非理性竞争",
+          "url": "https://wallstreetcn.com/livenews/3012074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "英国央行货币政策委员格林：消费者物价指数预期处于我们可解释的区间的上限。",
@@ -764,6 +809,20 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普：将对委内瑞拉展开地面行动",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -779,18 +838,30 @@
           "time_info": "[09时52分 ~ 15时24分]"
         },
         {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            18,
-            17,
-            15
+            9,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时27分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -820,18 +891,6 @@
           "time_info": "[09时52分 ~ 14时38分]"
         },
         {
-          "title": "特朗普称将暂停“第三世界国家”移民",
-          "url": "https://www.toutiao.com/trending/7577245940038258219/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时34分]"
-        },
-        {
           "title": "特朗普称将对委内瑞拉展开地面行动",
           "url": "https://www.toutiao.com/trending/7577565560364338698/",
           "source": "今日头条",
@@ -843,19 +902,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时52分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时34分]"
         },
         {
           "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
@@ -1164,8 +1210,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 17时27分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
