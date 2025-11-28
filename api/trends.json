@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-28T14:38:24.016982+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-11-28T15:24:58.767787+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时24分]"
+        },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
           "url": "https://www.cls.cn/detail/2213001",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
-          "url": "https://www.zhihu.com/question/1977462001522450495",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -52,11 +52,12 @@
             2,
             21,
             28,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时24分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -81,8 +82,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时38分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时24分]"
+        },
+        {
+          "title": "DeepSeek开启无限进化新时代",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -105,19 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "DeepSeek开启无限进化新时代",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时38分]"
         },
         {
           "title": "加拿大总理与艾伯塔省省长达成协议，将取消联邦对油气行业的碳排放上限，同时强化工业碳定价及碳封存措施。",
@@ -306,6 +307,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "法国：坚定不移奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7577002030909165062/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时24分]"
+        },
+        {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
           "url": "https://flash.jin10.com/detail/20251128052114993800",
           "source": "金十数据",
@@ -316,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时24分]"
         },
         {
           "title": "交易员称芝商所大宗商品期货交易暂停",
@@ -364,6 +388,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时34分]"
+        },
+        {
+          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3011904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时24分]"
         },
         {
           "title": "英国央行货币政策委员格林：全球最突出的风险来自市场。",
@@ -450,17 +486,6 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
-          "title": "法国：坚定不移奉行一个中国政策",
-          "url": "https://www.toutiao.com/trending/7577002030909165062/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-11-28）",
           "url": "https://flash.jin10.com/detail/20251128130117117800",
           "source": "金十数据",
@@ -470,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "中企将在埃及投资建设大型磷化工项目，总投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3011964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -494,17 +530,6 @@
           "time_info": "06时23分"
         },
         {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
           "url": "https://flash.jin10.com/detail/20251128095923576800",
           "source": "金十数据",
@@ -516,15 +541,15 @@
           "time_info": "11时15分"
         },
         {
-          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3011904",
-          "source": "华尔街见闻-快讯",
+          "title": "哈萨克斯坦央行将政策利率维持在18%，符合市场预期。",
+          "url": "https://flash.jin10.com/detail/20251128150021708800",
+          "source": "金十数据",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "15时24分"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -536,6 +561,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "野村证券：将利用OpenAI的战略和技术支持开发新服务。",
+          "url": "https://flash.jin10.com/detail/20251128145150536800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "野村证券：启动与OpenAI的战略合作。",
+          "url": "https://flash.jin10.com/detail/20251128144813905800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "现房销售制度改革提速 多地谋划现房销售支持政策",
@@ -711,11 +758,38 @@
             5,
             12,
             15,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时24分]"
+        },
+        {
+          "title": "中方回应特朗普要求高市降低声调",
+          "url": "https://www.douyin.com/hot/2319515",
+          "source": "抖音",
+          "ranks": [
+            6,
+            10,
+            17,
+            22,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时52分 ~ 14时38分]"
+          "time_info": "[09时52分 ~ 15时24分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -743,17 +817,6 @@
           "time_info": "[09时52分 ~ 14时38分]"
         },
         {
-          "title": "特朗普称将暂停“第三世界国家”移民",
-          "url": "https://www.toutiao.com/trending/7577245940038258219/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "特朗普称将对委内瑞拉展开地面行动",
           "url": "https://www.toutiao.com/trending/7577565560364338698/",
           "source": "今日头条",
@@ -765,20 +828,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时52分 ~ 12时31分]"
-        },
-        {
-          "title": "中方回应特朗普要求高市降低声调",
-          "url": "https://www.douyin.com/hot/2319515",
-          "source": "抖音",
-          "ranks": [
-            6,
-            10,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时38分]"
         },
         {
           "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
@@ -830,6 +879,18 @@
           "time_info": "[03时19分 ~ 06时23分]"
         },
         {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普：将永久停止所有“第三世界”国家的移民",
           "url": "https://wallstreetcn.com/livenews/3011877",
           "source": "华尔街见闻-快讯",
@@ -865,24 +926,13 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
           "url": "https://flash.jin10.com/detail/20251128133301169800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -915,7 +965,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -1058,6 +1108,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金午盘价为948.34元/克，较国际金价(952.27元/克)，低3.93元/克",
+          "url": "https://flash.jin10.com/detail/20251128150250068800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251128105205543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -1070,8 +1148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 15时24分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -1083,23 +1161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251128105205543800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
         }
       ]
     }
