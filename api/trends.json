@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:31:35.866688+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-11-29T17:24:41.715848+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -314,11 +314,12 @@
             12,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时24分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -501,6 +502,17 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 17时24分]"
+        },
+        {
           "title": "天风证券接证监会立案告知书，事关原股东资金占用，立案意味着什么？",
           "url": "https://www.cls.cn/detail/2214333",
           "source": "财联社热门",
@@ -510,30 +522,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时30分 ~ 12时29分]"
-        },
-        {
-          "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
-          "url": "https://wallstreetcn.com/articles/3760330",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 16时31分]"
-        },
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时22分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -547,8 +535,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 17时24分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时22分]"
         },
         {
           "title": "工信部：加快推出针对性政策举措 依法依规治理动力和储能电池产业非理性竞争",
@@ -568,11 +569,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时24分]"
         },
         {
           "title": "伊朗外长与欧盟外交与安全政策高级代表卡拉斯讨论了伊朗与欧盟的关系、地区和国际形势。",
@@ -642,8 +644,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时24分]"
         },
         {
           "title": "金价",
