@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T13:25:29.167880+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-11-30T14:36:58.684237+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 14时36分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -167,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
@@ -221,11 +233,12 @@
             4,
             3,
             2,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时36分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -234,11 +247,12 @@
           "ranks": [
             5,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时36分]"
         },
         {
           "title": "硬刚封存政策!禁毒官媒怒销账号",
@@ -249,8 +263,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时36分]"
         },
         {
           "title": "消息人士：欧佩克+周日将维持暂停增产的政策不变",
@@ -258,11 +272,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时36分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -293,25 +308,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股反弹了，但年底大涨也不用指望？",
-          "url": "https://wallstreetcn.com/articles/3760368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
@@ -326,6 +324,34 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 12时40分]"
+        },
+        {
+          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
+          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股反弹了，但年底大涨也不用指望？",
+          "url": "https://wallstreetcn.com/articles/3760368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     }
