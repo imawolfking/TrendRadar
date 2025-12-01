@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T20:53:55.868882+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2025-12-01T21:39:35.277987+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -125,6 +125,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "巴西央行行长Galipolo：当前美元在全球范围内的走势，更多地与货币政策而非对冲策略相关。",
+          "url": "https://flash.jin10.com/detail/20251201212402516800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "多位专家认为财政货币政策空间充足 “十五五”时期经济增长蕴含多重机遇",
           "url": "https://wallstreetcn.com/livenews/3012585",
           "source": "华尔街见闻-快讯",
@@ -134,6 +145,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
+          "url": "https://flash.jin10.com/detail/20251201212133290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 21时39分]"
         },
         {
           "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
@@ -159,18 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时28分 ~ 16时37分]"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 20时53分]"
         },
         {
           "title": "领益智造：发行H股备案申请材料获中国证监会接收。",
@@ -221,6 +243,18 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时39分]"
+        },
+        {
           "title": "日本央行行长植田和男：推迟加息太久可能会导致严重的通货膨胀，迫使我们快速调整政策。",
           "url": "https://flash.jin10.com/detail/20251201132248836800",
           "source": "金十数据",
@@ -257,6 +291,17 @@
           "time_info": "[18时31分 ~ 19时23分]"
         },
         {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时39分]"
+        },
+        {
           "title": "中国免签政策在全球赢得更多回响",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E5%9C%A8%E5%85%A8%E7%90%83%E8%B5%A2%E5%BE%97%E6%9B%B4%E5%A4%9A%E5%9B%9E%E5%93%8D",
           "source": "百度热搜",
@@ -268,17 +313,6 @@
           "time_info": "[18时30分 ~ 18时31分]"
         },
         {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "日本央行行长植田和男：将密切关注外汇汇率的走势。 汇率可能成为推升通胀的一个因素。 汇率必须反映基本面，至关重要。 日元疲软会推高消费者通胀。 在引导货币政策时必须注意，汇率波动会影响通胀预期和潜在通胀。",
           "url": "https://wallstreetcn.com/livenews/3012709",
           "source": "华尔街见闻-快讯",
@@ -288,6 +322,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "开源最强，逼平闭源顶流！DeepSeek发布V3.2系列模型，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
+          "url": "https://flash.jin10.com/detail/20251201211507412800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "日本央行行长植田和男：美国关税正在挤压制造商的利润，但目前尚未看到其对资本支出（CAPEX）产生显著广泛的抑制影响。 民间消费具有韧性但家庭因物价上涨而感到痛苦，因此必须密切关注动向。 制定货币政策时的关键，在于“工资与物价同步上涨”的机制能否持续。",
@@ -334,15 +390,15 @@
           "time_info": "17时34分"
         },
         {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
+          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013078",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时39分"
         },
         {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-12-01）",
@@ -378,6 +434,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
+          "url": "https://flash.jin10.com/detail/20251201210253983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "日本央行行长植田和男：汇率可能是个推高通胀的因素。 需要关注外汇影响价格走势的风险。日元疲软可能通过抬高进口成本而提振通胀。 与首相和各位大臣进行了坦诚、良好的交流，并将继续与政府保持密切沟通。 存在各种不确定性。 关税影响的不确定性已经消退。 不会详细说明与首相和大臣们讨论的内容。 希望在12月根据工资信息以及其他数据作出政策决定。 过久推迟加息可能导致通胀急剧上升，并迫使我们迅速调整政策。 政府积极的财政政策与日本央行调整货币支持的组合，将有助于实现可持续的经济增长路径。 我们此前关注的不确定性–包括美国关税影响和美国经济前景–与几个月前相比已显著缓解。",
           "url": "https://wallstreetcn.com/livenews/3012808",
           "source": "华尔街见闻-快讯",
@@ -398,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
+          "url": "https://flash.jin10.com/detail/20251201205933747800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel（内格尔）：欧洲央行目前的政策总体上是中性的。预测表明，目前的利率处于良好水平。",
@@ -439,7 +517,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -453,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "日本央行12月加息概率升至64% 植田和男预示政策重大调整",
@@ -505,8 +594,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[10时13分 ~ 21时39分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -536,6 +625,29 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.douyin.com/hot/2322761",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时39分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-01）",
           "url": "https://flash.jin10.com/detail/20251201181724483800",
           "source": "金十数据",
@@ -547,18 +659,6 @@
           "time_info": "18时31分"
         },
         {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 20时53分]"
-        },
-        {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
           "url": "https://flash.jin10.com/detail/20251201112823735800",
           "source": "金十数据",
@@ -568,17 +668,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.douyin.com/hot/2322761",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -909,7 +998,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
@@ -922,6 +1011,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时53分]"
+        },
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时39分]"
         },
         {
           "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
@@ -959,15 +1060,15 @@
           "time_info": "07时23分"
         },
         {
-          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "21时39分"
         },
         {
           "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
@@ -979,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "新思科技美股盘前股价大涨8%，英伟达向其投资20亿美元。",
+          "url": "https://flash.jin10.com/detail/20251201210402506800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
