@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T21:39:35.277987+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2025-12-01T22:28:12.216023+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 47,
+      "match_count": 61,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -78,6 +78,18 @@
           "time_info": "[00时29分 ~ 05时21分]"
         },
         {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时30分 ~ 22时28分]"
+        },
+        {
           "title": "东鹏饮料：发行境外上市股份（H股）获得中国证监会备案，公司拟发行不超过66,446,000股境外上市普通股并在香港联合交易所上市。",
           "url": "https://wallstreetcn.com/livenews/3012515",
           "source": "华尔街见闻-快讯",
@@ -125,15 +137,15 @@
           "time_info": "10时13分"
         },
         {
-          "title": "巴西央行行长Galipolo：当前美元在全球范围内的走势，更多地与货币政策而非对冲策略相关。",
-          "url": "https://flash.jin10.com/detail/20251201212402516800",
+          "title": "欧盟外交与安全政策高级代表卡拉斯：如果我们想要长久的和平，就需要了解战争的起点。",
+          "url": "https://flash.jin10.com/detail/20251201215140790800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时28分"
         },
         {
           "title": "多位专家认为财政货币政策空间充足 “十五五”时期经济增长蕴含多重机遇",
@@ -145,29 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
-          "url": "https://flash.jin10.com/detail/20251201212133290800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时30分 ~ 21时39分]"
         },
         {
           "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
@@ -183,6 +172,19 @@
           "time_info": "[15时28分 ~ 18时31分]"
         },
         {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时28分]"
+        },
+        {
           "title": "日本内阁官房长官木原稔：货币政策属于日本央行的职权范围。",
           "url": "https://wallstreetcn.com/livenews/3012875",
           "source": "华尔街见闻-快讯",
@@ -193,6 +195,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时28分 ~ 16时37分]"
+        },
+        {
+          "title": "巴西央行行长Galipolo：当前美元在全球范围内的走势，更多地与货币政策而非对冲策略相关。",
+          "url": "https://flash.jin10.com/detail/20251201212402516800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
+        {
+          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
+          "url": "https://flash.jin10.com/detail/20251201212133290800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时28分]"
         },
         {
           "title": "领益智造：发行H股备案申请材料获中国证监会接收。",
@@ -231,6 +257,30 @@
           "time_info": "[14时40分 ~ 15时28分]"
         },
         {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时28分]"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
+        {
           "title": "俄学者：日本外交政策存在严重问题",
           "url": "https://www.toutiao.com/trending/7577901684924366899/",
           "source": "今日头条",
@@ -243,16 +293,15 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时39分]"
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "日本央行行长植田和男：推迟加息太久可能会导致严重的通货膨胀，迫使我们快速调整政策。",
@@ -279,6 +328,18 @@
           "time_info": "[13时33分 ~ 14时40分]"
         },
         {
+          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
+        {
           "title": "东鹏饮料获中国证监会批准在香港上市。（IFR国际金融评论）",
           "url": "https://wallstreetcn.com/livenews/3012972",
           "source": "华尔街见闻-快讯",
@@ -291,15 +352,15 @@
           "time_info": "[18时31分 ~ 19时23分]"
         },
         {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
+          "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
+          "url": "https://www.cls.cn/detail/2215915",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时39分]"
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "中国免签政策在全球赢得更多回响",
@@ -311,6 +372,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：我担心所有的压力都将施加于受害者身上，乌克兰将不得不做出妥协。这不符合任何人的利益，包括乌克兰和欧盟的利益。",
+          "url": "https://flash.jin10.com/detail/20251201215033307800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "日本央行行长植田和男：将密切关注外汇汇率的走势。 汇率可能成为推升通胀的一个因素。 汇率必须反映基本面，至关重要。 日元疲软会推高消费者通胀。 在引导货币政策时必须注意，汇率波动会影响通胀预期和潜在通胀。",
@@ -330,7 +402,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -341,9 +413,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：我们需要让俄罗斯处于必须谈判的境地，但他们目前并不处于这种境地。",
+          "url": "https://flash.jin10.com/detail/20251201214206612800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "日本央行行长植田和男：美国关税正在挤压制造商的利润，但目前尚未看到其对资本支出（CAPEX）产生显著广泛的抑制影响。 民间消费具有韧性但家庭因物价上涨而感到痛苦，因此必须密切关注动向。 制定货币政策时的关键，在于“工资与物价同步上涨”的机制能否持续。",
@@ -368,6 +451,17 @@
           "time_info": "13时33分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：俄罗斯已经明确表示他们对和平没有兴趣。",
+          "url": "https://flash.jin10.com/detail/20251201214111094800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "日本央行行长植田和男：希望在我们将利率提高至0.75%后，再进一步阐述未来加息路径。 很难说离中性利率还有多远。 政府刺激方案中包含的物价抑制措施将有助于推动整体CPI下降。 政府方案中的其他措施可能会推动经济增长，并在理论上推高基础通胀，但目前难以判断幅度。 日本央行并未踩刹车，而是通过调整踩油门的力度来调整货币宽松力度。 政策调整过晚可能导致非常高的通胀风险。",
           "url": "https://wallstreetcn.com/livenews/3012814",
           "source": "华尔街见闻-快讯",
@@ -390,17 +484,6 @@
           "time_info": "17时34分"
         },
         {
-          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-12-01）",
           "url": "https://flash.jin10.com/detail/20251201143706053800",
           "source": "金十数据",
@@ -410,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：乌克兰弹药援助计划尚未达到目标。",
+          "url": "https://flash.jin10.com/detail/20251201214027588800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "A股电池板块盘初活跃，天华新能涨超10%，德赛电池、星源材质、海科新源、西藏城投、藏格矿业等涨超5%，工信部11月28日组织召开动力和储能电池行业制造业企业座谈会，工信部部长李乐成指出，加快推出针对性政策举措，依法依规治理动力和储能电池产业非理性竞争。",
@@ -440,7 +534,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -454,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：现在帮助乌克兰的成本比让这场战争继续下去的情况下要便宜得多。",
+          "url": "https://flash.jin10.com/detail/20251201213736652800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：本周或成外交关键一周。",
@@ -473,9 +578,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：我并不轻视比利时对赔偿问题的担忧。",
+          "url": "https://flash.jin10.com/detail/20251201213555071800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel（内格尔）：欧洲央行目前的政策总体上是中性的。预测表明，目前的利率处于良好水平。",
@@ -500,6 +616,28 @@
           "time_info": "16时37分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：基于俄罗斯被冻结资产的拟议赔偿贷款将强化欧洲在与莫斯科打交道时的立场。",
+          "url": "https://flash.jin10.com/detail/20251201213540085800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：俄罗斯应对其对乌克兰造成的损害进行赔偿。",
+          "url": "https://flash.jin10.com/detail/20251201213257666800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "天风证券低开近9％，公司因涉嫌信息披露违法违规、违法提供融资被证监会立案。",
           "url": "https://wallstreetcn.com/livenews/3012672",
           "source": "华尔街见闻-快讯",
@@ -522,6 +660,28 @@
           "time_info": "20时53分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：能够随时随地调动部队至关重要。",
+          "url": "https://flash.jin10.com/detail/20251201213240985800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：普京不太可能长期遵守任何协议。",
+          "url": "https://flash.jin10.com/detail/20251201213226461800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "日本首相高市早苗：加强稀土供应链建设。 稳定的国际秩序正受到严重动摇。 目标是吸引公共与私人投资。 工资改善与生产率提升推动了名义经济增长。 将密切关注利率走势，据此实施财政政策。",
           "url": "https://wallstreetcn.com/livenews/3012724",
           "source": "华尔街见闻-快讯",
@@ -533,15 +693,15 @@
           "time_info": "12时13分"
         },
         {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
+          "title": "欧盟外交与安全政策高级代表卡拉斯：乌克兰的自由之路不应因腐败调查而蒙上阴影。",
+          "url": "https://flash.jin10.com/detail/20251201213213130800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时28分"
         },
         {
           "title": "日本央行12月加息概率升至64% 植田和男预示政策重大调整",
@@ -558,7 +718,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "“特朗普交易”遭重创",
@@ -594,8 +754,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时13分 ~ 21时39分]"
+          "appearance_count": 14,
+          "time_info": "[10时13分 ~ 22时28分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -633,19 +793,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时28分]"
         },
         {
           "title": "特朗普：已选定下任美联储主席",
           "url": "https://www.douyin.com/hot/2322761",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时28分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-01）",
@@ -657,6 +818,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美国上诉法院维持原判，取消美国总统特朗普盟友阿丽娜·哈巴担任新泽西州代理联邦检察官的资格。",
+          "url": "https://flash.jin10.com/detail/20251201215649190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "特朗普将于周一晚就针对委内瑞拉的下一步行动举行会议。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3013095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -907,6 +1090,50 @@
           "time_info": "[14时40分 ~ 15时28分]"
         },
         {
+          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
+          "title": "特朗普对马杜罗下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
+          "title": "美媒：特朗普拟召开国安团队会议 商讨对委内瑞拉“下一步行动”",
+          "url": "https://flash.jin10.com/detail/20251201214829785800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将在椭圆形办公室就委内瑞拉问题举行会议。",
+          "url": "https://flash.jin10.com/detail/20251201214102164800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
           "url": "https://flash.jin10.com/detail/20251201054410581800",
           "source": "金十数据",
@@ -998,8 +1225,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
         {
           "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3013007",
@@ -1011,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时53分]"
+        },
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
@@ -1060,15 +1310,15 @@
           "time_info": "07时23分"
         },
         {
-          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2216342",
-          "source": "财联社热门",
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201214154979800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时28分"
         },
         {
           "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
@@ -1088,7 +1338,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         }
@@ -1160,6 +1410,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率升至盘中高位；10年期收益率逼近4.06%。",
+          "url": "https://flash.jin10.com/detail/20251201213622180800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     }
