@@ -1,29 +1,30 @@
 {
-  "generated_at": "2025-12-01T07:23:24.972717+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2025-12-01T10:13:54.787194+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时13分]"
+        },
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
           "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -186,6 +187,61 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很可能”达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
           "url": "https://flash.jin10.com/detail/20251201054410581800",
           "source": "金十数据",
@@ -203,7 +259,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -236,7 +292,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -247,15 +303,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -265,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -274,22 +341,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -300,7 +357,19 @@
             28,
             22,
             23,
-            21
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 10时13分]"
+        },
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -332,13 +401,35 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "大宗商品贸易商贡渥集团（Gunvor）已经就投资美国石油和天然气生产资产进行了积极的谈判，这可能会在贡渥集团竞购 、受制裁的俄罗斯大型卢克石油公司（Lukoil）国外资产的事件之后缓和与特朗普政府的关系。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3012715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：工资与物价同步上涨的机制能否持续，是实施货币政策的关键。",
+          "url": "https://flash.jin10.com/detail/20251201100036667800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "多位专家认为财政货币政策空间充足 “十五五”时期经济增长蕴含多重机遇",
           "url": "https://wallstreetcn.com/livenews/3012585",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -353,6 +444,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "日本央行行长植田和男：将密切关注外汇汇率的走势。 汇率可能成为推升通胀的一个因素。 汇率必须反映基本面，至关重要。 日元疲软会推高消费者通胀。 在引导货币政策时必须注意，汇率波动会影响通胀预期和潜在通胀。",
+          "url": "https://wallstreetcn.com/livenews/3012709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：美国关税正在挤压制造商的利润，但目前尚未看到其对资本支出（CAPEX）产生显著广泛的抑制影响。 民间消费具有韧性但家庭因物价上涨而感到痛苦，因此必须密切关注动向。 制定货币政策时的关键，在于“工资与物价同步上涨”的机制能否持续。",
+          "url": "https://wallstreetcn.com/livenews/3012704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股电池板块盘初活跃，天华新能涨超10%，德赛电池、星源材质、海科新源、西藏城投、藏格矿业等涨超5%，工信部11月28日组织召开动力和储能电池行业制造业企业座谈会，工信部部长李乐成指出，加快推出针对性政策举措，依法依规治理动力和储能电池产业非理性竞争。",
+          "url": "https://wallstreetcn.com/livenews/3012697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "天风证券低开近9％，公司因涉嫌信息披露违法违规、违法提供融资被证监会立案。",
+          "url": "https://wallstreetcn.com/livenews/3012672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "日本央行12月加息概率升至64% 植田和男预示政策重大调整",
+          "url": "https://flash.jin10.com/detail/20251201093615720800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
@@ -380,7 +526,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -391,7 +537,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
@@ -408,7 +554,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
