@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T11:24:05.759678+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-12-02T12:35:13.293148+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,23 @@
             15,
             16,
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 11时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 12时35分]"
+        },
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 12时35分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -56,7 +68,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -67,7 +79,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时21分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 11时24分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
@@ -305,7 +306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -390,7 +391,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -401,11 +402,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 11时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 12时35分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -417,8 +419,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 11时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 12时35分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -436,6 +438,28 @@
           "time_info": "[00时35分 ~ 06时24分]"
         },
         {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 12时35分]"
+        },
+        {
+          "title": "蓝佛安：发挥积极财政政策作用",
+          "url": "https://www.cls.cn/detail/2216509",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 12时35分]"
+        },
+        {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
           "url": "https://wallstreetcn.com/articles/3760440",
           "source": "华尔街见闻",
@@ -445,8 +469,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 11时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 12时35分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -461,38 +485,75 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 11时24分]"
-        },
-        {
-          "title": "蓝佛安：发挥积极财政政策作用",
-          "url": "https://www.cls.cn/detail/2216509",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 11时24分]"
-        },
-        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
             5,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 12时35分]"
+        },
+        {
+          "title": "支持台胞开设沙县小吃门店等 福建发布12条惠台政策措施",
+          "url": "https://www.cls.cn/detail/2216852",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 11时24分]"
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
+          "url": "https://www.cls.cn/detail/2216587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 12时35分]"
+        },
+        {
+          "title": "DeepSeek新模型追平Gemini",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 12时35分]"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "国民技术股份有限公司境外发行上市材料获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3013461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "美国白宫：9月2日打击事件后，并未就幸存者政策的调整作出决定。",
@@ -521,30 +582,6 @@
           "time_info": "[04时26分 ~ 06时24分]"
         },
         {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 11时24分]"
-        },
-        {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时00分 ~ 11时24分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3013217",
           "source": "华尔街见闻-快讯",
@@ -555,6 +592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时24分]"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 12时35分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -583,17 +631,6 @@
           "time_info": "[00时35分 ~ 02时41分]"
         },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
           "title": "新西兰联储主席布雷曼：货币政策决策由一个思想多元化的委员会作出时效果更佳。",
           "url": "https://flash.jin10.com/detail/20251202053153455800",
           "source": "金十数据",
@@ -616,6 +653,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "优地机器人（无锡）股份有限公司境外发行上市计划获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3013460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -701,7 +749,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -709,7 +757,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -744,8 +792,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 11时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -856,6 +904,17 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "美股市场全线杀跌发生了什么",
+          "url": "https://www.toutiao.com/trending/7579051553873481270/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251202050552225800",
           "source": "金十数据",
@@ -908,7 +967,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
