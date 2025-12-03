@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T13:25:29.303655+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2025-12-03T14:39:27.714717+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时39分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时39分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -63,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时39分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -74,11 +75,12 @@
             13,
             6,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 14时39分]"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -870,7 +872,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -897,6 +899,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
           "url": "https://flash.jin10.com/detail/20251203003259046800",
           "source": "金十数据",
@@ -911,7 +924,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -964,6 +977,18 @@
           "time_info": "[00时36分 ~ 07时35分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时39分]"
+        },
+        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -1011,18 +1036,6 @@
           "time_info": "[00时36分 ~ 07时35分]"
         },
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时25分]"
-        },
-        {
           "title": "腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？",
           "url": "https://www.zhihu.com/question/1979307864435684578",
           "source": "知乎",
@@ -1031,8 +1044,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时39分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1046,6 +1059,17 @@
           "time_info": "[02时39分 ~ 05时24分]"
         },
         {
+          "title": "柬埔寨将对中国公民试行免签政策",
+          "url": "https://news.ifeng.com/c/8omCf4HNbUG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时39分]"
+        },
+        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -1057,27 +1081,28 @@
           "time_info": "00时36分"
         },
         {
-          "title": "柬埔寨将对中国公民试行免签政策",
-          "url": "https://news.ifeng.com/c/8omCf4HNbUG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时25分]"
-        },
-        {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
           "url": "https://www.cls.cn/detail/2218001",
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 14时39分]"
+        },
+        {
+          "title": "柬埔寨明年将对中国公民试行免签政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32093083",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时33分 ~ 13时25分]"
+          "time_info": "[12时33分 ~ 14时39分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -1113,17 +1138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 09时56分]"
-        },
-        {
-          "title": "柬埔寨明年将对中国公民试行免签政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32093083",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "澳洲联储主席Bullock：顽固的通胀将影响到未来的政策路径。",
@@ -1192,6 +1206,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203140421903800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3013807",
           "source": "华尔街见闻-快讯",
@@ -1239,8 +1264,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 14时39分]"
+        },
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时35分 ~ 13时25分]"
+          "time_info": "[09时56分 ~ 14时39分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1253,18 +1290,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时39分 ~ 09时56分]"
-        },
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时25分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
