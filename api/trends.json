@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T11:22:47.332183+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2025-12-03T12:34:06.315939+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -37,20 +37,47 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时34分]"
         },
         {
           "title": "特朗普“点名”日本",
           "url": "https://www.toutiao.com/trending/7579444252149763593/",
           "source": "今日头条",
           "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时34分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时34分]"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时34分]"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -63,19 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 11时22分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时22分]"
         },
         {
           "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
@@ -234,6 +236,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时34分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -527,18 +542,6 @@
           "time_info": "[03时47分 ~ 04时31分]"
         },
         {
-          "title": "特朗普宣布拜登时期文件全部作废",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时22分]"
-        },
-        {
           "title": "美国总统特朗普：我和埃隆（马斯克）相处得很好。",
           "url": "https://flash.jin10.com/detail/20251203024857172800",
           "source": "金十数据",
@@ -657,7 +660,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -789,7 +792,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -896,7 +899,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -996,6 +999,29 @@
           "time_info": "[00时36分 ~ 07时35分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时34分]"
+        },
+        {
+          "title": "腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？",
+          "url": "https://www.zhihu.com/question/1979307864435684578",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时34分]"
+        },
+        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -1007,28 +1033,6 @@
           "time_info": "[02时39分 ~ 05时24分]"
         },
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时22分]"
-        },
-        {
-          "title": "腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？",
-          "url": "https://www.zhihu.com/question/1979307864435684578",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -1038,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "柬埔寨将对中国公民试行免签政策",
+          "url": "https://news.ifeng.com/c/8omCf4HNbUG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时34分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -1052,15 +1067,16 @@
           "time_info": "[00时36分 ~ 01时27分]"
         },
         {
-          "title": "柬埔寨将对中国公民试行免签政策",
-          "url": "https://news.ifeng.com/c/8omCf4HNbUG",
-          "source": "凤凰网",
+          "title": "柬埔寨明年将对中国公民试行免签政策",
+          "url": "https://wallstreetcn.com/livenews/3014114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时22分]"
+          "time_info": "[11时22分 ~ 12时34分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -1074,6 +1090,28 @@
           "time_info": "[07时35分 ~ 09时56分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "柬埔寨明年将对中国公民试行免签政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32093083",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "澳洲联储主席Bullock：顽固的通胀将影响到未来的政策路径。",
           "url": "https://wallstreetcn.com/livenews/3013954",
           "source": "华尔街见闻-快讯",
@@ -1083,17 +1121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "柬埔寨明年将对中国公民试行免签政策",
-          "url": "https://wallstreetcn.com/livenews/3014114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "澳洲联储主席布洛克：如果事实证明通胀更加持久，将对政策产生更广泛的影响。",
@@ -1113,7 +1140,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1221,19 +1248,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 11时22分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时34分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时34分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
@@ -1375,7 +1403,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
@@ -1412,6 +1440,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "美元指数DXY短线回落十余点，现报99.38。",
           "url": "https://flash.jin10.com/detail/20251202233719223800",
           "source": "金十数据",
@@ -1437,8 +1476,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
           "url": "https://flash.jin10.com/detail/20251203101800307800",
@@ -1446,9 +1496,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗议长：美国将自身要求强加于伊朗",
+          "url": "https://wallstreetcn.com/livenews/3014131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     }
