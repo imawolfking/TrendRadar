@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:31:11.655638+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2025-12-04T18:30:55.894245+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -62,6 +62,21 @@
           "time_info": "[00时36分 ~ 12时35分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 18时30分]"
+        },
+        {
           "title": "中方回应特朗普签署涉台法案",
           "url": "https://www.douyin.com/hot/2325113",
           "source": "抖音",
@@ -74,19 +89,16 @@
           "time_info": "[01时27分 ~ 17时31分]"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            17,
-            18,
-            15,
-            11
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时30分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -112,18 +124,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时26分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "债券投资者们针对哈塞特出任美联储主席的可能性警告美国财政部。 他们担心，哈塞特将为了取悦美国总统特朗普而降息。 11月份，财长贝森特掌管的财政部曾集中征求意见。（英国金融时报）",
@@ -508,6 +508,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：刚刚与美国总统特朗普会面，讨论了出口管制问题，支持出口管制。",
           "url": "https://flash.jin10.com/detail/20251204030517175800",
           "source": "金十数据",
@@ -572,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国民主党人就特朗普宴会厅捐款事宜向公司施压",
+          "url": "https://flash.jin10.com/detail/20251204180302250800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -709,7 +731,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "潘功胜：构建科学稳健的货币政策体系和覆盖全面的宏观审慎管理体系",
@@ -749,8 +771,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 18时30分]"
+        },
+        {
+          "title": "首个省级个人消费贷贴息政策落地，四川拔得头筹，成都银行官宣加入贴息机构",
+          "url": "https://www.cls.cn/detail/2219230",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 18时30分]"
         },
         {
           "title": "柬埔寨明年将对中国公民试行免签政策",
@@ -798,36 +835,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 17时31分]"
-        },
-        {
-          "title": "首个省级个人消费贷贴息政策落地，四川拔得头筹，成都银行官宣加入贴息机构",
-          "url": "https://www.cls.cn/detail/2219230",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 17时31分]"
-        },
-        {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时30分]"
         },
         {
           "title": "潘功胜人民日报撰文：构建科学稳健的货币政策体系和覆盖全面的宏观审慎管理体系",
@@ -838,8 +851,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 18时30分]"
         },
         {
           "title": "潘功胜：构建科学稳健的货币政策体系",
@@ -851,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "欧盟对Meta在WhatsApp上的AI政策展开反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251204182458744800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "分析师：央行政策周期不同步 债券收益率分化将持续至2026年",
@@ -875,6 +899,18 @@
           "time_info": "09时57分"
         },
         {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时30分]"
+        },
+        {
           "title": "潘功胜：要把握好货币政策的力度、时机和节奏",
           "url": "https://flash.jin10.com/detail/20251204070006493800",
           "source": "金十数据",
@@ -897,6 +933,18 @@
           "time_info": "09时57分"
         },
         {
+          "title": "年末车市订单遭“疯抢”：主机厂加码促销政策、近20品牌推购置税“兜底”",
+          "url": "https://www.cls.cn/detail/2219418",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时30分]"
+        },
+        {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
           "url": "https://wallstreetcn.com/livenews/3014555",
           "source": "华尔街见闻-快讯",
@@ -907,18 +955,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "年末车市订单遭“疯抢”：主机厂加码促销政策、近20品牌推购置税“兜底”",
-          "url": "https://www.cls.cn/detail/2219418",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
@@ -934,6 +970,17 @@
           "time_info": "[01时27分 ~ 03时22分]"
         },
         {
+          "title": "大湾区政策红利发放？谣言",
+          "url": "https://www.toutiao.com/trending/7579926443241721394/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 18时30分]"
+        },
+        {
           "title": "航运价格飙升467% 因大宗商品供应线路被扰乱",
           "url": "https://wallstreetcn.com/livenews/3015050",
           "source": "华尔街见闻-快讯",
@@ -944,17 +991,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
-        },
-        {
-          "title": "大湾区政策红利发放？谣言",
-          "url": "https://www.toutiao.com/trending/7579926443241721394/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
