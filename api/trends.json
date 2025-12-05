@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T14:39:40.967999+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-12-05T15:27:01.469546+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -42,11 +42,12 @@
             9,
             12,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 14时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 15时27分]"
         },
         {
           "title": "政策协同显身手 经济活力持续释放",
@@ -107,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时39分]"
+        },
+        {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -183,7 +195,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -219,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "印度央行行长：将管理好体系流动性总量，以确保货币政策传导机制有效运行。",
+          "url": "https://flash.jin10.com/detail/20251205150738038800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "拳头将在 S16 赛季新增「分路任务」并移除换线检测惩罚，你觉得新政策能根治职业赛场的换线战术吗？",
@@ -588,7 +611,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -801,8 +824,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 15时27分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -817,8 +840,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 14时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 15时27分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -854,6 +877,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金午盘价为955.9元/克，较国际金价(960.01元/克)，低4.11元/克",
+          "url": "https://flash.jin10.com/detail/20251205150237767800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
+          "url": "https://flash.jin10.com/detail/20251205101748828800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
+          "url": "https://flash.jin10.com/detail/20251204234446522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
         }
       ]
     },
@@ -934,37 +996,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
-          "url": "https://flash.jin10.com/detail/20251205101748828800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
-          "url": "https://flash.jin10.com/detail/20251204234446522800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时27分]"
         }
       ]
     }
