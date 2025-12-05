@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T15:27:01.469546+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-05T16:34:48.679590+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -61,6 +61,17 @@
           "time_info": "[00时37分 ~ 13时26分]"
         },
         {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "吴清：稳步扩大资本市场高水平制度型开放",
           "url": "https://wallstreetcn.com/livenews/3015390",
           "source": "华尔街见闻-快讯",
@@ -98,6 +109,18 @@
           "time_info": "[02时40分 ~ 04时30分]"
         },
         {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时34分]"
+        },
+        {
           "title": "印度10年期基准国债收益率下跌4BP，报6.4581%，政策公布前为6.5%。",
           "url": "https://wallstreetcn.com/livenews/3015609",
           "source": "华尔街见闻-快讯",
@@ -108,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时39分]"
-        },
-        {
-          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
-          "url": "https://www.cls.cn/detail/2220406",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -239,9 +251,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "河南省信阳市优化住房公积金使用政策，个人贷款额度上浮10％",
+          "url": "https://wallstreetcn.com/livenews/3015739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "分析师：PCE数据将直接重塑美联储的货币政策路径",
+          "url": "https://flash.jin10.com/detail/20251205160003188800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "拳头将在 S16 赛季新增「分路任务」并移除换线检测惩罚，你觉得新政策能根治职业赛场的换线战术吗？",
@@ -824,8 +858,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 16时34分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -840,8 +874,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 15时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 16时34分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -891,7 +925,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -994,11 +1028,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时34分]"
         }
       ]
     }
