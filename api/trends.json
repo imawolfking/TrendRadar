@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T09:58:14.403664+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2025-12-05T11:25:12.743751+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
@@ -253,13 +253,24 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
+          "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251205103316073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
           "url": "https://flash.jin10.com/detail/20251205085517265800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -267,20 +278,8 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "实测欧洲版Deepseek水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 09时58分]"
-        },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
           "url": "https://wallstreetcn.com/articles/3760676",
@@ -295,6 +294,19 @@
           "time_info": "[00时37分 ~ 07时24分]"
         },
         {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 11时25分]"
+        },
+        {
           "title": "政策协同显身手 经济活力持续释放",
           "url": "https://www.toutiao.com/trending/7579720616832663593/",
           "source": "今日头条",
@@ -302,8 +314,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 09时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 11时25分]"
         },
         {
           "title": "吴清：提高资本市场制度的包容性适应性",
@@ -313,8 +325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 11时25分]"
         },
         {
           "title": "吴清：稳步扩大资本市场高水平制度型开放",
@@ -406,7 +418,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -466,6 +478,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "国家数据局局长赴上海市调研数据要素市场化价值化工作",
+          "url": "https://wallstreetcn.com/livenews/3015506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "叙利亚央行行长：重点一直放在稳定货币、货币政策上。",
           "url": "https://flash.jin10.com/detail/20251204234426915800",
           "source": "金十数据",
@@ -475,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
+          "url": "https://wallstreetcn.com/livenews/3015505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "苹果宣布：总法律顾问兼政策主管离职",
@@ -508,6 +542,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 06时23分]"
+        },
+        {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 11时25分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -573,18 +619,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时30分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时58分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
@@ -698,19 +732,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 09时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 11时25分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 11时25分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -792,8 +827,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
+          "url": "https://flash.jin10.com/detail/20251205101748828800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
         {
           "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
           "url": "https://flash.jin10.com/detail/20251204234446522800",
@@ -809,7 +855,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
@@ -822,6 +868,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时30分]"
+        },
+        {
+          "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         }
       ]
     }
