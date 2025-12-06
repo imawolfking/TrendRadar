@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T19:20:19.331272+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2025-12-06T20:47:27.986625+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -24,6 +24,18 @@
           "time_info": "[09时51分 ~ 18时24分]"
         },
         {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普警告高市早苗别插手台海",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时28分 ~ 14时35分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -103,17 +103,6 @@
           "time_info": "[11时14分 ~ 15时23分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
-          "url": "https://flash.jin10.com/detail/20251206183915607800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
           "url": "https://flash.jin10.com/detail/20251206125008162800",
           "source": "金十数据",
@@ -137,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
+          "url": "https://news.ifeng.com/c/8oro24DPoQo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -278,6 +278,18 @@
           "time_info": "[04时29分 ~ 07时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
+          "url": "https://flash.jin10.com/detail/20251206183915607800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
           "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
           "url": "https://flash.jin10.com/detail/20251206085353161800",
           "source": "金十数据",
@@ -328,6 +340,19 @@
           "time_info": "[02时35分 ~ 05时23分]"
         },
         {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时47分]"
+        },
+        {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
           "url": "https://flash.jin10.com/detail/20251206004830012800",
           "source": "金十数据",
@@ -367,17 +392,15 @@
           "time_info": "[02时35分 ~ 04时29分]"
         },
         {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
           "ranks": [
-            16,
-            28,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时20分]"
+          "time_info": "[18时24分 ~ 20时47分]"
         },
         {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
@@ -464,6 +487,17 @@
           "time_info": "[01时24分 ~ 02时35分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
           "title": "白宫记者团：美国总统特朗普会见墨西哥和加拿大的领导人。",
           "url": "https://wallstreetcn.com/livenews/3016132",
           "source": "华尔街见闻-快讯",
@@ -512,17 +546,6 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
-        },
-        {
           "title": "特朗普：我早就说乌克兰无牌可打",
           "url": "https://www.toutiao.com/trending/7579903122953797695/",
           "source": "今日头条",
@@ -556,17 +579,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -581,7 +593,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
@@ -592,8 +604,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时51分 ~ 20时47分]"
         },
         {
           "title": "证监会：对市值管理、现金分红、股份回购等作出明确要求 推动上市公司提升投资价值、增强回报投资者意识",
@@ -618,8 +630,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 20时47分]"
         },
         {
           "title": "何立峰与美财长贝森特等人视频通话",
@@ -637,8 +649,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 19时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 20时47分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -652,8 +664,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 20时47分]"
         },
         {
           "title": "何立峰与美财长贝森特等人视频通话",
@@ -676,6 +688,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时23分]"
+        },
+        {
+          "title": "土耳其外交部长：以色列在叙利亚的“破坏稳定政策”是阻碍实现团结努力的主要问题。",
+          "url": "https://flash.jin10.com/detail/20251206201407907800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "吴清出席中国证券业协会第八次会员大会：深化市场改革 证券业肩负四大使命",
@@ -804,6 +827,17 @@
           "time_info": "[07时23分 ~ 09时51分]"
         },
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时47分]"
+        },
+        {
           "title": "ChatGPT产品负责人回应广告传闻",
           "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
@@ -851,17 +885,6 @@
             6,
             12,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时20分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1012,6 +1035,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
+          "url": "https://wallstreetcn.com/articles/3760844",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "吴清：证券公司要强化四方面使命担当",
           "url": "https://wallstreetcn.com/livenews/3016248",
           "source": "华尔街见闻-快讯",
@@ -1043,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.toutiao.com/trending/7580666656759398438/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
@@ -1059,8 +1104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时51分 ~ 20时47分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -1073,8 +1118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 19时20分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 20时47分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -1088,8 +1133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 19时20分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 20时47分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
