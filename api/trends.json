@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:20:58.407448+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-12-07T02:33:17.994715+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,40 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
           "title": "吴清的一次重要讲话！明确这些改革方向",
           "url": "https://www.cls.cn/detail/2221822",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
@@ -48,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
@@ -59,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "证监会主席吴清：适度打开优质券商资本空间和杠杆限制 加密资产等看不清的业务坚决不做！",
@@ -70,8 +73,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "土耳其外交部长：以色列在叙利亚的“破坏稳定政策”是阻碍实现团结努力的主要问题。",
+          "url": "https://flash.jin10.com/detail/20251206201407907800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.toutiao.com/trending/7580666656759398438/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -84,28 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
-          "title": "土耳其外交部长：以色列在叙利亚的“破坏稳定政策”是阻碍实现团结努力的主要问题。",
-          "url": "https://flash.jin10.com/detail/20251206201407907800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
-          "title": "证监会主席吴清最新发声",
-          "url": "https://www.toutiao.com/trending/7580666656759398438/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
         }
       ]
     },
@@ -122,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -133,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -144,8 +148,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -155,8 +159,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -172,8 +176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -183,8 +187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     }
