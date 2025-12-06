@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:23:06.477945+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-06T16:31:26.131987+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             22,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 16时31分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -59,17 +60,6 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
           "url": "https://flash.jin10.com/detail/20251206105234128800",
           "source": "金十数据",
@@ -100,6 +90,32 @@
           "time_info": "[11时14分 ~ 15时23分]"
         },
         {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时31分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
           "url": "https://flash.jin10.com/detail/20251206022018049800",
           "source": "金十数据",
@@ -124,19 +140,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时14分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -520,7 +523,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 16,
+      "match_count": 32,
       "titles": [
         {
           "title": "【早报】险资入市再获松绑！股市望迎千亿资金；事关市值管理、现金分红等，证监会征求意见",
@@ -531,8 +534,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 16时31分]"
         },
         {
           "title": "证监会：对市值管理、现金分红、股份回购等作出明确要求 推动上市公司提升投资价值、增强回报投资者意识",
@@ -562,8 +565,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 15时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 16时31分]"
         },
         {
           "title": "何立峰与美财长贝森特等人视频通话",
@@ -585,8 +588,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 16时31分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 16时31分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -600,29 +617,59 @@
           "time_info": "[04时29分 ~ 07时23分]"
         },
         {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 15时23分]"
-        },
-        {
-          "title": "吴清出席中国证券业协会第八次会员大会：深化市场改革 证券业肩负四大使命",
-          "url": "https://flash.jin10.com/detail/20251206151159616800",
-          "source": "金十数据",
+          "title": "吴清：对于加密资产等新业态要审慎对待，看不清管不住的坚决不展业",
+          "url": "https://wallstreetcn.com/livenews/3016267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：证券行业要更好服务实体经济和新质生产力",
+          "url": "https://flash.jin10.com/detail/20251206153115972800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：A股实现了量的合理增长和质的有效提升",
+          "url": "https://flash.jin10.com/detail/20251206152347399800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "证监会主席吴清：行业机构要重视声誉管理和企业文化建设",
+          "url": "https://wallstreetcn.com/livenews/3016264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "证监会主席吴清：证券行业要摒弃简单的拼规模、比增速、争排名 把重心聚焦到高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3016263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -634,6 +681,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时23分]"
+        },
+        {
+          "title": "吴清出席中国证券业协会第八次会员大会：深化市场改革 证券业肩负四大使命",
+          "url": "https://flash.jin10.com/detail/20251206151159616800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时31分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -711,6 +770,17 @@
           "time_info": "[01时24分 ~ 02时35分]"
         },
         {
+          "title": "吴清：对少数问题券商要依法从严监管",
+          "url": "https://wallstreetcn.com/livenews/3016262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
           "url": "https://wallstreetcn.com/livenews/3016148",
           "source": "华尔街见闻-快讯",
@@ -720,6 +790,116 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "证监会主席吴清：对优质机构适度打开资本空间和杠杆限制 对中小券商、外资券商在探索实施差异化监管",
+          "url": "https://wallstreetcn.com/livenews/3016260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "证监会主席吴清：坚决防范股东违规干预经营 坚决出清不适格的股东",
+          "url": "https://wallstreetcn.com/livenews/3016256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：证券公司要扛起“看门人”责任 从把好IPO的入口关到全程护航",
+          "url": "https://wallstreetcn.com/livenews/3016255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "证监会主席吴清： 投资银行要提升财富管理服务能力 加快健全以投资者回报为核心的评价体系",
+          "url": "https://wallstreetcn.com/livenews/3016253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：证券公司要提供有利于长期投资、价值投资的产品",
+          "url": "https://wallstreetcn.com/livenews/3016251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "证监会主席吴清：发挥首席经济学家和行业机构分析研究专长 讲好中国股市叙事",
+          "url": "https://wallstreetcn.com/livenews/3016250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：证券行业要更好服务实体经济和新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3016249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：证券公司要强化四方面使命担当",
+          "url": "https://wallstreetcn.com/livenews/3016248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：不断提升证券行业的适应性和竞争力",
+          "url": "https://wallstreetcn.com/livenews/3016247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "吴清：A股实现了量的合理增长和质的有效提升",
+          "url": "https://wallstreetcn.com/livenews/3016246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
@@ -736,8 +916,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 15时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 16时31分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -749,8 +929,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 15时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 16时31分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -764,8 +944,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 15时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 16时31分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
