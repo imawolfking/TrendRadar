@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T00:29:01.891958+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-08T01:20:46.677894+08:00",
+  "total_titles_processed": 336,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "【早报】吴清发声！对优质机构适当“松绑”；基金经理薪酬改革征求意见，强化薪酬与业绩绑定",
-          "url": "https://www.cls.cn/detail/2221857",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "【金十数据整理：周日重要消息汇总】 国内新闻： <span class=\"section-news\">1. 北京大兴机场年旅客吞吐量首次突破5000万人次。</span> <span class=\"section-news\">2. 2025医保药品目录公布：新增药品114种，50种为1类创新药。</span> <span class=\"section-news\">3. 辽宁舰正常训练遭日机滋扰，中国海军严正要求日方停止污蔑抹黑。</span> <span class=\"section-news\">4. 百度：正就分拆昆仑芯进行上市进行评估，并不保证分拆及上市将会进行。</span> <span class=\"section-news\">5. 中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉。</span> <span class=\"section-news\">6. 中国央行：中国11月末黄金储备报7412万盎司，环比增加3万盎司，为连续第13个月增持黄金。</span> <span class=\"section-news\">7. 五粮液回应核心单品价格降至900元每瓶：第八代五粮液出厂价并未调整，市场所传“降价”，实为公司相关补贴支持政策落地后的价格变化。</span> 国际新闻： <span class=\"section-news\">1. 瑞银拟在2027年前再削减万名职位。</span> <span class=\"section-news\">2. 泽连斯基：本周俄向乌发射超1600架无人机。</span> <span class=\"section-news\">3. 以色列总理内塔尼亚胡拒绝退出政坛换取赦免。</span> <span class=\"section-news\">4. 尼日利亚外长：尼寻求成为金砖国家正式成员。</span> <span class=\"section-news\">5. 泰柬边境再发冲突，泰称两人受伤，柬称未还击。</span> <span class=\"section-news\">6. 消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。</span>",
@@ -47,9 +36,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "【早报】吴清发声！对优质机构适当“松绑”；基金经理薪酬改革征求意见，强化薪酬与业绩绑定",
+          "url": "https://www.cls.cn/detail/2221857",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "吴清主席提出券商可适度加杠杆，为何成为振奋市场的消息？",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -70,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "中信建投：茅台批价寻底，关注潜在政策催化下的跨年机会",
@@ -80,9 +81,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "法国总统马克龙：货币政策应考虑就业和经济增长。",
@@ -91,9 +92,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     },
@@ -106,11 +107,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -119,9 +121,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
@@ -130,9 +132,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
@@ -141,9 +143,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时20分]"
         }
       ]
     }
