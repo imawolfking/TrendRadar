@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:31:05.320647+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-12-07T17:24:20.997214+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -91,11 +91,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 17时24分]"
         },
         {
           "title": "证监会主席吴清最新发声",
@@ -125,6 +126,18 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时24分]"
+        },
+        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -136,27 +149,16 @@
           "time_info": "[03时19分 ~ 07时23分]"
         },
         {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时31分]"
-        },
-        {
           "title": "吴清主席提出券商可适度加杠杆，为何成为振奋市场的消息？",
           "url": "https://www.cls.cn/detail/2221941",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时24分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -244,11 +246,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 17时24分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -273,11 +276,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时24分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
