@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T17:34:48.108158+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-12-08T18:30:55.448966+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -38,11 +38,12 @@
             16,
             17,
             18,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时37分 ~ 18时30分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -102,6 +103,17 @@
           "time_info": "11时38分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
+          "url": "https://flash.jin10.com/detail/20251208180135739800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "特朗普长子：特朗普或退出乌和平进程",
           "url": "https://www.toutiao.com/trending/7581096689352572934/",
           "source": "今日头条",
@@ -159,6 +171,29 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时30分]"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时30分]"
+        },
+        {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
           "url": "https://flash.jin10.com/detail/20251208041940775800",
           "source": "金十数据",
@@ -185,28 +220,6 @@
           "time_info": "[05时20分 ~ 07时22分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时34分]"
-        },
-        {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时34分]"
-        },
-        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -229,6 +242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3016887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时30分]"
         },
         {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
@@ -276,15 +301,15 @@
           "time_info": "09时58分"
         },
         {
-          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
-          "url": "https://wallstreetcn.com/livenews/3016887",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：Netflix收购华纳面临反垄断压力 特朗普言论引发担忧",
+          "url": "https://flash.jin10.com/detail/20251208174011180800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时34分"
+          "time_info": "18时30分"
         },
         {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
@@ -323,7 +348,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -371,6 +396,22 @@
           "time_info": "[00时28分 ~ 09时58分]"
         },
         {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 18时30分]"
+        },
+        {
           "title": "【早报】吴清发声！对优质机构适当“松绑”；基金经理薪酬改革征求意见，强化薪酬与业绩绑定",
           "url": "https://www.cls.cn/detail/2221857",
           "source": "财联社热门",
@@ -393,24 +434,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 17时34分]"
-        },
-        {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时38分 ~ 17时34分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 18时30分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -484,6 +509,18 @@
           "time_info": "[00时29分 ~ 04时27分]"
         },
         {
+          "title": "吴清主席强调推进国际化，中资券商金融出海正呈现何种格局？",
+          "url": "https://www.cls.cn/detail/2222860",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时30分]"
+        },
+        {
           "title": "日本财务大臣片山皋月：难以判断财政政策对收益率的影响。",
           "url": "https://wallstreetcn.com/livenews/3016759",
           "source": "华尔街见闻-快讯",
@@ -543,6 +580,17 @@
           "time_info": "[11时38分 ~ 12时38分]"
         },
         {
+          "title": "纽约梅隆：本周美联储将鹰式降息 点阵图料显露政策裂痕",
+          "url": "https://flash.jin10.com/detail/20251208175033730800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：对市场押注下一步政策动作为加息“感到安心”。",
           "url": "https://flash.jin10.com/detail/20251208140443811800",
           "source": "金十数据",
@@ -563,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "吴清主席强调推进国际化，中资券商金融出海正呈现何种格局？",
-          "url": "https://www.cls.cn/detail/2222860",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "明年财政政策前瞻：赤字率约4%，新增政府债务超12万亿",
@@ -612,7 +649,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "欧莱雅将所持高德美股份增持至20%。",
@@ -631,11 +668,12 @@
           "url": "https://wallstreetcn.com/livenews/3016884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时30分]"
         },
         {
           "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
@@ -644,9 +682,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "摩根大通：美联储降息后美股涨势可能停滞",
+          "url": "https://wallstreetcn.com/livenews/3016901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
@@ -674,8 +723,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时30分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在阿塞拜疆首都巴库会见阿塞拜疆总统阿利耶夫。",
