@@ -1,11 +1,414 @@
 {
-  "generated_at": "2025-12-08T19:24:46.591208+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2025-12-08T20:53:45.531757+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
+          "url": "https://www.cls.cn/detail/2221983",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 09时58分]"
+        },
+        {
+          "title": "吴清的一次重要讲话！明确这些改革方向",
+          "url": "https://www.cls.cn/detail/2221822",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】吴清：券商可适度加杠杆；2025医保药品目录公布；公募绩效考核管理指引征求意见",
+          "url": "https://www.cls.cn/detail/2222139",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 15时29分]"
+        },
+        {
+          "title": "吴清主席提出券商可适度加杠杆，为何成为振奋市场的消息？",
+          "url": "https://www.cls.cn/detail/2221941",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 09时58分]"
+        },
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 18时30分]"
+        },
+        {
+          "title": "【早报】吴清发声！对优质机构适当“松绑”；基金经理薪酬改革征求意见，强化薪酬与业绩绑定",
+          "url": "https://www.cls.cn/detail/2221857",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "证监会主席的表态，“适当松绑”对券商意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3760882",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 20时53分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16,
+            17,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时29分]"
+        },
+        {
+          "title": "【金十数据整理：周日重要消息汇总】 国内新闻： <span class=\"section-news\">1. 北京大兴机场年旅客吞吐量首次突破5000万人次。</span> <span class=\"section-news\">2. 2025医保药品目录公布：新增药品114种，50种为1类创新药。</span> <span class=\"section-news\">3. 辽宁舰正常训练遭日机滋扰，中国海军严正要求日方停止污蔑抹黑。</span> <span class=\"section-news\">4. 百度：正就分拆昆仑芯进行上市进行评估，并不保证分拆及上市将会进行。</span> <span class=\"section-news\">5. 中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉。</span> <span class=\"section-news\">6. 中国央行：中国11月末黄金储备报7412万盎司，环比增加3万盎司，为连续第13个月增持黄金。</span> <span class=\"section-news\">7. 五粮液回应核心单品价格降至900元每瓶：第八代五粮液出厂价并未调整，市场所传“降价”，实为公司相关补贴支持政策落地后的价格变化。</span> 国际新闻： <span class=\"section-news\">1. 瑞银拟在2027年前再削减万名职位。</span> <span class=\"section-news\">2. 泽连斯基：本周俄向乌发射超1600架无人机。</span> <span class=\"section-news\">3. 以色列总理内塔尼亚胡拒绝退出政坛换取赦免。</span> <span class=\"section-news\">4. 尼日利亚外长：尼寻求成为金砖国家正式成员。</span> <span class=\"section-news\">5. 泰柬边境再发冲突，泰称两人受伤，柬称未还击。</span> <span class=\"section-news\">6. 消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。</span>",
+          "url": "https://flash.jin10.com/detail/20251207230000001800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "法国总统马克龙呼吁欧洲央行重新思考货币政策方针",
+          "url": "https://wallstreetcn.com/livenews/3016439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            6,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时33分 ~ 07时22分]"
+        },
+        {
+          "title": "中信建投：茅台批价寻底，关注潜在政策催化下的跨年机会",
+          "url": "https://wallstreetcn.com/livenews/3016416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22,
+            24,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：围绕小幅通胀偏差过度设计政策，将带来不必要的政策不确定性。",
+          "url": "https://flash.jin10.com/detail/20251208190056686800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "清洁能源公司NextEra Energy与谷歌宣布合作，开发多个数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3016989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "法国总统马克龙：货币政策应考虑就业和经济增长。",
+          "url": "https://flash.jin10.com/detail/20251207190606127800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时27分]"
+        },
+        {
+          "title": "证监会召开立法联系点工作座谈会",
+          "url": "https://wallstreetcn.com/livenews/3016968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时53分]"
+        },
+        {
+          "title": "中央定调明年经济政策",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时53分]"
+        },
+        {
+          "title": "吴清主席强调推进国际化，中资券商金融出海正呈现何种格局？",
+          "url": "https://www.cls.cn/detail/2222860",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时53分]"
+        },
+        {
+          "title": "中央政治局会议释放几大政策信号",
+          "url": "https://www.toutiao.com/trending/7581411854824508938/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时53分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：难以判断财政政策对收益率的影响。",
+          "url": "https://wallstreetcn.com/livenews/3016759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时29分]"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：对市场押注下一次政策动作为加息感觉“不错”。 欧洲央行可以容忍利率偏离2%目标的适度波动。 短期内不太可能调整利率，近期不会有任何变化。 经济增长和通胀风险均偏向上升方向。 自上次预测以来，经济前景已有所恶化。 欧洲央行的运营框架审查可能不会在2026年结束。 资产负债表缩表进程正在顺利推进。",
+          "url": "https://wallstreetcn.com/livenews/3016755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时29分]"
+        },
+        {
+          "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
+          "url": "https://www.cls.cn/detail/2222180",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
+          "url": "https://flash.jin10.com/detail/20251208040048349800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时23分]"
+        },
+        {
+          "title": "1-11月我国主要大宗商品进口价格下跌",
+          "url": "https://wallstreetcn.com/livenews/3016661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时38分]"
+        },
+        {
+          "title": "纽约梅隆：本周美联储将鹰式降息 点阵图料显露政策裂痕",
+          "url": "https://flash.jin10.com/detail/20251208175033730800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：对市场押注下一步政策动作为加息“感到安心”。",
+          "url": "https://flash.jin10.com/detail/20251208140443811800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "明年财政政策前瞻：赤字率约4%，新增政府债务超12万亿",
+          "url": "https://wallstreetcn.com/livenews/3016777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "以色列央行会议纪要：11月24日，以色列货币政策委员会全体4名委员一致投票决定将基准利率下调25个基点至4.25%。（外媒更正：非“6名”）",
+          "url": "https://flash.jin10.com/detail/20251208195043795800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "中共中央政治局会议：继续实施更加积极的财政政策和适度宽松的货币政策",
+          "url": "https://wallstreetcn.com/livenews/3016733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "欧盟外交及安全政策高级代表：美国仍是最大盟友，欧洲应更加自信",
+          "url": "https://wallstreetcn.com/livenews/3016539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -40,11 +443,12 @@
             18,
             10,
             21,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时37分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时37分 ~ 20时53分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -104,6 +508,29 @@
           "time_info": "11时38分"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208180135739800",
           "source": "金十数据",
@@ -125,18 +552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 12时38分]"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -313,6 +728,17 @@
           "time_info": "18时30分"
         },
         {
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
           "url": "https://flash.jin10.com/detail/20251208091017126800",
           "source": "金十数据",
@@ -352,354 +778,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
-          "url": "https://www.cls.cn/detail/2221983",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时58分]"
-        },
-        {
-          "title": "吴清的一次重要讲话！明确这些改革方向",
-          "url": "https://www.cls.cn/detail/2221822",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "【早报】吴清：券商可适度加杠杆；2025医保药品目录公布；公募绩效考核管理指引征求意见",
-          "url": "https://www.cls.cn/detail/2222139",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 15时29分]"
-        },
-        {
-          "title": "吴清主席提出券商可适度加杠杆，为何成为振奋市场的消息？",
-          "url": "https://www.cls.cn/detail/2221941",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时58分]"
-        },
-        {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 18时30分]"
-        },
-        {
-          "title": "【早报】吴清发声！对优质机构适当“松绑”；基金经理薪酬改革征求意见，强化薪酬与业绩绑定",
-          "url": "https://www.cls.cn/detail/2221857",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "证监会主席的表态，“适当松绑”对券商意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3760882",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时58分 ~ 19时24分]"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16,
-            17,
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时29分]"
-        },
-        {
-          "title": "【金十数据整理：周日重要消息汇总】 国内新闻： <span class=\"section-news\">1. 北京大兴机场年旅客吞吐量首次突破5000万人次。</span> <span class=\"section-news\">2. 2025医保药品目录公布：新增药品114种，50种为1类创新药。</span> <span class=\"section-news\">3. 辽宁舰正常训练遭日机滋扰，中国海军严正要求日方停止污蔑抹黑。</span> <span class=\"section-news\">4. 百度：正就分拆昆仑芯进行上市进行评估，并不保证分拆及上市将会进行。</span> <span class=\"section-news\">5. 中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉。</span> <span class=\"section-news\">6. 中国央行：中国11月末黄金储备报7412万盎司，环比增加3万盎司，为连续第13个月增持黄金。</span> <span class=\"section-news\">7. 五粮液回应核心单品价格降至900元每瓶：第八代五粮液出厂价并未调整，市场所传“降价”，实为公司相关补贴支持政策落地后的价格变化。</span> 国际新闻： <span class=\"section-news\">1. 瑞银拟在2027年前再削减万名职位。</span> <span class=\"section-news\">2. 泽连斯基：本周俄向乌发射超1600架无人机。</span> <span class=\"section-news\">3. 以色列总理内塔尼亚胡拒绝退出政坛换取赦免。</span> <span class=\"section-news\">4. 尼日利亚外长：尼寻求成为金砖国家正式成员。</span> <span class=\"section-news\">5. 泰柬边境再发冲突，泰称两人受伤，柬称未还击。</span> <span class=\"section-news\">6. 消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。</span>",
-          "url": "https://flash.jin10.com/detail/20251207230000001800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "法国总统马克龙呼吁欧洲央行重新思考货币政策方针",
-          "url": "https://wallstreetcn.com/livenews/3016439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            6,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时33分 ~ 07时22分]"
-        },
-        {
-          "title": "中信建投：茅台批价寻底，关注潜在政策催化下的跨年机会",
-          "url": "https://wallstreetcn.com/livenews/3016416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "证监会召开立法联系点工作座谈会",
-          "url": "https://wallstreetcn.com/livenews/3016968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "欧洲央行管委卡兹米尔：围绕小幅通胀偏差过度设计政策，将带来不必要的政策不确定性。",
-          "url": "https://flash.jin10.com/detail/20251208190056686800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "中央定调明年经济政策",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "法国总统马克龙：货币政策应考虑就业和经济增长。",
-          "url": "https://flash.jin10.com/detail/20251207190606127800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时27分]"
-        },
-        {
-          "title": "吴清主席强调推进国际化，中资券商金融出海正呈现何种格局？",
-          "url": "https://www.cls.cn/detail/2222860",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时24分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：难以判断财政政策对收益率的影响。",
-          "url": "https://wallstreetcn.com/livenews/3016759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时29分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：对市场押注下一次政策动作为加息感觉“不错”。 欧洲央行可以容忍利率偏离2%目标的适度波动。 短期内不太可能调整利率，近期不会有任何变化。 经济增长和通胀风险均偏向上升方向。 自上次预测以来，经济前景已有所恶化。 欧洲央行的运营框架审查可能不会在2026年结束。 资产负债表缩表进程正在顺利推进。",
-          "url": "https://wallstreetcn.com/livenews/3016755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时29分]"
-        },
-        {
-          "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
-          "url": "https://www.cls.cn/detail/2222180",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
-          "url": "https://flash.jin10.com/detail/20251208040048349800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时23分]"
-        },
-        {
-          "title": "1-11月我国主要大宗商品进口价格下跌",
-          "url": "https://wallstreetcn.com/livenews/3016661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时38分]"
-        },
-        {
-          "title": "纽约梅隆：本周美联储将鹰式降息 点阵图料显露政策裂痕",
-          "url": "https://flash.jin10.com/detail/20251208175033730800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：对市场押注下一步政策动作为加息“感到安心”。",
-          "url": "https://flash.jin10.com/detail/20251208140443811800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "中央政治局会议释放几大政策信号",
-          "url": "https://www.toutiao.com/trending/7581411854824508938/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
-          "url": "https://wallstreetcn.com/articles/3760862",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "明年财政政策前瞻：赤字率约4%，新增政府债务超12万亿",
-          "url": "https://wallstreetcn.com/livenews/3016777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "中共中央政治局会议：继续实施更加积极的财政政策和适度宽松的货币政策",
-          "url": "https://wallstreetcn.com/livenews/3016733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "欧盟外交及安全政策高级代表：美国仍是最大盟友，欧洲应更加自信",
-          "url": "https://wallstreetcn.com/livenews/3016539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         }
       ]
     },
@@ -714,9 +795,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
+          "url": "https://wallstreetcn.com/livenews/3016963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时53分]"
         },
         {
           "title": "欧莱雅将所持高德美股份增持至20%。",
@@ -741,17 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 18时30分]"
-        },
-        {
-          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
-          "url": "https://wallstreetcn.com/livenews/3016963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
@@ -831,6 +913,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：美联储独立性受质疑将致美债收益率曲线趋陡",
+          "url": "https://flash.jin10.com/detail/20251208194142730800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
