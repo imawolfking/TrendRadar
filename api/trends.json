@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T15:27:32.425561+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-09T16:36:47.660868+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "中央政治局会议定调2026年经济工作：宏观政策更加积极有为，建设强大国内市场",
@@ -16,8 +16,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时38分 ~ 15时27分]"
+          "appearance_count": 15,
+          "time_info": "[02时38分 ~ 16时36分]"
+        },
+        {
+          "title": "为什么化工厂厂区晚上没什么人，却要搞得灯火通明？这不浪费电吗？",
+          "url": "https://www.zhihu.com/question/1976593019789669372",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 16时36分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -47,20 +61,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 09时58分]"
-        },
-        {
-          "title": "为什么化工厂厂区晚上没什么人，却要搞得灯火通明？这不浪费电吗？",
-          "url": "https://www.zhihu.com/question/1976593019789669372",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 15时27分]"
         },
         {
           "title": "吸取负面事件教训，杜绝炫富，吴清主席六大部署直指证券业声誉痛点",
@@ -143,6 +143,19 @@
           "time_info": "[09时58分 ~ 15时27分]"
         },
         {
+          "title": "申万宏源解读政治局会议：政策仍将内需置于核心，更强调“前瞻性针对性协同性”",
+          "url": "https://wallstreetcn.com/articles/3760928",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 16时36分]"
+        },
+        {
           "title": "加拿大政府声明：共识的一个重要要点是，对关键矿物供应链实施非市场政策，包括出口管制。",
           "url": "https://flash.jin10.com/detail/20251209025207993800",
           "source": "金十数据",
@@ -160,7 +173,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -176,19 +189,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "申万宏源解读政治局会议：政策仍将内需置于核心，更强调“前瞻性针对性协同性”",
-          "url": "https://wallstreetcn.com/articles/3760928",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 15时27分]"
-        },
-        {
           "title": "摩根大通经济学家：澳洲联储可能维持利率不变 同时沿用相似的政策指引",
           "url": "https://flash.jin10.com/detail/20251209110720756800",
           "source": "金十数据",
@@ -198,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -406,6 +417,17 @@
           "time_info": "[04时29分 ~ 05时21分]"
         },
         {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "澳洲联储主席布洛克：若数据显示通胀未见放缓，将成为明年2月会议上的政策考虑因素。",
           "url": "https://flash.jin10.com/detail/20251209125743537800",
           "source": "金十数据",
@@ -415,6 +437,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "欧盟将调查谷歌是否违反竞争法",
+          "url": "https://wallstreetcn.com/livenews/3017511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "澳洲联储主席布洛克：美联储的情况与我们不同。我们可以根据国内情况制定货币政策。",
@@ -582,6 +626,17 @@
           "time_info": "13时26分"
         },
         {
+          "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
+          "url": "https://flash.jin10.com/detail/20251209154928270800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "据路透调查：多数经济学家预计，菲律宾央行将于2026年第一季度将关键政策利率下调至4.25%。",
           "url": "https://flash.jin10.com/detail/20251209100525094800",
           "source": "金十数据",
@@ -632,7 +687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -695,8 +750,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时36分]"
+        },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
           "url": "https://news.ifeng.com/c/8ov552jltTT",
@@ -707,19 +776,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时27分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -1022,6 +1078,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时36分]"
+        },
+        {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
           "url": "https://flash.jin10.com/detail/20251209041301695800",
           "source": "金十数据",
@@ -1174,15 +1242,15 @@
           "time_info": "11时25分"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "16时36分"
         },
         {
           "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
@@ -1284,6 +1352,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
+          "url": "https://flash.jin10.com/detail/20251209154623905800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美国总统特朗普：正采取行动保护农民。",
           "url": "https://flash.jin10.com/detail/20251209033225909800",
           "source": "金十数据",
@@ -1293,6 +1372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：对美国国家安全最大的历史性威胁，将是美国最高法院就关税问题作出的不利裁决。届时，我们在经济上将毫无防御能力。",
+          "url": "https://flash.jin10.com/detail/20251209154605581800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -1551,7 +1641,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -1573,7 +1663,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
@@ -1592,8 +1682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 16时36分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
