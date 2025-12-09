@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T07:24:47.975984+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-09T09:58:18.633960+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -23,11 +23,23 @@
           "url": "https://wallstreetcn.com/articles/3760897",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 09时58分]"
+        },
+        {
+          "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
+          "url": "https://flash.jin10.com/detail/20251209092634488800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -39,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普：允许英伟达对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -351,9 +374,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3017264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
@@ -373,7 +407,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -384,9 +418,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府暂停风能许可的决定",
+          "url": "https://flash.jin10.com/detail/20251209084650898800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
+          "url": "https://wallstreetcn.com/livenews/3017247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
@@ -409,6 +465,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普：允许对华出售H200芯片",
+          "url": "https://www.douyin.com/hot/2331063",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
+          "url": "https://wallstreetcn.com/livenews/3017241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
@@ -447,7 +525,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "中央政治局会议定调2026年经济工作：宏观政策更加积极有为，建设强大国内市场",
@@ -458,8 +536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时38分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[02时38分 ~ 09时58分]"
         },
         {
           "title": "中央政治局会议释放几大政策信号",
@@ -471,23 +549,12 @@
             6,
             5,
             20,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
-        },
-        {
-          "title": "证监会主席的表态，“适当松绑”对券商意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3760882",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时58分]"
         },
         {
           "title": "吸取负面事件教训，杜绝炫富，吴清主席六大部署直指证券业声誉痛点",
@@ -496,11 +563,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时58分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -508,7 +576,20 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时58分]"
+        },
+        {
+          "title": "证监会主席的表态，“适当松绑”对券商意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3760882",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -543,9 +624,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -695,6 +787,28 @@
           "time_info": "[04时29分 ~ 05时21分]"
         },
         {
+          "title": "为什么化工厂厂区晚上没什么人，却要搞得灯火通明？这不浪费电吗？",
+          "url": "https://www.zhihu.com/question/1976593019789669372",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "所有商品都将“像黄金一样”！美银Hartnett：做多大宗商品是明年最佳“火热交易”",
+          "url": "https://wallstreetcn.com/articles/3760908",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -704,6 +818,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "欧盟九国表示采取“购买欧洲产品”的产业支持政策需高度谨慎",
+          "url": "https://wallstreetcn.com/livenews/3017229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -731,11 +867,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时58分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -744,9 +881,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时58分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -870,24 +1007,25 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时58分]"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3017185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美股三大指数集体收跌 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -928,8 +1066,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
           "url": "https://wallstreetcn.com/livenews/3017141",
