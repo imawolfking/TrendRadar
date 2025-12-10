@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T03:22:56.774663+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-11T04:31:20.664374+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
@@ -13,11 +13,34 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
+        },
+        {
+          "title": "提醒：美联储主席鲍威尔新闻发布会结束。 FOMC将于2026年1月27-28日举行下一轮货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3018642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：若不必担忧劳动力市场，政策利率本会更高。",
+          "url": "https://flash.jin10.com/detail/20251211040720844800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "期货市场显示，在美联储降息之后，交易员预计到2026年底美联储的政策利率将为3.1%，与决议前定价的水平相比变化不大。",
@@ -26,7 +49,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -48,11 +71,12 @@
           "ranks": [
             30,
             21,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
@@ -83,7 +107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -99,6 +123,50 @@
           "time_info": "01时28分"
         },
         {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
+          "url": "https://wallstreetcn.com/livenews/3018628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3018627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "鲍威尔：未来货币政策没有预设路径",
+          "url": "https://flash.jin10.com/detail/20251211040114342800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：加拿大央行将逐次会议作出决定。将根据我们的展望评估数据。不会为我们的政策设定时间表。",
           "url": "https://flash.jin10.com/detail/20251210235111004800",
           "source": "金十数据",
@@ -108,13 +176,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "鲍威尔：上调GDP增长预期，在一定程度上体现出数据中心的开支。 2026年增长预期在一定程度上上修，体现出美国政府10-11月关门事件结束（的影响）。 基本假设是，经济将在明年稳固增长。 接下来，在1月FOMC货币政策会议之前，能掌握大量数据。 美联储预测体现出更高的生产力，今后好多年、生产力都将结构性地更高。",
+          "url": "https://wallstreetcn.com/livenews/3018615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "高市早苗求见特朗普",
+          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
           "url": "https://flash.jin10.com/detail/20251211005314935800",
@@ -127,6 +217,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
+          "url": "https://flash.jin10.com/detail/20251211040650470800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -136,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
@@ -150,15 +262,15 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
+          "url": "https://flash.jin10.com/detail/20251211040624299800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -170,6 +282,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "高通、戴尔等科技公司的CEO们出席美国总统特朗普在白宫举办的圆桌会议。",
+          "url": "https://wallstreetcn.com/livenews/3018634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
+          "url": "https://wallstreetcn.com/livenews/3018631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "鲍威尔：如果（特朗普政府）不实施新的关税，商品通胀可能会在2026年一季度见顶。 现存关税通胀应当有十分之几。",
+          "url": "https://wallstreetcn.com/livenews/3018626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "英国方面表示，美国总统特朗普与E3领导人认为乌克兰局势正处于“关键时刻”。",
@@ -197,8 +342,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
@@ -207,7 +352,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -225,8 +370,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 04时31分]"
         },
         {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
@@ -235,7 +380,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -252,7 +397,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
