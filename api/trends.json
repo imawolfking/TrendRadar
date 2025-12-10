@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-11T00:34:41.974572+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-11T01:28:34.010874+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
+          "url": "https://flash.jin10.com/detail/20251211005244896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
           "url": "https://news.ifeng.com/c/8oyiP2K56Oz",
@@ -15,8 +26,53 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "俄方：不会对日本好战政策置之不理",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%A5%BD%E6%88%98%E6%94%BF%E7%AD%96%E7%BD%AE%E4%B9%8B%E4%B8%8D%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
+          "url": "https://flash.jin10.com/detail/20251211005231907800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时28分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
+          "url": "https://flash.jin10.com/detail/20251211005056346800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
+          "url": "https://flash.jin10.com/detail/20251211003604206800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：加拿大央行将逐次会议作出决定。将根据我们的展望评估数据。不会为我们的政策设定时间表。",
@@ -28,24 +84,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "俄方：不会对日本好战政策置之不理",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%A5%BD%E6%88%98%E6%94%BF%E7%AD%96%E7%BD%AE%E4%B9%8B%E4%B8%8D%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
+          "url": "https://flash.jin10.com/detail/20251211005314935800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
         {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
@@ -65,8 +121,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
+          "url": "https://flash.jin10.com/detail/20251211004151009800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时28分"
         },
         {
           "title": "英国方面表示，美国总统特朗普与E3领导人认为乌克兰局势正处于“关键时刻”。",
@@ -93,8 +160,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向下触及99，日内跌0.24%。",
+          "url": "https://flash.jin10.com/detail/20251211010203679800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     }
