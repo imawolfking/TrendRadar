@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T18:31:27.289193+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2025-12-11T19:24:33.090933+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,17 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普：被扣押油轮上的石油归美国了",
           "url": "https://www.toutiao.com/trending/7581744403334086710/",
           "source": "今日头条",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -170,6 +170,17 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "“特朗普黄金卡”开始接受申请",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
           "source": "百度热搜",
@@ -203,17 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
@@ -264,6 +264,18 @@
           "time_info": "[04时31分 ~ 05时28分]"
         },
         {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫：美国总统特朗普为解决乌克兰冲突做出了真诚努力。",
           "url": "https://flash.jin10.com/detail/20251211161659991800",
           "source": "金十数据",
@@ -281,7 +293,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -325,7 +337,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -413,7 +425,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -435,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -526,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
@@ -663,7 +664,7 @@
     },
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "绍伊古：俄方不会对日本好战政策置之不理",
@@ -688,11 +689,12 @@
             8,
             6,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 19时24分]"
         },
         {
           "title": "俄方：不会对日本好战政策置之不理",
@@ -708,6 +710,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 06时26分]"
+        },
+        {
+          "title": "中指研究院：明年或落地更多增量政策 加速楼市“止跌回稳”",
+          "url": "https://wallstreetcn.com/livenews/3019193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美联储主席鲍威尔：若不必担忧劳动力市场，政策利率本会更高。",
@@ -752,17 +765,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "英国央行行长贝利：当前政策旨在满足流动性需求。 尚不确定储备的均衡水平。 可能在未来一年左右达到均衡水平。 英国央行不能在自身资产负债表上承担利率风险。 储蓄率显示市场高度谨慎。 英国家庭及企业资产负债表总体稳健。 无人预期稳定币会支付利息。",
-          "url": "https://wallstreetcn.com/livenews/3019171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
@@ -823,6 +825,18 @@
           "time_info": "[06时26分 ~ 07时23分]"
         },
         {
+          "title": "英国央行行长贝利：当前政策旨在满足流动性需求。 尚不确定储备的均衡水平。 可能在未来一年左右达到均衡水平。 英国央行不能在自身资产负债表上承担利率风险。 储蓄率显示市场高度谨慎。 英国家庭及企业资产负债表总体稳健。 无人预期稳定币会支付利息。",
+          "url": "https://wallstreetcn.com/livenews/3019171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "韩国总统李在明：韩国需要在2027年继续维持扩张性财政政策。",
           "url": "https://wallstreetcn.com/livenews/3018946",
           "source": "华尔街见闻-快讯",
@@ -847,6 +861,18 @@
           "time_info": "[11时58分 ~ 12时41分]"
         },
         {
+          "title": "中国农业发展银行原政策研究室主任吴飚接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3019165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
           "url": "https://wallstreetcn.com/livenews/3018677",
           "source": "华尔街见闻-快讯",
@@ -857,6 +883,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
+          "title": "中央经济工作会议：继续实施适度宽松的货币政策 灵活高效运用降准降息等多种政策工具",
+          "url": "https://wallstreetcn.com/livenews/3019143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
@@ -892,15 +941,15 @@
           "time_info": "01时28分"
         },
         {
-          "title": "中国农业发展银行原政策研究室主任吴飚接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3019165",
-          "source": "华尔街见闻-快讯",
+          "title": "土耳其央行：紧缩的货币政策立场将通过需求、汇率和预期渠道，推动通胀回落进程。",
+          "url": "https://flash.jin10.com/detail/20251211190257610800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "19时24分"
         },
         {
           "title": "巴西央行：当前形势充满高度不确定性，货币政策需采取审慎立场。",
@@ -934,6 +983,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "土耳其央行：如果通胀前景与中期目标出现重大偏差，将收紧政策立场。",
+          "url": "https://flash.jin10.com/detail/20251211190144467800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "土耳其央行：紧缩政策将持续至价格稳定。",
+          "url": "https://flash.jin10.com/detail/20251211190133305800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "路透调查：土耳其央行预计将在今年最后一次政策会议上继续下调一周回购利率100个基点，至38.5%。",
@@ -1013,17 +1084,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3018627",
           "source": "华尔街见闻-快讯",
@@ -1033,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "中央经济工作会议：继续实施适度宽松的货币政策 灵活高效运用降准降息等多种政策工具",
-          "url": "https://wallstreetcn.com/livenews/3019143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "三菱日联：美联储明年下半年的政策将因领导层变动而复杂化",
@@ -1063,7 +1112,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1085,7 +1134,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1156,6 +1205,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "中央：灵活运用降准降息等政策工具",
+          "url": "https://www.toutiao.com/trending/7582535090136157739/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "菲律宾央行：国内经济增长前景进一步走弱。预计货币政策宽松周期即将结束。",
           "url": "https://flash.jin10.com/detail/20251211143126322800",
           "source": "金十数据",
@@ -1202,8 +1262,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
