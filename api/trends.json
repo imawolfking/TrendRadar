@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T22:24:17.078972+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2025-12-12T23:29:19.045432+08:00",
+  "total_titles_processed": 2170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 74,
+      "match_count": 78,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -15,11 +15,26 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 22时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时40分 ~ 23时29分]"
+        },
+        {
+          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2228052",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时29分]"
         },
         {
           "title": "专家解读中央经济工作会议: 新增专项债额度有望扩至5万亿 新型政策性金融工具或适时继续推出",
@@ -60,22 +75,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时38分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[12时38分 ~ 23时29分]"
         },
         {
-          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2228052",
-          "source": "财联社热门",
+          "title": "央视解读：2026年房地产政策有四个“新变化”",
+          "url": "https://wallstreetcn.com/articles/3761254",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            8,
             7,
-            3,
-            2,
-            1
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 23时29分]"
         },
         {
           "title": "中央定调明年货币政策",
@@ -94,18 +109,32 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
-          "title": "央视解读：2026年房地产政策有四个“新变化”",
-          "url": "https://wallstreetcn.com/articles/3761254",
-          "source": "华尔街见闻",
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8,
-            7,
-            9
+            15,
+            22,
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时29分]"
+        },
+        {
+          "title": "权威专家详解流动性工具：分四个层次，立体化工具体系已较为完整",
+          "url": "https://www.cls.cn/detail/2228090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时29分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -135,6 +164,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时31分 ~ 06时29分]"
+        },
+        {
+          "title": "证监会开“顶格”罚单",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E2%80%9C%E9%A1%B6%E6%A0%BC%E2%80%9D%E7%BD%9A%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时29分]"
         },
         {
           "title": "美联储施密德：通胀仍然过高 应适度保持限制性货币政策",
@@ -203,19 +244,6 @@
           "time_info": "01时31分"
         },
         {
-          "title": "权威专家详解流动性工具：分四个层次，立体化工具体系已较为完整",
-          "url": "https://www.cls.cn/detail/2228090",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时24分]"
-        },
-        {
           "title": "债券视角看中央经济工作会议，多家机构解读：10年国债利率明年可至1.5%，货币政策实质落地成关键",
           "url": "https://www.cls.cn/detail/2227548",
           "source": "财联社热门",
@@ -228,28 +256,17 @@
           "time_info": "[16时36分 ~ 19时25分]"
         },
         {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "何立峰：2026要严防“爆雷”",
+          "url": "https://wallstreetcn.com/articles/3761279",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            22,
-            20
+            9,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时24分]"
-        },
-        {
-          "title": "证监会开“顶格”罚单",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E2%80%9C%E9%A1%B6%E6%A0%BC%E2%80%9D%E7%BD%9A%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时29分]"
         },
         {
           "title": "央视解读：2026年房地产政策有四个“新变化”",
@@ -263,6 +280,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时28分]"
+        },
+        {
+          "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
+          "url": "https://www.cls.cn/detail/2228342",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时29分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -300,30 +330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时28分]"
-        },
-        {
-          "title": "何立峰：2026要严防“爆雷”",
-          "url": "https://wallstreetcn.com/articles/3761279",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时24分]"
-        },
-        {
-          "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
-          "url": "https://www.cls.cn/detail/2228342",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -537,7 +543,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -570,7 +576,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -685,6 +691,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "美联储哈玛克：倾向更紧缩的立场 当前政策已近中性",
+          "url": "https://flash.jin10.com/detail/20251212225517900800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "OpenAI：正式推出GPT-5.2",
           "url": "https://flash.jin10.com/detail/20251212020101906800",
           "source": "金十数据",
@@ -716,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美联储Hammack：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
+          "url": "https://wallstreetcn.com/livenews/3020034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
@@ -768,7 +796,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -793,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "美联储Hammack：将倾向于一个略微更加具有限制性的政策立场。 当前处于一个中性政策立场的附近。",
+          "url": "https://wallstreetcn.com/livenews/3020028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
@@ -826,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "2026年房地产政策有四个“新变化”",
+          "url": "https://www.toutiao.com/trending/7582949426939825710/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
@@ -875,7 +925,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -906,8 +956,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 22时24分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 23时29分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -947,8 +997,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 23时29分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -959,8 +1009,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 23时29分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -973,6 +1023,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时38分 ~ 15时28分]"
+        },
+        {
+          "title": "泰国总理：美国总统特朗普不太可能将冲突与贸易关税挂钩。",
+          "url": "https://flash.jin10.com/detail/20251212231656213800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3020054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -995,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "泰国总理：我已请求美国总统特朗普敦促柬埔寨停止敌对行动。",
+          "url": "https://flash.jin10.com/detail/20251212231047745800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -1329,6 +1412,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "Tilray Brands Inc.涨40%，媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
+          "url": "https://wallstreetcn.com/livenews/3020048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
           "url": "https://flash.jin10.com/detail/20251212032152670800",
           "source": "金十数据",
@@ -1362,6 +1456,17 @@
           "time_info": "18时29分"
         },
         {
+          "title": "泰国总理：美国总统特朗普担心与柬埔寨交战，希望恢复停火。",
+          "url": "https://flash.jin10.com/detail/20251212230515326800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "据AXIOS网站报道，预计美国高级官员将于周六在巴黎与乌克兰、法国、德国和英国的国家安全顾问会面，讨论特朗普的俄乌和平计划。白宫新闻秘书莱维特称，如果总统认为值得花费时间，美国将于周六派代表团参加在巴黎举行的会谈。",
           "url": "https://flash.jin10.com/detail/20251212032018653800",
           "source": "金十数据",
@@ -1371,6 +1476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "泰国总理：与美国总统特朗普的通话气氛良好。",
+          "url": "https://flash.jin10.com/detail/20251212230459244800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -1530,7 +1646,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -1579,17 +1695,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3020018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251212050631133800",
           "source": "金十数据",
@@ -1600,6 +1705,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3020018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时29分]"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -1662,6 +1779,17 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "全球股市涨幅扩大，科技股拖累美股指期货，铜银续创新高，现货黄金重新站上4300美元",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美股收盘：道指创新高 甲骨文跌超10%",
           "url": "https://flash.jin10.com/detail/20251212050039144800",
           "source": "金十数据",
@@ -1682,6 +1810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，航空业ETF涨超1.4%，科技行业ETF则跌超0.8%，半导体ETF跌超1.5%",
+          "url": "https://wallstreetcn.com/livenews/3020040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -1706,6 +1845,28 @@
           "time_info": "06时29分"
         },
         {
+          "title": "随着银价创下历史新高，美股银矿股股价飙升，恩迪沃银业上涨0.3%，西尔科金属上涨0.6%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251212223502098800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "高盛：看好美股2026市场表现 六大科技公司将贡献近半增长",
+          "url": "https://flash.jin10.com/detail/20251212223434535800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
           "url": "https://wallstreetcn.com/livenews/3019299",
           "source": "华尔街见闻-快讯",
@@ -1715,6 +1876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.2%，标普500指数跌0.17%，纳指跌0.46%。花旗集团(C.N)涨1.3%，摩根大通将其评级从中性上调至超配；博通(AVGO.O)跌超7%，公司称第一财季毛利润率将因AI产品而收缩1%。甲骨文(ORCL.N)下跌1.1%，此前一交易日已下跌近11%。",
+          "url": "https://flash.jin10.com/detail/20251212223022214800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
@@ -1763,6 +1935,59 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周四（12月11日）纽约尾盘，ICE美元指数跌0.45%，报98.348点，日内交投区间为98.763-98.134点，全天处于下跌状态，北京时间14:00-00:00持续走低。 彭博美元指数跌0.23%，报1206.71点，日内交投区间为1211.53-1204.45点。",
+          "url": "https://wallstreetcn.com/livenews/3019395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时28分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，彭博谷物分类指数涨0.34%，报29.8951点。 CBOT玉米期货涨0.56%，CBOT小麦期货涨0.94%。 CBOT大豆期货涨0.18%，报11.03美元/蒲式耳，豆粕期货涨0.23%，豆油期货跌0.56%。 CBOT瘦肉猪期货涨2.06%，活牛期货涨1.06%，饲牛期货涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3019393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时28分]"
+        },
+        {
+          "title": "美元指数11日下跌",
+          "url": "https://flash.jin10.com/detail/20251212053829596800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时25分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨约1%。 热门中概股逸仙电商涨22.6%，金山云涨4.2%，网易涨3%，中通快递、新东方、阿特斯太阳能、再鼎医药涨超2%，百度则跌0.8%，文远知行跌1%，小马智行跌1.1%，Boss直聘跌1.4%。 此外，九紫新能涨30%，该公司将非公开配售规模扩大至10亿美元，希望满足投资者强劲的需求。 ETF中，KWEB涨0.76%，CQQQ涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3020041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1800,48 +2025,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周四（12月11日）纽约尾盘，ICE美元指数跌0.45%，报98.348点，日内交投区间为98.763-98.134点，全天处于下跌状态，北京时间14:00-00:00持续走低。 彭博美元指数跌0.23%，报1206.71点，日内交投区间为1211.53-1204.45点。",
-          "url": "https://wallstreetcn.com/livenews/3019395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时28分]"
-        },
-        {
-          "title": "周四（12月11日）纽约尾盘，彭博谷物分类指数涨0.34%，报29.8951点。 CBOT玉米期货涨0.56%，CBOT小麦期货涨0.94%。 CBOT大豆期货涨0.18%，报11.03美元/蒲式耳，豆粕期货涨0.23%，豆油期货跌0.56%。 CBOT瘦肉猪期货涨2.06%，活牛期货涨1.06%，饲牛期货涨1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3019393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时28分]"
-        },
-        {
-          "title": "美元指数11日下跌",
-          "url": "https://flash.jin10.com/detail/20251212053829596800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时25分]"
         }
       ]
     },
