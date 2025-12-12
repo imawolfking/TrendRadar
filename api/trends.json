@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T21:38:45.035048+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2025-12-12T22:24:17.078972+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时40分 ~ 21时38分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 22时24分]"
         },
         {
           "title": "专家解读中央经济工作会议: 新增专项债额度有望扩至5万亿 新型政策性金融工具或适时继续推出",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时38分 ~ 21时38分]"
+          "appearance_count": 13,
+          "time_info": "[12时38分 ~ 22时24分]"
         },
         {
           "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时38分]"
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时24分]"
         },
         {
           "title": "中央定调明年货币政策",
@@ -100,11 +100,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时24分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -142,7 +143,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -202,6 +203,19 @@
           "time_info": "01时31分"
         },
         {
+          "title": "权威专家详解流动性工具：分四个层次，立体化工具体系已较为完整",
+          "url": "https://www.cls.cn/detail/2228090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时24分]"
+        },
+        {
           "title": "债券视角看中央经济工作会议，多家机构解读：10年国债利率明年可至1.5%，货币政策实质落地成关键",
           "url": "https://www.cls.cn/detail/2227548",
           "source": "财联社热门",
@@ -212,6 +226,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时36分 ~ 19时25分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时24分]"
+        },
+        {
+          "title": "证监会开“顶格”罚单",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E2%80%9C%E9%A1%B6%E6%A0%BC%E2%80%9D%E7%BD%9A%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时24分]"
         },
         {
           "title": "央视解读：2026年房地产政策有四个“新变化”",
@@ -264,39 +302,28 @@
           "time_info": "[12时38分 ~ 13时28分]"
         },
         {
-          "title": "权威专家详解流动性工具：分四个层次，立体化工具体系已较为完整",
-          "url": "https://www.cls.cn/detail/2228090",
+          "title": "何立峰：2026要严防“爆雷”",
+          "url": "https://wallstreetcn.com/articles/3761279",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
+        },
+        {
+          "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
+          "url": "https://www.cls.cn/detail/2228342",
           "source": "财联社热门",
           "ranks": [
-            13,
+            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时38分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时38分]"
-        },
-        {
-          "title": "证监会开“顶格”罚单",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E2%80%9C%E9%A1%B6%E6%A0%BC%E2%80%9D%E7%BD%9A%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时38分]"
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -369,6 +396,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时29分]"
+        },
+        {
+          "title": "富国基金：预计财政与货币政策更加强调提质增效",
+          "url": "https://wallstreetcn.com/livenews/3019986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -459,17 +498,6 @@
           "time_info": "16时36分"
         },
         {
-          "title": "何立峰：2026要严防“爆雷”",
-          "url": "https://wallstreetcn.com/articles/3761279",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "ChatGPT5.2正式发布",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -503,6 +531,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "美联储哈玛克：我倾向于采取略微更具限制性的政策立场。",
+          "url": "https://flash.jin10.com/detail/20251212220504550800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
           "url": "https://wallstreetcn.com/articles/3761169",
           "source": "华尔街见闻",
@@ -525,15 +564,15 @@
           "time_info": "13时28分"
         },
         {
-          "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
-          "url": "https://www.cls.cn/detail/2228342",
-          "source": "财联社热门",
+          "title": "美联储哈玛克：目前美联储的政策正处在中性利率附近。",
+          "url": "https://flash.jin10.com/detail/20251212220442116800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
@@ -611,17 +650,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
-        },
-        {
-          "title": "富国基金：预计财政与货币政策更加强调提质增效",
-          "url": "https://wallstreetcn.com/livenews/3019986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -734,6 +762,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美联储施密德：政策“充其量只是略微具有限制性”。",
+          "url": "https://flash.jin10.com/detail/20251212215317111800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2",
           "url": "https://flash.jin10.com/detail/20251212023829675800",
           "source": "金十数据",
@@ -817,7 +856,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -863,11 +902,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 21时38分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 22时24分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -898,18 +938,6 @@
           "time_info": "[00时37分 ~ 07时25分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 15时28分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
@@ -919,8 +947,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时24分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -931,8 +959,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 22时24分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 15时28分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -1490,7 +1530,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -1537,6 +1577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3020018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
@@ -1844,7 +1895,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
