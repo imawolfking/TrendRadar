@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:29:47.481791+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-12-12T19:25:17.761501+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 19时25分]"
         },
         {
           "title": "专家解读中央经济工作会议: 新增专项债额度有望扩至5万亿 新型政策性金融工具或适时继续推出",
@@ -53,6 +53,17 @@
           "time_info": "[10时01分 ~ 14时40分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 19时25分]"
+        },
+        {
           "title": "中央定调明年货币政策",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83%E6%98%8E%E5%B9%B4%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96",
           "source": "百度热搜",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 18时29分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -142,6 +142,18 @@
           "time_info": "17时31分"
         },
         {
+          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2228052",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 19时25分]"
+        },
+        {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
           "url": "https://flash.jin10.com/detail/20251212171210450800",
           "source": "金十数据",
@@ -162,6 +174,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "债券视角看中央经济工作会议，多家机构解读：10年国债利率明年可至1.5%，货币政策实质落地成关键",
+          "url": "https://www.cls.cn/detail/2227548",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时25分]"
         },
         {
           "title": "央视解读：2026年房地产政策有四个“新变化”",
@@ -214,16 +238,17 @@
           "time_info": "[12时38分 ~ 13时28分]"
         },
         {
-          "title": "债券视角看中央经济工作会议，多家机构解读：10年国债利率明年可至1.5%，货币政策实质落地成关键",
-          "url": "https://www.cls.cn/detail/2227548",
-          "source": "财联社热门",
+          "title": "央视解读：2026年房地产政策有四个“新变化”",
+          "url": "https://wallstreetcn.com/articles/3761254",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -236,18 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "央视解读：2026年房地产政策有四个“新变化”",
-          "url": "https://wallstreetcn.com/articles/3761254",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时29分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -298,6 +311,17 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "权威专家详解流动性工具：分四个层次，立体化工具体系已较为完整",
+          "url": "https://www.cls.cn/detail/2228090",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        },
+        {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3019371",
           "source": "华尔街见闻-快讯",
@@ -308,6 +332,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时29分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
+        },
+        {
+          "title": "证监会开“顶格”罚单",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E2%80%9C%E9%A1%B6%E6%A0%BC%E2%80%9D%E7%BD%9A%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -343,17 +389,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2228052",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
           "url": "https://flash.jin10.com/detail/20251212010242999800",
           "source": "金十数据",
@@ -382,7 +417,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -720,7 +755,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -736,6 +771,23 @@
           "time_info": "[00时37分 ~ 11时40分]"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            4,
+            6,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 19时25分]"
+        },
+        {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
           "url": "https://www.zhihu.com/question/1982382027627073644",
           "source": "知乎",
@@ -746,8 +798,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 19时25分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -763,22 +815,6 @@
           "time_info": "[00时37分 ~ 07时25分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            4,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时27分 ~ 18时29分]"
-        },
-        {
           "title": "白宫：特朗普对俄乌都很失望",
           "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
           "source": "凤凰网",
@@ -789,6 +825,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时38分 ~ 15时28分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时25分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时25分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -933,6 +993,18 @@
           "time_info": "[03时24分 ~ 04时29分]"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时25分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -943,30 +1015,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 02时38分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时29分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "加州州长再批特朗普：最具破坏性总统",
@@ -1076,18 +1124,6 @@
           "time_info": "[03时24分 ~ 04时29分]"
         },
         {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时29分]"
-        },
-        {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
           "url": "https://flash.jin10.com/detail/20251212054106500800",
           "source": "金十数据",
@@ -1147,6 +1183,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251212184015295800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "白宫：特朗普跟中日都能搞好关系",
           "url": "https://www.toutiao.com/trending/7582430336525828123/",
           "source": "今日头条",
@@ -1186,7 +1233,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1219,7 +1266,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1665,8 +1712,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "俄罗斯与伊朗两国总统举行会谈 讨论伊核问题等议题",
+          "url": "https://wallstreetcn.com/livenews/3019890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
         {
           "title": "伊朗外交部谴责美国违背联合国东道国义务",
           "url": "https://flash.jin10.com/detail/20251212141346689800",
