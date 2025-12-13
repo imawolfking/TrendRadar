@@ -1,12 +1,393 @@
 {
-  "generated_at": "2025-12-13T07:25:15.338668+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2025-12-13T09:54:47.359385+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
-      "match_count": 27,
+      "keyword_group": "特朗普",
+      "match_count": 31,
       "titles": [
+        {
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时54分]"
+        },
+        {
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
+          "url": "https://wallstreetcn.com/livenews/3020090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时29分]"
+        },
+        {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 07时25分]"
+        },
+        {
+          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3020133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时25分]"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251213011411174800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时39分]"
+        },
+        {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时54分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3020086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时54分]"
+        },
+        {
+          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
+          "url": "https://flash.jin10.com/detail/20251213021141343800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://wallstreetcn.com/livenews/3020102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 05时23分]"
+        },
+        {
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
+        },
+        {
+          "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
+          "url": "https://wallstreetcn.com/livenews/3020098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
+          "url": "https://flash.jin10.com/detail/20251213000409005800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "美国白宫人工智能和加密货币顾问萨克斯：（特朗普的人工智能行政令）旨在控制相互矛盾的州规则。",
+          "url": "https://flash.jin10.com/detail/20251213005246298800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
+          "url": "https://flash.jin10.com/detail/20251213014451343800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "市场消息：美国白宫人工智能和加密货币顾问萨克斯为特朗普关于人工智能的行政令辩护。",
+          "url": "https://flash.jin10.com/detail/20251213005108572800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：泰国和柬埔寨均已同意重返他们此前与我达成的原始和平协议。",
+          "url": "https://flash.jin10.com/detail/20251213014019397800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
+          "url": "https://flash.jin10.com/detail/20251213013909297800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3020054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
+          "url": "https://flash.jin10.com/detail/20251213040502297800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
+          "url": "https://wallstreetcn.com/livenews/3020048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普称泰柬双方同意停火",
+          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 化工 大宗商品 政策 谷歌 google gemini 何立峰 吴清 证监会 chatgpt openai",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "何立峰：2026要严防“爆雷”",
+          "url": "https://wallstreetcn.com/articles/3761279",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
+        },
         {
           "title": "央行：继续实施适度宽松的货币政策，加快推进金融供给侧结构性改革",
           "url": "https://www.cls.cn/detail/2228342",
@@ -17,19 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "何立峰：2026要严防“爆雷”",
-          "url": "https://wallstreetcn.com/articles/3761279",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
         },
         {
           "title": "权威专家详解流动性工具：分四个层次，立体化工具体系已较为完整",
@@ -52,8 +422,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
         },
         {
           "title": "央视解读：2026年房地产政策有四个“新变化”",
@@ -61,11 +431,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -75,8 +446,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时54分]"
         },
         {
           "title": "2026年房地产政策有四个“新变化”",
@@ -141,6 +512,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "商务部：要大力提振消费，优化消费品以旧换新政策实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32166423",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
           "url": "https://wallstreetcn.com/livenews/3020109",
           "source": "华尔街见闻-快讯",
@@ -167,6 +549,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 04时29分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时54分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -239,17 +633,6 @@
           "time_info": "[00时32分 ~ 01时25分]"
         },
         {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
           "title": "证监会开“顶格”罚单",
           "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E2%80%9C%E9%A1%B6%E6%A0%BC%E2%80%9D%E7%BD%9A%E5%8D%95",
           "source": "百度热搜",
@@ -295,6 +678,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
+          "url": "https://www.cls.cn/detail/2228546",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
           "url": "https://flash.jin10.com/detail/20251212235925421800",
           "source": "金十数据",
@@ -312,7 +706,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -326,293 +720,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普称泰柬同意全面停火",
-          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
-          "url": "https://wallstreetcn.com/livenews/3020161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
-          "url": "https://wallstreetcn.com/livenews/3020160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
-          "url": "https://wallstreetcn.com/livenews/3020090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 04时29分]"
-        },
-        {
-          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
-          "url": "https://flash.jin10.com/detail/20251213022744229800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 07时25分]"
-        },
-        {
-          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3020133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时25分]"
-        },
-        {
-          "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251213011411174800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时39分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3020086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时22分]"
-        },
-        {
-          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
-          "url": "https://flash.jin10.com/detail/20251213021141343800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普称泰柬同意全面停火",
-          "url": "https://wallstreetcn.com/livenews/3020102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 05时23分]"
-        },
-        {
-          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
-          "url": "https://flash.jin10.com/detail/20251213031516659800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时25分]"
-        },
-        {
-          "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
-          "url": "https://wallstreetcn.com/livenews/3020098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            16,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 05时23分]"
-        },
-        {
-          "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
-          "url": "https://flash.jin10.com/detail/20251213000409005800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国白宫人工智能和加密货币顾问萨克斯：（特朗普的人工智能行政令）旨在控制相互矛盾的州规则。",
-          "url": "https://flash.jin10.com/detail/20251213005246298800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
-          "url": "https://flash.jin10.com/detail/20251213014451343800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "市场消息：美国白宫人工智能和加密货币顾问萨克斯为特朗普关于人工智能的行政令辩护。",
-          "url": "https://flash.jin10.com/detail/20251213005108572800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美国总统特朗普：泰国和柬埔寨均已同意重返他们此前与我达成的原始和平协议。",
-          "url": "https://flash.jin10.com/detail/20251213014019397800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
-          "url": "https://flash.jin10.com/detail/20251213013909297800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3020054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
-          "url": "https://wallstreetcn.com/livenews/3020048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
         }
       ]
     },
@@ -632,6 +739,19 @@
           "time_info": "[02时38分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 09时54分]"
+        },
+        {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
           "url": "https://wallstreetcn.com/articles/3761271",
           "source": "华尔街见闻",
@@ -643,28 +763,17 @@
           "time_info": "[00时32分 ~ 01时25分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时25分]"
-        },
-        {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
           "url": "https://wallstreetcn.com/livenews/3020154",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时54分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
@@ -672,11 +781,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时54分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
@@ -745,11 +855,12 @@
           "url": "https://wallstreetcn.com/livenews/3020159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时54分]"
         },
         {
           "title": "美银认为：美联储国库券购买操作或令10年期美债收益率承压",
@@ -835,11 +946,12 @@
           "url": "https://flash.jin10.com/detail/20251213035649501800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 09时54分]"
         }
       ]
     }
